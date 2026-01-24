@@ -1,2 +1,3 @@
 # SumanKAGreatLearningInfo-EducationStudyAssignment10-TourismPackagePrediction
 SumanKAGreatLearningInfo-EducationStudyAssignment10-TourismPackagePrediction
+AcademicLicense/InstitutionalLicense/OrganizationalLicense

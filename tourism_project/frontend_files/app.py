@@ -2,7 +2,7 @@
 import streamlit as st
 import requests
 
-st.title("SuperKart System")
+st.title("Tourism Package Prediction System")
 
 # Input fields for product and store data
 Product_Test = st.number_input("Product Test", min_value=0.0, value=12.66)

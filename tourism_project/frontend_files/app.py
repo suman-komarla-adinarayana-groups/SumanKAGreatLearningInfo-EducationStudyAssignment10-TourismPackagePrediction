@@ -5,7 +5,7 @@ import requests
 st.title("Tourism Package Prediction System")
 
 # Input fields for product and store data
-Product_Test = st.number_input("Product Test", min_value=0.0, value=12.66)
+Product_Test = st.number_input("Sl No", min_value=0.0, value=12.66)
 Product_Sugar_Content = st.selectbox("Product Sugar Content", ["Low Sugar", "Regular", "No Sugar"])
 Product_Allocated_Area = st.number_input("Product Allocated Area", min_value=0.0, value=0.027)
 Product_MRP = st.number_input("Product MRP", min_value=0.0, value=117.08)

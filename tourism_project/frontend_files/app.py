@@ -30,10 +30,10 @@ product_data = {
 }
 
 if st.button("Predict", type='primary'):
-    response = requests.post("https://HarishMaths-SuperKart-API.hf.space/v1/predict", json=product_data)  # Replace <user_name> and <space_name>
+    response = requests.post("https://huggingface.co/spaces/suman-komarla-adinarayana-groups/SumanKAGreatLearningInfo-EducationStudyAssignment10-TourismPackagePredictionAPI/v1/predict", json=product_data)  # Replace <user_name> and <space_name>
     if response.status_code == 200:
         result = response.json()
         predicted_sales = result["Sales"]
-        st.write(f"Predicted Product Store Sales Total: ₹{predicted_sales:.2f}")
+        st.write(f"Predicted Tourism Package Total: ₹{predicted_sales:.2f}")
     else:
         st.error("Error in API request")

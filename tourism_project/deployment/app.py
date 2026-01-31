@@ -1,8 +1,18 @@
-
 import streamlit as st
-import requests
+import pandas as pd
+from huggingface_hub import hf_hub_download
+import joblib
 
-st.title("Tourism Package Prediction System")
+# Download and load the model
+model_path = hf_hub_download(repo_id="suman-komarla-adinarayana-groups/SumanKAGreatLearningInfo-EducationStudyAssignment10-TourismPackagePredictionAPI", filename="tourism_project_huggingface_v1.joblib")
+model = joblib.load(model_path)
+
+# Streamlit UI for Machine Failure Prediction
+st.title("Machine Failure Prediction App")
+st.write("""
+This application predicts the likelihood of a machine failing based on its operational parameters.
+Please enter the sensor and configuration data below to get a prediction.
+""")
 
 # Input fields for product and store data
 Sl_No = st.number_input("Sl_No", min_value=0.0, value=1000000.00)
@@ -28,18 +38,7 @@ Designation	= st.number_input("Designation", min_value=0.0, value=1000000.00)
 MonthlyIncome = st.number_input("MonthlyIncome", min_value=0.0, value=1000000.00)
 
 
-"""
-Product_Test = st.number_input("Product Test", min_value=0.0, value=12.66)
-Product_Sugar_Content = st.selectbox("Product Sugar Content", ["Low Sugar", "Regular", "No Sugar"])
-Product_Allocated_Area = st.number_input("Product Allocated Area", min_value=0.0, value=0.027)
-Product_MRP = st.number_input("Product MRP", min_value=0.0, value=117.08)
-Store_Size = st.selectbox("Store Size", ["Small", "Medium", "High"])
-Store_Location_City_Type = st.selectbox("Store Location City Type", ["Tier 1", "Tier 2", "Tier 3"])
-Store_Type = st.selectbox("Store Type", ["Supermarket Type1", "Supermarket Type2", "Supermarket Type3", "Departmental Store","Food Mart"])
-Product_Id_char = st.selectbox("Product ID Character", ["FD", "DR", "NC"])
-Store_Age_Years = st.number_input("Store Age (Years)", min_value=0, value=16)
-Product_Type_Category = st.selectbox("Product Type Category", ["Perishables", "Non Perishables"])
-"""
+
 product_data = {
     "Sl_No": Sl_No,
     "CustomerID" : CustomerID,
@@ -65,11 +64,10 @@ product_data = {
 
 
 
-if st.button("Predict", type='primary'):
-    response = requests.post("https://huggingface.co/spaces/suman-komarla-adinarayana-groups/SumanKAGreatLearningInfo-EducationStudyAssignment10-TourismPackagePredictionAPI/v1/predict", json=product_data)  # Replace <user_name> and <space_name>
-    if response.status_code == 200:
-        result = response.json()
-        predicted_sales = result["Sales"]
-        st.write(f"Predicted Tourism Package Total: ₹{predicted_sales:.2f}")
-    else:
-        st.error("Error in API request")
+
+
+if st.button("Predict Failure"):
+    prediction = model.predict(input_data)[0]
+    result = "ProdTaken" if prediction == 1 else "No ProdTaken"
+    st.subheader("Prediction Result:")
+    st.success(f"The model predicts: **{result}**")

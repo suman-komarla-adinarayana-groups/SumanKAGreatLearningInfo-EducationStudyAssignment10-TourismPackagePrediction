@@ -32,7 +32,7 @@ jobs:
           import os, sys, glob
           from datasets import load_dataset
           token = os.environ.get("HF_TOKEN")
-          repo_id = os.environ.get("HF_DATASET_REPO", "suman-komarla-adinarayana-groups/tourism-dataset")
+          repo_id = os.environ.get("suman-komarla-adinarayana-groups/SumanKAGreatLearningInfo-EducationStudyAssignment10-TourismPackagePrediction", "suman-komarla-adinarayana-groups/tourism-dataset")
           # Try to find a CSV file in common locations
           paths = glob.glob("data/**/*.csv", recursive=True) + glob.glob("data/*.csv") + glob.glob("*.csv")
           if not paths:
@@ -41,8 +41,8 @@ jobs:
           path = paths[0]
           print(f"Loading dataset from {path}")
           ds = load_dataset("csv", data_files=path)
-          print(f"Pushing dataset to {repo_id}")
-          ds.push_to_hub(repo_id, token=token)
+          print(f"Pushing dataset to {suman-komarla-adinarayana-groups/SumanKAGreatLearningInfo-EducationStudyAssignment10-TourismPackagePrediction}")
+          ds.push_to_hub(suman-komarla-adinarayana-groups/SumanKAGreatLearningInfo-EducationStudyAssignment10-TourismPackagePrediction, token=token)
           PY
 
   data-prep:

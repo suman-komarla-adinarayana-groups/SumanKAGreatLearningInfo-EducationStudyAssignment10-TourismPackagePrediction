@@ -11,51 +11,151 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
       - name: Install Dependencies
-        run: <add_code_here>
+        run: |
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            pip install --upgrade pip
+            pip install datasets huggingface-hub pandas
+          fi
       - name: Upload Dataset to Hugging Face Hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: <add_code_here>
+          HF_DATASET_REPO: ${{ secrets.HF_DATASET_REPO }} # optional: owner/repo, e.g. user/tourism-dataset
+        run: |
+          python - <<'PY'
+          import os, sys, glob
+          from datasets import load_dataset
+          token = os.environ.get("HF_TOKEN")
+          repo_id = os.environ.get("HF_DATASET_REPO", "suman-komarla-adinarayana-groups/tourism-dataset")
+          # Try to find a CSV file in common locations
+          paths = glob.glob("data/**/*.csv", recursive=True) + glob.glob("data/*.csv") + glob.glob("*.csv")
+          if not paths:
+              print("No CSV dataset found. Adjust the workflow or add a dataset file.")
+              sys.exit(0)
+          path = paths[0]
+          print(f"Loading dataset from {path}")
+          ds = load_dataset("csv", data_files=path)
+          print(f"Pushing dataset to {repo_id}")
+          ds.push_to_hub(repo_id, token=token)
+          PY
 
   data-prep:
     needs: register-dataset
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
       - name: Install Dependencies
-        run: <add_code_here>
+        run: |
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            pip install --upgrade pip
+            pip install pandas scikit-learn
+          fi
       - name: Run Data Preparation
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: <add_code_here>
-
+        run: |
+          # Prefer using a repo script if available. Fallback example below.
+          if [ -f scripts/data_prep.py ]; then
+            python scripts/data_prep.py --output data/processed
+          else
+            python - <<'PY'
+            import os, glob, pandas as pd
+            print("Running fallback data-prep: concatenating CSVs (adjust to your needs)")
+            csvs = glob.glob("data/**/*.csv", recursive=True) + glob.glob("data/*.csv") + glob.glob("*.csv")
+            if not csvs:
+                print("No CSVs found; nothing to process.")
+            else:
+                dfs = [pd.read_csv(p) for p in csvs]
+                out = pd.concat(dfs, ignore_index=True)
+                os.makedirs("data/processed", exist_ok=True)
+                out.to_csv("data/processed/processed.csv", index=False)
+                print("Wrote data/processed/processed.csv")
+            PY
 
   model-traning:
     needs: data-prep
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
       - name: Install Dependencies
-        run: <add_code_here>
+        run: |
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            pip install --upgrade pip
+            pip install mlflow scikit-learn pandas joblib
+          fi
       - name: Start MLflow Server
         run: |
           nohup mlflow ui --host 0.0.0.0 --port 5000 &  # Run MLflow UI in the background
-          sleep 5  # Wait for a moment to let the server starts
+          sleep 5  # Wait for a moment to let the server start
       - name: Model Building
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: <add_code_here>
-
+          MLFLOW_TRACKING_URI: http://127.0.0.1:5000
+        run: |
+          # Prefer an existing training script. Example fallback:
+          if [ -f scripts/train.py ]; then
+            export MLFLOW_TRACKING_URI=http://127.0.0.1:5000
+            python scripts/train.py --data-dir data/processed --mlflow-uri $MLFLOW_TRACKING_URI
+          else
+            python - <<'PY'
+            import os
+            print("No scripts/train.py found. Write a training script or add one to scripts/train.py")
+            # A minimal placeholder could go here, but real training logic belongs in scripts/train.py
+            PY
 
   deploy-hosting:
     runs-on: ubuntu-latest
-    needs: [model-traning,data-prep,register-dataset]
+    needs: [model-traning, data-prep, register-dataset]
     steps:
       - uses: actions/checkout@v3
+      - name: Setup Python & Git
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
       - name: Install Dependencies
-        run: <add_code_here>
+        run: |
+          pip install --upgrade pip
+          pip install huggingface-hub
       - name: Push files to Frontend Hugging Face Space
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: <add_code_here>
+          HF_SPACE: ${{ secrets.HF_SPACE }} # REQUIRED: set to "username/space-name"
+        run: |
+          if [ -z "${HF_SPACE}" ]; then
+            echo "Please set the HF_SPACE secret to 'username/space-name' (e.g. myuser/my-space)"
+            exit 1
+          fi
+          git config --global user.email "actions@github.com"
+          git config --global user.name "github-actions"
+          # Clone the Space using token-based https; HF requires the username/space format
+          REPO="https://huggingface.co/spaces/${HF_SPACE}"
+          echo "Cloning ${REPO}"
+          git clone "https://${HF_TOKEN}@huggingface.co/spaces/${HF_SPACE}" space
+          # Copy app files (adjust 'app/' to the path in this repo that contains your Space frontend)
+          if [ -d "app" ]; then
+            rsync -av --delete app/ space/
+          else
+            echo "No app/ directory found — please add your Space frontend or update this workflow."
+          fi
+          cd space
+          git add -A
+          git commit -m "CI: deploy frontend" || echo "No changes to commit"
+          git push origin main

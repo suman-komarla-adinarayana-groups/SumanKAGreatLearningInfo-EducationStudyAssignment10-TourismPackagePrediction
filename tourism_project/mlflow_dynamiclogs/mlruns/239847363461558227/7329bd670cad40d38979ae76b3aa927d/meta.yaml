@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/7329bd670cad40d38979ae76b3aa927d/artifacts
+end_time: 1769946612204
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 7329bd670cad40d38979ae76b3aa927d
+run_name: crawling-bee-250
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946611822
+status: 3
+tags: []
+user_id: root

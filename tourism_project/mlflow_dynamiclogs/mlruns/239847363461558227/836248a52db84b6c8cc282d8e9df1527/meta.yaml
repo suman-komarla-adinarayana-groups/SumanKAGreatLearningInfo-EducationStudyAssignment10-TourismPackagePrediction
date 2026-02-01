@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/836248a52db84b6c8cc282d8e9df1527/artifacts
+end_time: 1769946806178
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 836248a52db84b6c8cc282d8e9df1527
+run_name: masked-horse-792
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946805771
+status: 3
+tags: []
+user_id: root

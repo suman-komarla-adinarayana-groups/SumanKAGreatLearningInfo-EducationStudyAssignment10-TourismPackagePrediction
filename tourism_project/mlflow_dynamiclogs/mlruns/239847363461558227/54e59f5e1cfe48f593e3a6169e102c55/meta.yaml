@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/54e59f5e1cfe48f593e3a6169e102c55/artifacts
+end_time: 1769946510752
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 54e59f5e1cfe48f593e3a6169e102c55
+run_name: debonair-toad-804
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946510376
+status: 3
+tags: []
+user_id: root

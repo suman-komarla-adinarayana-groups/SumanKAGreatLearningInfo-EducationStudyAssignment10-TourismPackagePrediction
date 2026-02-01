@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/48bb460ba8b040c9b96af54ea0c218bd/artifacts
+end_time: 1769946676586
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 48bb460ba8b040c9b96af54ea0c218bd
+run_name: hilarious-moose-485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946676202
+status: 3
+tags: []
+user_id: root

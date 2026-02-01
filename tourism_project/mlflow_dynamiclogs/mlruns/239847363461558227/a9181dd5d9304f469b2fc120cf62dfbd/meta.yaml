@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/a9181dd5d9304f469b2fc120cf62dfbd/artifacts
+end_time: 1769946747219
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: a9181dd5d9304f469b2fc120cf62dfbd
+run_name: useful-bat-444
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946746812
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/a47b73f5d26b4b889c7235f0f8f9001e/artifacts
+end_time: 1769946687519
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: a47b73f5d26b4b889c7235f0f8f9001e
+run_name: bedecked-kit-921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946687091
+status: 3
+tags: []
+user_id: root

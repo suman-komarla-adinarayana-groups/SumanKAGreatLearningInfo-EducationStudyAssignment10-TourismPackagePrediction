@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/f44770d56eaa4b3eaed09955a5b2073b/artifacts
+end_time: 1769946852698
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: f44770d56eaa4b3eaed09955a5b2073b
+run_name: stylish-ant-866
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946852280
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/a8c414a9b2da4bda9e59c19a445fcd88/artifacts
+end_time: 1769946574164
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: a8c414a9b2da4bda9e59c19a445fcd88
+run_name: magnificent-gnat-352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946573772
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/67dd7dfc88954cd9951eaa5e2e1cff7d/artifacts
+end_time: 1769946845149
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 67dd7dfc88954cd9951eaa5e2e1cff7d
+run_name: debonair-turtle-655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946844702
+status: 3
+tags: []
+user_id: root

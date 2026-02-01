@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/a6f30725c1e643a99d5c174d1d94f28f/artifacts
+end_time: 1769946511232
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: a6f30725c1e643a99d5c174d1d94f28f
+run_name: big-colt-394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946510853
+status: 3
+tags: []
+user_id: root

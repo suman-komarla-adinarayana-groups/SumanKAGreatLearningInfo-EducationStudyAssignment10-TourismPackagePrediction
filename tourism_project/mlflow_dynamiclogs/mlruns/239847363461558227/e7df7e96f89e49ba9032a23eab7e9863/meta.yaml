@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/e7df7e96f89e49ba9032a23eab7e9863/artifacts
+end_time: 1769946801002
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: e7df7e96f89e49ba9032a23eab7e9863
+run_name: polite-loon-201
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946800597
+status: 3
+tags: []
+user_id: root

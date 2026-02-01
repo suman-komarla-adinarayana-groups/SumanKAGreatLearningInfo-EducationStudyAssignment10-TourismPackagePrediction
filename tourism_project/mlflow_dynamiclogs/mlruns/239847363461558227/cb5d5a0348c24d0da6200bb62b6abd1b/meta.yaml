@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/cb5d5a0348c24d0da6200bb62b6abd1b/artifacts
+end_time: 1769946827816
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: cb5d5a0348c24d0da6200bb62b6abd1b
+run_name: placid-whale-459
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946827365
+status: 3
+tags: []
+user_id: root

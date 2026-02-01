@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/224b04e0808e4df588c2d5300043493a/artifacts
+end_time: 1769946652289
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 224b04e0808e4df588c2d5300043493a
+run_name: abrasive-fox-250
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946651854
+status: 3
+tags: []
+user_id: root

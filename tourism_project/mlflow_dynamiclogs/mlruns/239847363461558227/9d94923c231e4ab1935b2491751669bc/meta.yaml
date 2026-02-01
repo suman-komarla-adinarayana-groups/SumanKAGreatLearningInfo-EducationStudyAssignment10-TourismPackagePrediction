@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/9d94923c231e4ab1935b2491751669bc/artifacts
+end_time: 1769946557017
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 9d94923c231e4ab1935b2491751669bc
+run_name: handsome-grub-923
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946556627
+status: 3
+tags: []
+user_id: root

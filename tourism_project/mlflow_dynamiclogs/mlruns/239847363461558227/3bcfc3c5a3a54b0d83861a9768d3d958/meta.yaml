@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/3bcfc3c5a3a54b0d83861a9768d3d958/artifacts
+end_time: 1769946530715
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 3bcfc3c5a3a54b0d83861a9768d3d958
+run_name: glamorous-wasp-341
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946530292
+status: 3
+tags: []
+user_id: root

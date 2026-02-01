@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/511977d4d52344b6a23def76534c3799/artifacts
+end_time: 1769946712355
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 511977d4d52344b6a23def76534c3799
+run_name: dapper-frog-307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946711973
+status: 3
+tags: []
+user_id: root

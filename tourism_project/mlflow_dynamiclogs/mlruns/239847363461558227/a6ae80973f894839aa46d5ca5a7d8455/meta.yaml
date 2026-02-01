@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/a6ae80973f894839aa46d5ca5a7d8455/artifacts
+end_time: 1769946540452
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: a6ae80973f894839aa46d5ca5a7d8455
+run_name: tasteful-conch-843
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946540075
+status: 3
+tags: []
+user_id: root

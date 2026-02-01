@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/4b17c4d968fc427a8c1b6507ed082945/artifacts
+end_time: 1769946518058
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 4b17c4d968fc427a8c1b6507ed082945
+run_name: abundant-mule-332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946517621
+status: 3
+tags: []
+user_id: root

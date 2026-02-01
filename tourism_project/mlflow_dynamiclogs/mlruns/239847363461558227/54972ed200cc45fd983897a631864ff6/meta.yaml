@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/54972ed200cc45fd983897a631864ff6/artifacts
+end_time: 1769946595967
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 54972ed200cc45fd983897a631864ff6
+run_name: beautiful-pig-124
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946595534
+status: 3
+tags: []
+user_id: root

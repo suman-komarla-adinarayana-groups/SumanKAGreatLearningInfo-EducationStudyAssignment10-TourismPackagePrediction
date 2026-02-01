@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/3f05f6f43a7142698b8da40e76a30ffd/artifacts
+end_time: 1769946512299
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 3f05f6f43a7142698b8da40e76a30ffd
+run_name: amazing-duck-283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946511799
+status: 3
+tags: []
+user_id: root

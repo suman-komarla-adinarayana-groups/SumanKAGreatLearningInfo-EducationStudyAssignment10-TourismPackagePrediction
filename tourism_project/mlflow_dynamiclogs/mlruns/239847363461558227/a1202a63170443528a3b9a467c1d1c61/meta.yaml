@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/a1202a63170443528a3b9a467c1d1c61/artifacts
+end_time: 1769946749145
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: a1202a63170443528a3b9a467c1d1c61
+run_name: bittersweet-goat-921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946748754
+status: 3
+tags: []
+user_id: root

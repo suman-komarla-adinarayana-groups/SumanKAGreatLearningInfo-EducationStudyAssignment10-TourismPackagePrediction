@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/69eafe413e7e4b838592afa382abe7bb/artifacts
+end_time: 1769946535174
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 69eafe413e7e4b838592afa382abe7bb
+run_name: blushing-whale-870
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946534797
+status: 3
+tags: []
+user_id: root

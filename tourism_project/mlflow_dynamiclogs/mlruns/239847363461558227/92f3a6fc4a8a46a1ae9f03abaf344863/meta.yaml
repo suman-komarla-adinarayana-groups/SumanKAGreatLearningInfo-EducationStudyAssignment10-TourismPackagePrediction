@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/92f3a6fc4a8a46a1ae9f03abaf344863/artifacts
+end_time: 1769946565847
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 92f3a6fc4a8a46a1ae9f03abaf344863
+run_name: mysterious-skink-930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946565421
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/9352d28e4c734f628f6ec44e3dc345a0/artifacts
+end_time: 1769946717814
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 9352d28e4c734f628f6ec44e3dc345a0
+run_name: caring-moth-442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946717435
+status: 3
+tags: []
+user_id: root

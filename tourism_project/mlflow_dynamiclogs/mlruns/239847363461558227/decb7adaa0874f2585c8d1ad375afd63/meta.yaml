@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/decb7adaa0874f2585c8d1ad375afd63/artifacts
+end_time: 1769946623684
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: decb7adaa0874f2585c8d1ad375afd63
+run_name: powerful-hawk-287
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946623300
+status: 3
+tags: []
+user_id: root

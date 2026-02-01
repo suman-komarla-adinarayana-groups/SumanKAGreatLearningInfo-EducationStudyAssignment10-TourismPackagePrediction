@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/13476ac0ce68456385b9ff7e19ea9f3c/artifacts
+end_time: 1769946658013
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 13476ac0ce68456385b9ff7e19ea9f3c
+run_name: bedecked-rat-204
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946657626
+status: 3
+tags: []
+user_id: root

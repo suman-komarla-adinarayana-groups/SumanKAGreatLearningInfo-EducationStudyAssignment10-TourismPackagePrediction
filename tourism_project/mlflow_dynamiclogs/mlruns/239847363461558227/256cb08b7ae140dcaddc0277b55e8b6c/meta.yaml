@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/256cb08b7ae140dcaddc0277b55e8b6c/artifacts
+end_time: 1769946782836
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 256cb08b7ae140dcaddc0277b55e8b6c
+run_name: popular-tern-519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946782407
+status: 3
+tags: []
+user_id: root

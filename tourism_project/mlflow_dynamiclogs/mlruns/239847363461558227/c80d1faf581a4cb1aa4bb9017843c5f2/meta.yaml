@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/c80d1faf581a4cb1aa4bb9017843c5f2/artifacts
+end_time: 1769946602918
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: c80d1faf581a4cb1aa4bb9017843c5f2
+run_name: traveling-bear-344
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946602516
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/bedd5678e6cb48cfac6dd1ce2a56902b/artifacts
+end_time: 1769946613257
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: bedd5678e6cb48cfac6dd1ce2a56902b
+run_name: skittish-midge-195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946612849
+status: 3
+tags: []
+user_id: root

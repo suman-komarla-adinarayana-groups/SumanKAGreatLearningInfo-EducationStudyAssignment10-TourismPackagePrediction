@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/879cacf0168b4ea48ca38021db7a0b70/artifacts
+end_time: 1769946665994
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 879cacf0168b4ea48ca38021db7a0b70
+run_name: chill-wolf-91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946665603
+status: 3
+tags: []
+user_id: root

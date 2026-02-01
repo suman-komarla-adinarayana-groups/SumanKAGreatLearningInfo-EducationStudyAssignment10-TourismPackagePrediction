@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/de576d86ecd8442b9f88fad4cbebfe79/artifacts
+end_time: 1769946863815
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: de576d86ecd8442b9f88fad4cbebfe79
+run_name: lyrical-trout-427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946863356
+status: 3
+tags: []
+user_id: root

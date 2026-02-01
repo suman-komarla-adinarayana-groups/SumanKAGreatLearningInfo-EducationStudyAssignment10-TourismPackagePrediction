@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/214fc9a00aad49a0a2dca018ef62ec22/artifacts
+end_time: 1769946506286
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 214fc9a00aad49a0a2dca018ef62ec22
+run_name: capable-hog-78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946505897
+status: 3
+tags: []
+user_id: root

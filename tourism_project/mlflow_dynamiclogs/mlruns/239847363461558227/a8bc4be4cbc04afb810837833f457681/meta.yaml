@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/a8bc4be4cbc04afb810837833f457681/artifacts
+end_time: 1769946528338
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: a8bc4be4cbc04afb810837833f457681
+run_name: able-carp-981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946527867
+status: 3
+tags: []
+user_id: root

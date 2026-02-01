@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/908f1991c57a40089af787a0cd2f2575/artifacts
+end_time: 1769946593916
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 908f1991c57a40089af787a0cd2f2575
+run_name: selective-frog-20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946593536
+status: 3
+tags: []
+user_id: root

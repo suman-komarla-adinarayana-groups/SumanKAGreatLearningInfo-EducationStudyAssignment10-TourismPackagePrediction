@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/c53bd1d48c5145af8428cbbea569cd11/artifacts
+end_time: 1769946719724
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: c53bd1d48c5145af8428cbbea569cd11
+run_name: legendary-lynx-734
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946719323
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/977dc06317914f4d85515927f7498a55/artifacts
+end_time: 1769946673570
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 977dc06317914f4d85515927f7498a55
+run_name: likeable-bear-132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946673087
+status: 3
+tags: []
+user_id: root

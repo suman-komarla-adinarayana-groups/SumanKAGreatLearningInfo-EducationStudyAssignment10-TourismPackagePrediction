@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/77616965d315403aa724a1f31499a75e/artifacts
+end_time: 1769946536600
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 77616965d315403aa724a1f31499a75e
+run_name: silent-sow-283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946536219
+status: 3
+tags: []
+user_id: root

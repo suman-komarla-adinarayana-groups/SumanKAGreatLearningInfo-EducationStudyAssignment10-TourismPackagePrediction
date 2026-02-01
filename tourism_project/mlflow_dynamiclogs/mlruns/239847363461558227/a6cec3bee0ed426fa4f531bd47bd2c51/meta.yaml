@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/a6cec3bee0ed426fa4f531bd47bd2c51/artifacts
+end_time: 1769946531796
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: a6cec3bee0ed426fa4f531bd47bd2c51
+run_name: gaudy-jay-692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946531337
+status: 3
+tags: []
+user_id: root

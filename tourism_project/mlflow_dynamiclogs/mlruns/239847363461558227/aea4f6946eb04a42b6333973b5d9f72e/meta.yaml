@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/aea4f6946eb04a42b6333973b5d9f72e/artifacts
+end_time: 1769946862651
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: aea4f6946eb04a42b6333973b5d9f72e
+run_name: luxuriant-lark-637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946862169
+status: 3
+tags: []
+user_id: root

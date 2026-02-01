@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/4927477748664a12957e2a58a86799e3/artifacts
+end_time: 1769946521960
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 4927477748664a12957e2a58a86799e3
+run_name: defiant-jay-786
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946521573
+status: 3
+tags: []
+user_id: root

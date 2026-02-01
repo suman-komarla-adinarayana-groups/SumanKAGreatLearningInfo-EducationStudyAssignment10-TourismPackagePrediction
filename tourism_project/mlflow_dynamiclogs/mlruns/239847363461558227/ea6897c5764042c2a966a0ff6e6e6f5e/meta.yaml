@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/ea6897c5764042c2a966a0ff6e6e6f5e/artifacts
+end_time: 1769946818383
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: ea6897c5764042c2a966a0ff6e6e6f5e
+run_name: tasteful-sponge-227
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946817976
+status: 3
+tags: []
+user_id: root

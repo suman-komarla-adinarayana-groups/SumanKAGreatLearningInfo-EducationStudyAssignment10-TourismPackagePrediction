@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/0f21d6667da74fccbbe583af6295b697/artifacts
+end_time: 1769946632151
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 0f21d6667da74fccbbe583af6295b697
+run_name: nosy-owl-884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946631728
+status: 3
+tags: []
+user_id: root

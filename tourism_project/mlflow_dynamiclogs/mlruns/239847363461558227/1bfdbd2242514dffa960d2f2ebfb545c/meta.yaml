@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/1bfdbd2242514dffa960d2f2ebfb545c/artifacts
+end_time: 1769946549769
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 1bfdbd2242514dffa960d2f2ebfb545c
+run_name: zealous-koi-552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946549392
+status: 3
+tags: []
+user_id: root

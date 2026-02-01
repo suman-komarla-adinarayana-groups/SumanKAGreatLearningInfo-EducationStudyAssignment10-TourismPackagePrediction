@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/1966f58a61f94e5995e87dcb1e785c1d/artifacts
+end_time: 1769946752653
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 1966f58a61f94e5995e87dcb1e785c1d
+run_name: dazzling-pug-302
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946752270
+status: 3
+tags: []
+user_id: root

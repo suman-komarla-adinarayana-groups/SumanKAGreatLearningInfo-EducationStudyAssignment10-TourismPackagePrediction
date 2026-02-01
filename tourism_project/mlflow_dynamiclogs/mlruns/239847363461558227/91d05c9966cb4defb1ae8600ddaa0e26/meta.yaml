@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/91d05c9966cb4defb1ae8600ddaa0e26/artifacts
+end_time: 1769946805164
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 91d05c9966cb4defb1ae8600ddaa0e26
+run_name: stately-rook-196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946804727
+status: 3
+tags: []
+user_id: root

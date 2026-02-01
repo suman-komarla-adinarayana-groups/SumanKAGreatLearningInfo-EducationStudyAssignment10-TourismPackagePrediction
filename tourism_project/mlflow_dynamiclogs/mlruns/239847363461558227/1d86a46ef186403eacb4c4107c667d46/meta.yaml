@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/1d86a46ef186403eacb4c4107c667d46/artifacts
+end_time: 1769946704938
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 1d86a46ef186403eacb4c4107c667d46
+run_name: smiling-cub-768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946704498
+status: 3
+tags: []
+user_id: root

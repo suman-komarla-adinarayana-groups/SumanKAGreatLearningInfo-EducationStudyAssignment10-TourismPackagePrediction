@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/5671d4eb67344e9ca6075a42f59f09a0/artifacts
+end_time: 1769946565313
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 5671d4eb67344e9ca6075a42f59f09a0
+run_name: unleashed-stoat-654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946564897
+status: 3
+tags: []
+user_id: root

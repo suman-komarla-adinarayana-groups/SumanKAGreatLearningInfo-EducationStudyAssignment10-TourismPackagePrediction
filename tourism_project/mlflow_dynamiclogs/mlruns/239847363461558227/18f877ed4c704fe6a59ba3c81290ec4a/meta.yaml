@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/18f877ed4c704fe6a59ba3c81290ec4a/artifacts
+end_time: 1769946782308
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 18f877ed4c704fe6a59ba3c81290ec4a
+run_name: grandiose-asp-649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946781906
+status: 3
+tags: []
+user_id: root

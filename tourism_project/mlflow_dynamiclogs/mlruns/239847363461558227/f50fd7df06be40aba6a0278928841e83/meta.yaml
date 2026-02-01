@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/f50fd7df06be40aba6a0278928841e83/artifacts
+end_time: 1769946502810
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: f50fd7df06be40aba6a0278928841e83
+run_name: selective-kite-198
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946502429
+status: 3
+tags: []
+user_id: root

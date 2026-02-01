@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/9cae6c630feb4539adef40ce49a5eb08/artifacts
+end_time: 1769946573197
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 9cae6c630feb4539adef40ce49a5eb08
+run_name: victorious-gnat-872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946572785
+status: 3
+tags: []
+user_id: root

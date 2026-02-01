@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/685a7982ca5041a69c3cb74a5ba247aa/artifacts
+end_time: 1769946720733
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 685a7982ca5041a69c3cb74a5ba247aa
+run_name: efficient-mouse-165
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946720325
+status: 3
+tags: []
+user_id: root

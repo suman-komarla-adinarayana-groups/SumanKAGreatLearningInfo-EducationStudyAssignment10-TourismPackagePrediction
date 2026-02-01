@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/b0da0c39f17645adbc78296e8fb2ce62/artifacts
+end_time: 1769946663564
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: b0da0c39f17645adbc78296e8fb2ce62
+run_name: illustrious-duck-246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946663115
+status: 3
+tags: []
+user_id: root

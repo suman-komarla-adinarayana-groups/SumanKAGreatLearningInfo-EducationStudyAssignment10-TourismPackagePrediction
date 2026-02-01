@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/70d9f922d5fb4c359c78bc2276056760/artifacts
+end_time: 1769946821985
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 70d9f922d5fb4c359c78bc2276056760
+run_name: nebulous-wasp-768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946821576
+status: 3
+tags: []
+user_id: root

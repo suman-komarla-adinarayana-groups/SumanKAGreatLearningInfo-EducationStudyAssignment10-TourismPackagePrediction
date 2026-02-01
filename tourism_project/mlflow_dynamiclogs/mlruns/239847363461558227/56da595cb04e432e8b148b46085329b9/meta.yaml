@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/56da595cb04e432e8b148b46085329b9/artifacts
+end_time: 1769946813448
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 56da595cb04e432e8b148b46085329b9
+run_name: efficient-sloth-390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946812983
+status: 3
+tags: []
+user_id: root

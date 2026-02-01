@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/913cadb01b1949afa1d4e543de4acede/artifacts
+end_time: 1769946616474
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 913cadb01b1949afa1d4e543de4acede
+run_name: unruly-moose-627
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946616034
+status: 3
+tags: []
+user_id: root

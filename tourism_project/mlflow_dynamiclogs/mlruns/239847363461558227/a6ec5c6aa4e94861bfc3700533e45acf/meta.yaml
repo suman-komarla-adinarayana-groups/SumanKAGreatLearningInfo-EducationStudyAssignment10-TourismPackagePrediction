@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/a6ec5c6aa4e94861bfc3700533e45acf/artifacts
+end_time: 1769946573675
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: a6ec5c6aa4e94861bfc3700533e45acf
+run_name: redolent-perch-858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946573296
+status: 3
+tags: []
+user_id: root

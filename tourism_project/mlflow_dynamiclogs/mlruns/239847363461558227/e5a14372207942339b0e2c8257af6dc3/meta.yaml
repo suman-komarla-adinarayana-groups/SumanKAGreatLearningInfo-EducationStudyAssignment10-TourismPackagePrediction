@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/e5a14372207942339b0e2c8257af6dc3/artifacts
+end_time: 1769946727282
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: e5a14372207942339b0e2c8257af6dc3
+run_name: sincere-ox-904
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946726818
+status: 3
+tags: []
+user_id: root

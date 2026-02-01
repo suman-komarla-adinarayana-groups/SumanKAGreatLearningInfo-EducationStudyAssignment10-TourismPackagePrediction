@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/50c57296e8e4493c847877626329f319/artifacts
+end_time: 1769946660500
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 50c57296e8e4493c847877626329f319
+run_name: crawling-shad-174
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946660105
+status: 3
+tags: []
+user_id: root

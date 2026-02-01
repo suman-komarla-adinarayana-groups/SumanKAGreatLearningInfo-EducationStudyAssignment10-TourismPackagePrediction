@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/7b8bf74f761d452bbea314324cd77723/artifacts
+end_time: 1769946675123
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 7b8bf74f761d452bbea314324cd77723
+run_name: sincere-stag-912
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946674738
+status: 3
+tags: []
+user_id: root

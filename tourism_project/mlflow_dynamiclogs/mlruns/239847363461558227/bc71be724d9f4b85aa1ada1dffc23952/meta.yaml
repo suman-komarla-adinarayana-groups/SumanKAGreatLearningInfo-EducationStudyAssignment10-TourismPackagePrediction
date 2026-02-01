@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/bc71be724d9f4b85aa1ada1dffc23952/artifacts
+end_time: 1769946849837
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: bc71be724d9f4b85aa1ada1dffc23952
+run_name: fortunate-foal-26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946849383
+status: 3
+tags: []
+user_id: root

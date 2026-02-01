@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/b1483c480f2d488c8cf5f914a5315c5a/artifacts
+end_time: 1769946634831
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: b1483c480f2d488c8cf5f914a5315c5a
+run_name: angry-calf-983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946634404
+status: 3
+tags: []
+user_id: root

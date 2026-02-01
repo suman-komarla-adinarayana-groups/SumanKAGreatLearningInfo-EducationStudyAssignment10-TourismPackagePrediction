@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/9f07d45ff3604daf9d6ffe4facfb03d8/artifacts
+end_time: 1769946638633
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 9f07d45ff3604daf9d6ffe4facfb03d8
+run_name: caring-snipe-363
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946638230
+status: 3
+tags: []
+user_id: root

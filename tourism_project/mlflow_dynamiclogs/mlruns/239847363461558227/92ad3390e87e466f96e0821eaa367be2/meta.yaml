@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/92ad3390e87e466f96e0821eaa367be2/artifacts
+end_time: 1769946649563
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 92ad3390e87e466f96e0821eaa367be2
+run_name: abrasive-snipe-818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946649115
+status: 3
+tags: []
+user_id: root

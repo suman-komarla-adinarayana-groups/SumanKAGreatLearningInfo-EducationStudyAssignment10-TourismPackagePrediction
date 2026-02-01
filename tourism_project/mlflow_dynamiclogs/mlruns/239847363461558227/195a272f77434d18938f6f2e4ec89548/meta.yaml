@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/195a272f77434d18938f6f2e4ec89548/artifacts
+end_time: 1769946744288
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 195a272f77434d18938f6f2e4ec89548
+run_name: shivering-goat-532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946743865
+status: 3
+tags: []
+user_id: root

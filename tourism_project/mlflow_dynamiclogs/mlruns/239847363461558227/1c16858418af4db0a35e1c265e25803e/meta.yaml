@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/1c16858418af4db0a35e1c265e25803e/artifacts
+end_time: 1769946751205
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 1c16858418af4db0a35e1c265e25803e
+run_name: shivering-hound-315
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946750815
+status: 3
+tags: []
+user_id: root

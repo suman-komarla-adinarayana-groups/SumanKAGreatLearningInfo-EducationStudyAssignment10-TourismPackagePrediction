@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/2df2196799544ac5a669849837927510/artifacts
+end_time: 1769946822493
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 2df2196799544ac5a669849837927510
+run_name: rogue-hound-561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946822087
+status: 3
+tags: []
+user_id: root

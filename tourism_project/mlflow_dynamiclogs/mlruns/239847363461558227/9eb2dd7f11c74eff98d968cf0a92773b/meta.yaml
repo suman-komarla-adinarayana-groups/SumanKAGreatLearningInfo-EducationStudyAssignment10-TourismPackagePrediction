@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/9eb2dd7f11c74eff98d968cf0a92773b/artifacts
+end_time: 1769946629590
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 9eb2dd7f11c74eff98d968cf0a92773b
+run_name: gregarious-finch-204
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946629204
+status: 3
+tags: []
+user_id: root

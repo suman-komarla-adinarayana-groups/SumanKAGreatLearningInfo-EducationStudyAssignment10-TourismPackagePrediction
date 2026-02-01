@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/b0aaa998fabb43eaa01ece2bd95fe348/artifacts
+end_time: 1769946828967
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: b0aaa998fabb43eaa01ece2bd95fe348
+run_name: efficient-lamb-187
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946828521
+status: 3
+tags: []
+user_id: root

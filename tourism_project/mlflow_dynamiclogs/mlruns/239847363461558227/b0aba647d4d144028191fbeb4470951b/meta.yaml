@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/b0aba647d4d144028191fbeb4470951b/artifacts
+end_time: 1769946786453
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: b0aba647d4d144028191fbeb4470951b
+run_name: delicate-ape-844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946786041
+status: 3
+tags: []
+user_id: root

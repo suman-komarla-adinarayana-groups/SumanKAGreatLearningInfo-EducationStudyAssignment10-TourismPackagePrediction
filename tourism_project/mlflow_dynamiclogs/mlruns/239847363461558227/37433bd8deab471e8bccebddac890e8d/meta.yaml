@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/37433bd8deab471e8bccebddac890e8d/artifacts
+end_time: 1769946645004
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 37433bd8deab471e8bccebddac890e8d
+run_name: ambitious-shad-988
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946644607
+status: 3
+tags: []
+user_id: root

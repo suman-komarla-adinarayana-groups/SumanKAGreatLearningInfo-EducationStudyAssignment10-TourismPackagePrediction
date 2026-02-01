@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/d4d27f86243b405e8dad582f199df9a1/artifacts
+end_time: 1769946853747
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: d4d27f86243b405e8dad582f199df9a1
+run_name: bouncy-hawk-741
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946853312
+status: 3
+tags: []
+user_id: root

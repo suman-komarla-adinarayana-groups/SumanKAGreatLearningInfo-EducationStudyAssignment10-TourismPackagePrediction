@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/cd2847cf12ec4eccb9753b9ed4b2a75f/artifacts
+end_time: 1769946775654
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: cd2847cf12ec4eccb9753b9ed4b2a75f
+run_name: caring-skink-291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946775211
+status: 3
+tags: []
+user_id: root

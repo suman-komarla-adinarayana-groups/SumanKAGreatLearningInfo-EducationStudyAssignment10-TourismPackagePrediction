@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/4d76c6fa7d3f442fa5af8522b60c73bb/artifacts
+end_time: 1769946721766
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 4d76c6fa7d3f442fa5af8522b60c73bb
+run_name: legendary-swan-252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946721359
+status: 3
+tags: []
+user_id: root

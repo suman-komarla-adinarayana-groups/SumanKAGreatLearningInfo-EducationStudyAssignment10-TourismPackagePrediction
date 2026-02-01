@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/61ca0a7a70ab40b183cf074b7ebcbaf4/artifacts
+end_time: 1769946689178
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 61ca0a7a70ab40b183cf074b7ebcbaf4
+run_name: worried-snail-222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946688709
+status: 3
+tags: []
+user_id: root

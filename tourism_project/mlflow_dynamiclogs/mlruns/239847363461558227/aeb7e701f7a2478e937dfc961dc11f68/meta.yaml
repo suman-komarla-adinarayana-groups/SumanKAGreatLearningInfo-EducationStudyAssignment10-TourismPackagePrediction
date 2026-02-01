@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/aeb7e701f7a2478e937dfc961dc11f68/artifacts
+end_time: 1769946691866
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: aeb7e701f7a2478e937dfc961dc11f68
+run_name: dapper-moth-94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946691441
+status: 3
+tags: []
+user_id: root

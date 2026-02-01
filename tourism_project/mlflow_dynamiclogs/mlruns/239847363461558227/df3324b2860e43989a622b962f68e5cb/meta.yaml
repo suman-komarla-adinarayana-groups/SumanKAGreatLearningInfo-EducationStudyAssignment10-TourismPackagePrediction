@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/df3324b2860e43989a622b962f68e5cb/artifacts
+end_time: 1769946831297
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: df3324b2860e43989a622b962f68e5cb
+run_name: fun-koi-241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946830841
+status: 3
+tags: []
+user_id: root

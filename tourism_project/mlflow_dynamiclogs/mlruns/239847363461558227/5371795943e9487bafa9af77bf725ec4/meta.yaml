@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/5371795943e9487bafa9af77bf725ec4/artifacts
+end_time: 1769946514904
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 5371795943e9487bafa9af77bf725ec4
+run_name: industrious-cub-669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946514457
+status: 3
+tags: []
+user_id: root

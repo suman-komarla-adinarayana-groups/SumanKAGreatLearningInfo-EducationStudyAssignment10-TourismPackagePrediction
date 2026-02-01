@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/4aea88c07c0c4f1eb5736c482022778a/artifacts
+end_time: 1769946867820
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 4aea88c07c0c4f1eb5736c482022778a
+run_name: magnificent-boar-466
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946867363
+status: 3
+tags: []
+user_id: root

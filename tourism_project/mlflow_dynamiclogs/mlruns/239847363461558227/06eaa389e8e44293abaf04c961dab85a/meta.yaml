@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/06eaa389e8e44293abaf04c961dab85a/artifacts
+end_time: 1769946731953
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 06eaa389e8e44293abaf04c961dab85a
+run_name: learned-doe-661
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946731565
+status: 3
+tags: []
+user_id: root

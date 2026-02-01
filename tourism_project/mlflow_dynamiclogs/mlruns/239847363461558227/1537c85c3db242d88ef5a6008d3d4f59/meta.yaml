@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/1537c85c3db242d88ef5a6008d3d4f59/artifacts
+end_time: 1769946668114
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 1537c85c3db242d88ef5a6008d3d4f59
+run_name: clean-gnat-262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946667678
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/1526b67c3c2f42a198a1e3b05a0eb908/artifacts
+end_time: 1769946667054
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 1526b67c3c2f42a198a1e3b05a0eb908
+run_name: serious-stoat-77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946666631
+status: 3
+tags: []
+user_id: root

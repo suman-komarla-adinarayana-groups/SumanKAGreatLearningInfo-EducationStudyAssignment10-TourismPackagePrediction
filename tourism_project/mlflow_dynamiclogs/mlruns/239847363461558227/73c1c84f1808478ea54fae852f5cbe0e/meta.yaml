@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/73c1c84f1808478ea54fae852f5cbe0e/artifacts
+end_time: 1769946527760
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 73c1c84f1808478ea54fae852f5cbe0e
+run_name: wise-chimp-531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946527344
+status: 3
+tags: []
+user_id: root

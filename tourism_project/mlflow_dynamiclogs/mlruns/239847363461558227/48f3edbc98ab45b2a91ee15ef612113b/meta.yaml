@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/48f3edbc98ab45b2a91ee15ef612113b/artifacts
+end_time: 1769946742680
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 48f3edbc98ab45b2a91ee15ef612113b
+run_name: debonair-tern-382
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946742264
+status: 3
+tags: []
+user_id: root

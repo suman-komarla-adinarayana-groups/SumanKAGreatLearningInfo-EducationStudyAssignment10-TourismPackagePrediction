@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/dea647e601f045f094209db9984f40f3/artifacts
+end_time: 1769946716351
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: dea647e601f045f094209db9984f40f3
+run_name: delicate-vole-649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946715970
+status: 3
+tags: []
+user_id: root

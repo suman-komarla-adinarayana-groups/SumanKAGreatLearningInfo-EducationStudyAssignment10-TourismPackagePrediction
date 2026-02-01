@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/235d912ae5df4c3aa2262699f05ce287/artifacts
+end_time: 1769946604884
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 235d912ae5df4c3aa2262699f05ce287
+run_name: gaudy-bird-362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946604502
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/0b941a6d6c584673946c36097908b1e7/artifacts
+end_time: 1769946539979
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 0b941a6d6c584673946c36097908b1e7
+run_name: awesome-shoat-514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946539575
+status: 3
+tags: []
+user_id: root

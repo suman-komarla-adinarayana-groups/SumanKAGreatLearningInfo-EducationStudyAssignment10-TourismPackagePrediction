@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/b9563ed02e2c4a2eb476a7cb70a58773/artifacts
+end_time: 1769946841988
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: b9563ed02e2c4a2eb476a7cb70a58773
+run_name: sassy-crow-401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946841512
+status: 3
+tags: []
+user_id: root

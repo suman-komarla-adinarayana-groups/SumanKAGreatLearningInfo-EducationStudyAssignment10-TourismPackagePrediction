@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/4bd4efa0e7ea4f78a7ec9320faf98a4d/artifacts
+end_time: 1769946537580
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 4bd4efa0e7ea4f78a7ec9320faf98a4d
+run_name: angry-rat-563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946537181
+status: 3
+tags: []
+user_id: root

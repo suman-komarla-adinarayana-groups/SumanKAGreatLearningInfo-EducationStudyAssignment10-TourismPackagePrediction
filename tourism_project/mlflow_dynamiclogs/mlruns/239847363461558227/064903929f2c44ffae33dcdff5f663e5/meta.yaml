@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/064903929f2c44ffae33dcdff5f663e5/artifacts
+end_time: 1769946648997
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 064903929f2c44ffae33dcdff5f663e5
+run_name: whimsical-dove-402
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946648579
+status: 3
+tags: []
+user_id: root

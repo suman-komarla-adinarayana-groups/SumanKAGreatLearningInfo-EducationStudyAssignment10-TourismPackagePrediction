@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/77c65db8b639455c81db08307f5eaca3/artifacts
+end_time: 1769946602358
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 77c65db8b639455c81db08307f5eaca3
+run_name: treasured-sow-909
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946601938
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/6b6bb098f9a649c09f1f3b2261f0b49f/artifacts
+end_time: 1769946545629
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 6b6bb098f9a649c09f1f3b2261f0b49f
+run_name: angry-donkey-16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946545191
+status: 3
+tags: []
+user_id: root

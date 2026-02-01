@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/eccae4f5d4664666ac5df0d8e6f1f0cb/artifacts
+end_time: 1769946817874
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: eccae4f5d4664666ac5df0d8e6f1f0cb
+run_name: dapper-dog-984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946817464
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/143c45d4b5a4410ea7c484f1cfe71567/artifacts
+end_time: 1769946650095
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 143c45d4b5a4410ea7c484f1cfe71567
+run_name: kindly-foal-582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946649673
+status: 3
+tags: []
+user_id: root

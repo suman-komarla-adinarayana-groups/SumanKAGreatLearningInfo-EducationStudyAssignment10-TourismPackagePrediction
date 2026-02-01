@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/e8097e780c3b42b990b1ff7bc5169646/artifacts
+end_time: 1769946858906
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: e8097e780c3b42b990b1ff7bc5169646
+run_name: spiffy-shad-274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946858500
+status: 3
+tags: []
+user_id: root

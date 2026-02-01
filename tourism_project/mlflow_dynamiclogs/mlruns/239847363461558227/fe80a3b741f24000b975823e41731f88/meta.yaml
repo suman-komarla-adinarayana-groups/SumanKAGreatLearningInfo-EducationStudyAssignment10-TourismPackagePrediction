@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/fe80a3b741f24000b975823e41731f88/artifacts
+end_time: 1769946835692
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: fe80a3b741f24000b975823e41731f88
+run_name: funny-snipe-535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946835278
+status: 3
+tags: []
+user_id: root

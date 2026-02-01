@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/fc48a4ff98044dcdb368bb9df6086be7/artifacts
+end_time: 1769946681493
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: fc48a4ff98044dcdb368bb9df6086be7
+run_name: tasteful-crab-365
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946681101
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/a2391c7bd92549b08788fd02e37f2199/artifacts
+end_time: 1769946702270
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: a2391c7bd92549b08788fd02e37f2199
+run_name: sincere-mouse-53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946701852
+status: 3
+tags: []
+user_id: root

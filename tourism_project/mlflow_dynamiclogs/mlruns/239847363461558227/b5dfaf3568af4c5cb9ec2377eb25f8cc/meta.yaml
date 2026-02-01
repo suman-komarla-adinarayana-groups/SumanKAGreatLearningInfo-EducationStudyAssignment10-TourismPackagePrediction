@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/b5dfaf3568af4c5cb9ec2377eb25f8cc/artifacts
+end_time: 1769946833008
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: b5dfaf3568af4c5cb9ec2377eb25f8cc
+run_name: silent-chimp-817
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946832556
+status: 3
+tags: []
+user_id: root

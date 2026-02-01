@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/753b13afadd74fba914638dc6c941e28/artifacts
+end_time: 1769946624648
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 753b13afadd74fba914638dc6c941e28
+run_name: languid-asp-793
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946624267
+status: 3
+tags: []
+user_id: root

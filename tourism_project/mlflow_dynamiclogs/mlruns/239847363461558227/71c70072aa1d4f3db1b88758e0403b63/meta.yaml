@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/71c70072aa1d4f3db1b88758e0403b63/artifacts
+end_time: 1769946807703
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 71c70072aa1d4f3db1b88758e0403b63
+run_name: funny-moose-293
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946807299
+status: 3
+tags: []
+user_id: root

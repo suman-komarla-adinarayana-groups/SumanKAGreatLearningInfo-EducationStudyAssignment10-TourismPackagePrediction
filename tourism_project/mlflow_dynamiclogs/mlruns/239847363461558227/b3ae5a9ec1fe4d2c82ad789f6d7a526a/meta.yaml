@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/b3ae5a9ec1fe4d2c82ad789f6d7a526a/artifacts
+end_time: 1769946806683
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: b3ae5a9ec1fe4d2c82ad789f6d7a526a
+run_name: bemused-kit-493
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946806278
+status: 3
+tags: []
+user_id: root

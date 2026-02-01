@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/37af21ba9c194cb690d70f329068278a/artifacts
+end_time: 1769946642570
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 37af21ba9c194cb690d70f329068278a
+run_name: shivering-asp-188
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946642187
+status: 3
+tags: []
+user_id: root

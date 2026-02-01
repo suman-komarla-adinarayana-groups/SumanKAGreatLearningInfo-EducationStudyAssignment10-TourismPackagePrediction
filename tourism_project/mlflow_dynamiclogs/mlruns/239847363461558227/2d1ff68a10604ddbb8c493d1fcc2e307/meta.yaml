@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/2d1ff68a10604ddbb8c493d1fcc2e307/artifacts
+end_time: 1769946656550
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 2d1ff68a10604ddbb8c493d1fcc2e307
+run_name: mysterious-grub-624
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946656150
+status: 3
+tags: []
+user_id: root

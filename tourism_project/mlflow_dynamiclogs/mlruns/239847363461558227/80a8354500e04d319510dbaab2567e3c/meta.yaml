@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/80a8354500e04d319510dbaab2567e3c/artifacts
+end_time: 1769946699782
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 80a8354500e04d319510dbaab2567e3c
+run_name: judicious-wasp-624
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946699398
+status: 3
+tags: []
+user_id: root

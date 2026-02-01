@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/b7d4f2def9384782843238707f4fc7ee/artifacts
+end_time: 1769946502332
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: b7d4f2def9384782843238707f4fc7ee
+run_name: vaunted-quail-121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946501948
+status: 3
+tags: []
+user_id: root

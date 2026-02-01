@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/62da93d674054678b6e7ec548bbc4ecb/artifacts
+end_time: 1769946832447
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 62da93d674054678b6e7ec548bbc4ecb
+run_name: enchanting-hound-896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946831991
+status: 3
+tags: []
+user_id: root

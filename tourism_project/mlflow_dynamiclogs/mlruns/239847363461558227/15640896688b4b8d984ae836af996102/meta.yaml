@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/15640896688b4b8d984ae836af996102/artifacts
+end_time: 1769946664050
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 15640896688b4b8d984ae836af996102
+run_name: defiant-duck-182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946663661
+status: 3
+tags: []
+user_id: root

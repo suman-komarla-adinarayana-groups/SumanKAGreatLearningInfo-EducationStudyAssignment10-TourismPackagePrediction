@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/454eef279af14dc3ac1bbb866abe0079/artifacts
+end_time: 1769946799969
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 454eef279af14dc3ac1bbb866abe0079
+run_name: smiling-wren-258
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946799551
+status: 3
+tags: []
+user_id: root

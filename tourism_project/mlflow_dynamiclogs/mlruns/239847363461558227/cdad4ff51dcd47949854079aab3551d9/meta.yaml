@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/cdad4ff51dcd47949854079aab3551d9/artifacts
+end_time: 1769946874229
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: cdad4ff51dcd47949854079aab3551d9
+run_name: bouncy-bat-1000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946873803
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/212d09d06b624575a0818be5727c1c53/artifacts
+end_time: 1769946499743
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 212d09d06b624575a0818be5727c1c53
+run_name: suave-lynx-336
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946499331
+status: 3
+tags: []
+user_id: root

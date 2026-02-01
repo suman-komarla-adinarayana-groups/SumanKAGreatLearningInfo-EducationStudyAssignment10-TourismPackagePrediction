@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/9084b6e7ba0d4c4bbddba96bc77239c7/artifacts
+end_time: 1769946818893
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 9084b6e7ba0d4c4bbddba96bc77239c7
+run_name: whimsical-loon-325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946818484
+status: 3
+tags: []
+user_id: root

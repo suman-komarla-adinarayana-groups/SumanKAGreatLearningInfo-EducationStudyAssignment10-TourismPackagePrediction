@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/47b6a2557865433cb15273e4a6d59379/artifacts
+end_time: 1769946627605
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 47b6a2557865433cb15273e4a6d59379
+run_name: wistful-trout-893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946627199
+status: 3
+tags: []
+user_id: root

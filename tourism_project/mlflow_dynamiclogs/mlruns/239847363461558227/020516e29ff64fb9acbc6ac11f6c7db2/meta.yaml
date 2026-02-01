@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/020516e29ff64fb9acbc6ac11f6c7db2/artifacts
+end_time: 1769946614334
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 020516e29ff64fb9acbc6ac11f6c7db2
+run_name: awesome-robin-935
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946613899
+status: 3
+tags: []
+user_id: root

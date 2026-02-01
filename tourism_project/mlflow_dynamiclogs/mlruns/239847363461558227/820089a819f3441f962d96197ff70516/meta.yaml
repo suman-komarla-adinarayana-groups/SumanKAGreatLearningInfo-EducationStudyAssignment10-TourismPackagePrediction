@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/820089a819f3441f962d96197ff70516/artifacts
+end_time: 1769946620746
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 820089a819f3441f962d96197ff70516
+run_name: rebellious-quail-802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946620341
+status: 3
+tags: []
+user_id: root

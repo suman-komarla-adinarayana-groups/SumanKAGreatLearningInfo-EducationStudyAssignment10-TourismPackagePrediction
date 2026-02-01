@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/94f5938f7be5481787c987e1ac692b3f/artifacts
+end_time: 1769946840894
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 94f5938f7be5481787c987e1ac692b3f
+run_name: sedate-ram-618
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946840476
+status: 3
+tags: []
+user_id: root

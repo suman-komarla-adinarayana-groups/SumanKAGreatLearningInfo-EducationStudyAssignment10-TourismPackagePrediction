@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/347b3dea4cc1450c8689b4b132468d17/artifacts
+end_time: 1769946824068
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 347b3dea4cc1450c8689b4b132468d17
+run_name: placid-turtle-231
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946823657
+status: 3
+tags: []
+user_id: root

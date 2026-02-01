@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/2b400d160a664e2b91a78f2065fa4cce/artifacts
+end_time: 1769946701275
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 2b400d160a664e2b91a78f2065fa4cce
+run_name: bouncy-skunk-872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946700870
+status: 3
+tags: []
+user_id: root

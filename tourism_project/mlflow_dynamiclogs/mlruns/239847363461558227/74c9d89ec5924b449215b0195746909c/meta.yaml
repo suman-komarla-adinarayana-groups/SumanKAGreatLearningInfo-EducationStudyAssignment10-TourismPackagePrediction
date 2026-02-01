@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/74c9d89ec5924b449215b0195746909c/artifacts
+end_time: 1769946601822
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 74c9d89ec5924b449215b0195746909c
+run_name: salty-grub-389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946601402
+status: 3
+tags: []
+user_id: root

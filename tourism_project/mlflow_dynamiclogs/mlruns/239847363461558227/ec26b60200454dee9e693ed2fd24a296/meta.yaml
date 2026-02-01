@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/ec26b60200454dee9e693ed2fd24a296/artifacts
+end_time: 1769946775103
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: ec26b60200454dee9e693ed2fd24a296
+run_name: righteous-gnu-364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946774641
+status: 3
+tags: []
+user_id: root

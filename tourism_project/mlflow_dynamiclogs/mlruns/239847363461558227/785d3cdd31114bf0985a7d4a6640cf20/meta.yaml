@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/785d3cdd31114bf0985a7d4a6640cf20/artifacts
+end_time: 1769946548240
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 785d3cdd31114bf0985a7d4a6640cf20
+run_name: industrious-carp-74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946547826
+status: 3
+tags: []
+user_id: root

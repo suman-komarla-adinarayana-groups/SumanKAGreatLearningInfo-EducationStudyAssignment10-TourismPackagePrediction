@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/756dfdcc3d3d47f1b3ba957ee4c25731/artifacts
+end_time: 1769946538528
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 756dfdcc3d3d47f1b3ba957ee4c25731
+run_name: flawless-stag-714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946538153
+status: 3
+tags: []
+user_id: root

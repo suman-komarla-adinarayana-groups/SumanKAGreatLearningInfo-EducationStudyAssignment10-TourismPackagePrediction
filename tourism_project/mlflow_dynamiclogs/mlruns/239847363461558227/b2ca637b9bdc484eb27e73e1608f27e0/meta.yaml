@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/b2ca637b9bdc484eb27e73e1608f27e0/artifacts
+end_time: 1769946789759
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: b2ca637b9bdc484eb27e73e1608f27e0
+run_name: traveling-tern-686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946789330
+status: 3
+tags: []
+user_id: root

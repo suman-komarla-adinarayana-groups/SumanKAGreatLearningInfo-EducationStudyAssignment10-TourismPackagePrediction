@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/716d55e366c3481bbdf185c32a7ad794/artifacts
+end_time: 1769946851639
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 716d55e366c3481bbdf185c32a7ad794
+run_name: powerful-dove-947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946851185
+status: 3
+tags: []
+user_id: root

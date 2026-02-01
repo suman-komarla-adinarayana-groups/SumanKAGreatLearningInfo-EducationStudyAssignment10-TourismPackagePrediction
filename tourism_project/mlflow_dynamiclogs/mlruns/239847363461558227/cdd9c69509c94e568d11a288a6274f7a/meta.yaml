@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/cdd9c69509c94e568d11a288a6274f7a/artifacts
+end_time: 1769946769794
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: cdd9c69509c94e568d11a288a6274f7a
+run_name: intrigued-croc-380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946769394
+status: 3
+tags: []
+user_id: root

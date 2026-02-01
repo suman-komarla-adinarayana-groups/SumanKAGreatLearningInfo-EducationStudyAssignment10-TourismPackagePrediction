@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/fb5127ff7441478783eeb1b7932dcd78/artifacts
+end_time: 1769946539006
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: fb5127ff7441478783eeb1b7932dcd78
+run_name: thoughtful-gull-836
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946538627
+status: 3
+tags: []
+user_id: root

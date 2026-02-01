@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/b0a5674c16e641ba856df5a75a5e602b/artifacts
+end_time: 1769946743756
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: b0a5674c16e641ba856df5a75a5e602b
+run_name: smiling-crane-521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946743315
+status: 3
+tags: []
+user_id: root

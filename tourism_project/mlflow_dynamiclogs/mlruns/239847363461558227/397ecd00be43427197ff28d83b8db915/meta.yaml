@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/397ecd00be43427197ff28d83b8db915/artifacts
+end_time: 1769946498164
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 397ecd00be43427197ff28d83b8db915
+run_name: bemused-skink-131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946497764
+status: 3
+tags: []
+user_id: root

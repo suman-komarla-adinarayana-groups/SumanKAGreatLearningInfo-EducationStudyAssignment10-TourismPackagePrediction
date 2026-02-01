@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/a9e88dc858b24c64bcfbe0d7e1881b7e/artifacts
+end_time: 1769946564795
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: a9e88dc858b24c64bcfbe0d7e1881b7e
+run_name: bedecked-asp-822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946564382
+status: 3
+tags: []
+user_id: root

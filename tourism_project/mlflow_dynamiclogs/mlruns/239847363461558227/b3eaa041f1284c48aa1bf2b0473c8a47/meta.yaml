@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/b3eaa041f1284c48aa1bf2b0473c8a47/artifacts
+end_time: 1769946735908
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: b3eaa041f1284c48aa1bf2b0473c8a47
+run_name: wistful-fawn-720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946735469
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/9ed4bb33123e42f6899dee1df1ad4339/artifacts
+end_time: 1769946803592
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 9ed4bb33123e42f6899dee1df1ad4339
+run_name: treasured-bee-495
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946803187
+status: 3
+tags: []
+user_id: root

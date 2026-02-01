@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/df59ab74962843dea1f1cef933b00a3d/artifacts
+end_time: 1769946810582
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: df59ab74962843dea1f1cef933b00a3d
+run_name: thoughtful-cat-277
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946810121
+status: 3
+tags: []
+user_id: root

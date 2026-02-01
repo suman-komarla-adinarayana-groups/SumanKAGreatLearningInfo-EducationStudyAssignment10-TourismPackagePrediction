@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/564ebbc9e58142a79d1248e18de3be77/artifacts
+end_time: 1769946876305
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 564ebbc9e58142a79d1248e18de3be77
+run_name: agreeable-vole-80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946875897
+status: 3
+tags: []
+user_id: root

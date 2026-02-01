@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/59c75eaec73a4ac2bf2efc4476a1692e/artifacts
+end_time: 1769946733931
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 59c75eaec73a4ac2bf2efc4476a1692e
+run_name: secretive-chimp-501
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946733549
+status: 3
+tags: []
+user_id: root

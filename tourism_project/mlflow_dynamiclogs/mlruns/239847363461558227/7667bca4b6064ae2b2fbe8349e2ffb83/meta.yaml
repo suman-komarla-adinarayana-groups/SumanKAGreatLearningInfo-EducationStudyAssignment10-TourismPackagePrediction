@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/7667bca4b6064ae2b2fbe8349e2ffb83/artifacts
+end_time: 1769946508765
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 7667bca4b6064ae2b2fbe8349e2ffb83
+run_name: luxuriant-pig-185
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946508385
+status: 3
+tags: []
+user_id: root

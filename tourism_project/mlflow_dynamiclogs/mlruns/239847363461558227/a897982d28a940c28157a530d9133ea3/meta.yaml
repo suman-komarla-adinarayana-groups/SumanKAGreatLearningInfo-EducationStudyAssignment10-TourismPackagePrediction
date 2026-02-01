@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/a897982d28a940c28157a530d9133ea3/artifacts
+end_time: 1769946797599
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: a897982d28a940c28157a530d9133ea3
+run_name: able-asp-970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946797144
+status: 3
+tags: []
+user_id: root

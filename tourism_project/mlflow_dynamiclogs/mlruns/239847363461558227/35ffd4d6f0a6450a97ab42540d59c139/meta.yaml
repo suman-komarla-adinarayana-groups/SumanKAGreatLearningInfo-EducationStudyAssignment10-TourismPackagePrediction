@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/35ffd4d6f0a6450a97ab42540d59c139/artifacts
+end_time: 1769946521478
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 35ffd4d6f0a6450a97ab42540d59c139
+run_name: trusting-cow-910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946521093
+status: 3
+tags: []
+user_id: root

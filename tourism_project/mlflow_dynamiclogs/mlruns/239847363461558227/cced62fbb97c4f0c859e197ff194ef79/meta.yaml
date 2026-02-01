@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/cced62fbb97c4f0c859e197ff194ef79/artifacts
+end_time: 1769946817363
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: cced62fbb97c4f0c859e197ff194ef79
+run_name: useful-fish-965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946816921
+status: 3
+tags: []
+user_id: root

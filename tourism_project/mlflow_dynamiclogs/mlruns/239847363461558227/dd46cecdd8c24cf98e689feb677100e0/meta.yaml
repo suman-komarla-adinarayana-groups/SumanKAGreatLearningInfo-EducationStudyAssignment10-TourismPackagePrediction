@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/dd46cecdd8c24cf98e689feb677100e0/artifacts
+end_time: 1769946619166
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: dd46cecdd8c24cf98e689feb677100e0
+run_name: capricious-duck-672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946618739
+status: 3
+tags: []
+user_id: root

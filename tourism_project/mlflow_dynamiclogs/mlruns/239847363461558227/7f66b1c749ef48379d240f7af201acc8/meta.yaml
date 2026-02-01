@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/7f66b1c749ef48379d240f7af201acc8/artifacts
+end_time: 1769946677583
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 7f66b1c749ef48379d240f7af201acc8
+run_name: bald-sloth-245
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946677169
+status: 3
+tags: []
+user_id: root

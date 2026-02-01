@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/f68d8d7b52a145f98213d0d55ce9db59/artifacts
+end_time: 1769946581050
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: f68d8d7b52a145f98213d0d55ce9db59
+run_name: lyrical-fowl-586
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946580626
+status: 3
+tags: []
+user_id: root

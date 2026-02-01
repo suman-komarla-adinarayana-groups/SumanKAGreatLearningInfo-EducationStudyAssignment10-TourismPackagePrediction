@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/4f7cd8724c954d84bd0c75cf61763f45/artifacts
+end_time: 1769946688058
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 4f7cd8724c954d84bd0c75cf61763f45
+run_name: upset-tern-677
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946687626
+status: 3
+tags: []
+user_id: root

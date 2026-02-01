@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/67d1189e4cfb4c9bbb22f6ee6d164bc3/artifacts
+end_time: 1769946871145
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 67d1189e4cfb4c9bbb22f6ee6d164bc3
+run_name: flawless-shrew-116
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946870730
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/6eccda8164e743e4b83e87970772abb1/artifacts
+end_time: 1769946776234
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 6eccda8164e743e4b83e87970772abb1
+run_name: fearless-mouse-113
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946775772
+status: 3
+tags: []
+user_id: root

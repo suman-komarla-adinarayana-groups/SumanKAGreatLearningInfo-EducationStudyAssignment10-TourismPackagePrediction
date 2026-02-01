@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/17d1d6fc69f2471d9b86b549fa1f7a78/artifacts
+end_time: 1769946848127
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 17d1d6fc69f2471d9b86b549fa1f7a78
+run_name: persistent-crane-30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946847629
+status: 3
+tags: []
+user_id: root

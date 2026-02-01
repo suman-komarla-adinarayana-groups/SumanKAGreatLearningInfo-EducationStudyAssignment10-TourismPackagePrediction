@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/32c267b00f594c8c9235aa97ebb7bca0/artifacts
+end_time: 1769946691334
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 32c267b00f594c8c9235aa97ebb7bca0
+run_name: judicious-ram-172
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946690872
+status: 3
+tags: []
+user_id: root

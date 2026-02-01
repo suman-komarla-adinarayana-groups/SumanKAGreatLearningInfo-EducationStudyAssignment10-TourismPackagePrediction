@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/302ca29f51b44a66a5c3f1bec4ac6306/artifacts
+end_time: 1769946582610
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 302ca29f51b44a66a5c3f1bec4ac6306
+run_name: bold-shrike-818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946582195
+status: 3
+tags: []
+user_id: root

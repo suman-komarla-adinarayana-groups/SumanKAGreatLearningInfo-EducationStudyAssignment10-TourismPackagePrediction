@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/109db0837a194dbd9711c92e6bbfb87a/artifacts
+end_time: 1769946546679
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 109db0837a194dbd9711c92e6bbfb87a
+run_name: calm-hog-966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946546265
+status: 3
+tags: []
+user_id: root

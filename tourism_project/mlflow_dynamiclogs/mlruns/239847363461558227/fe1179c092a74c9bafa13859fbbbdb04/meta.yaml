@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/fe1179c092a74c9bafa13859fbbbdb04/artifacts
+end_time: 1769946749741
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: fe1179c092a74c9bafa13859fbbbdb04
+run_name: bustling-finch-248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946749243
+status: 3
+tags: []
+user_id: root

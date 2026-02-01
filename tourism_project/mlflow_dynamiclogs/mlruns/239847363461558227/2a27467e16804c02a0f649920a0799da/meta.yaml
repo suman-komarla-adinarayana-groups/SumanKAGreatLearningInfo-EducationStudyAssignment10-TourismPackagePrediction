@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/2a27467e16804c02a0f649920a0799da/artifacts
+end_time: 1769946778007
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 2a27467e16804c02a0f649920a0799da
+run_name: awesome-wren-8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946777507
+status: 3
+tags: []
+user_id: root

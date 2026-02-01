@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/5756ddd550a943f5becb89c339aef676/artifacts
+end_time: 1769946796469
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 5756ddd550a943f5becb89c339aef676
+run_name: serious-snail-440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946795978
+status: 3
+tags: []
+user_id: root

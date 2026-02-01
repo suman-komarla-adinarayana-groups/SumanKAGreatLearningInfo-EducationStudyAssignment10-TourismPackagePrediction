@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/7b17f5d4a49d46068b4831c20cae04bc/artifacts
+end_time: 1769946720223
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 7b17f5d4a49d46068b4831c20cae04bc
+run_name: classy-ram-32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946719817
+status: 3
+tags: []
+user_id: root

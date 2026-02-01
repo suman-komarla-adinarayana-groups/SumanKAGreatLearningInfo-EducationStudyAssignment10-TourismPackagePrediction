@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/d3d165db7970438b97b260f1c0fa6678/artifacts
+end_time: 1769946578901
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: d3d165db7970438b97b260f1c0fa6678
+run_name: wistful-hen-93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946578490
+status: 3
+tags: []
+user_id: root

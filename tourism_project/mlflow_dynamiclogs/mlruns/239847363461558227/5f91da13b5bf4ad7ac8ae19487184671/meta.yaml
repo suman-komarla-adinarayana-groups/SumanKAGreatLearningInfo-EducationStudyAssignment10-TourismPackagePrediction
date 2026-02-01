@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/5f91da13b5bf4ad7ac8ae19487184671/artifacts
+end_time: 1769946755698
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 5f91da13b5bf4ad7ac8ae19487184671
+run_name: calm-chimp-978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946755231
+status: 3
+tags: []
+user_id: root

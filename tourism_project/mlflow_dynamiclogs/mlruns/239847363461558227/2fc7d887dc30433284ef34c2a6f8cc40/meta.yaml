@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/2fc7d887dc30433284ef34c2a6f8cc40/artifacts
+end_time: 1769946875794
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: 2fc7d887dc30433284ef34c2a6f8cc40
+run_name: burly-pug-441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946875385
+status: 3
+tags: []
+user_id: root

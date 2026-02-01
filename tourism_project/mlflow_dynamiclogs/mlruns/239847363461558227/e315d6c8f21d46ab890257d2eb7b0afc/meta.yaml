@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239847363461558227/e315d6c8f21d46ab890257d2eb7b0afc/artifacts
+end_time: 1769946534697
+entry_point_name: ''
+experiment_id: '239847363461558227'
+lifecycle_stage: active
+run_id: e315d6c8f21d46ab890257d2eb7b0afc
+run_name: nebulous-sheep-398
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769946534314
+status: 3
+tags: []
+user_id: root

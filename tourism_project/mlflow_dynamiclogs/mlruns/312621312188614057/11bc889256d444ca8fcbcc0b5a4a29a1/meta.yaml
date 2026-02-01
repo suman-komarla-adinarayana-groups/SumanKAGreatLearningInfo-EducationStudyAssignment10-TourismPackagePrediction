@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/11bc889256d444ca8fcbcc0b5a4a29a1/artifacts
+end_time: 1769940197181
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 11bc889256d444ca8fcbcc0b5a4a29a1
+run_name: enchanting-panda-88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940195659
+status: 3
+tags: []
+user_id: root

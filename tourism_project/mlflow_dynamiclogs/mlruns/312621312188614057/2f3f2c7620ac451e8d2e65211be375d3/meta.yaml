@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/2f3f2c7620ac451e8d2e65211be375d3/artifacts
+end_time: 1769939914191
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 2f3f2c7620ac451e8d2e65211be375d3
+run_name: stylish-vole-946
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939912684
+status: 3
+tags: []
+user_id: root

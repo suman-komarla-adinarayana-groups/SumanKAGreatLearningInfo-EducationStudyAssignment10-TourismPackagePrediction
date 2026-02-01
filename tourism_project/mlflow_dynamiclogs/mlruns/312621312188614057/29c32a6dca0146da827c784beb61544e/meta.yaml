@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/29c32a6dca0146da827c784beb61544e/artifacts
+end_time: 1769939954199
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 29c32a6dca0146da827c784beb61544e
+run_name: defiant-swan-463
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939952692
+status: 3
+tags: []
+user_id: root

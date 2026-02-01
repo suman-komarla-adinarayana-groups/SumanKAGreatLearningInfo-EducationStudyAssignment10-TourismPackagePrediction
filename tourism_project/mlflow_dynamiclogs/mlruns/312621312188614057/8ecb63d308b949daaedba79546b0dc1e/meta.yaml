@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/8ecb63d308b949daaedba79546b0dc1e/artifacts
+end_time: 1769939746838
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 8ecb63d308b949daaedba79546b0dc1e
+run_name: resilient-mule-516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939745349
+status: 3
+tags: []
+user_id: root

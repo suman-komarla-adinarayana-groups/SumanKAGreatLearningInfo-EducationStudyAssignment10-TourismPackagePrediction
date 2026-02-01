@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/08a13d46cee843559d0e0b27b8cc0fb2/artifacts
+end_time: 1769941010304
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 08a13d46cee843559d0e0b27b8cc0fb2
+run_name: stylish-calf-837
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769941008793
+status: 3
+tags: []
+user_id: root

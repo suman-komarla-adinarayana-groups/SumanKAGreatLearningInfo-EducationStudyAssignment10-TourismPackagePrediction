@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/955e796bb1c84334876f577f610267ad/artifacts
+end_time: 1769940676482
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 955e796bb1c84334876f577f610267ad
+run_name: puzzled-wren-986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940674930
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/ec1a55b5c77c4d4f828d711072153dd7/artifacts
+end_time: 1769940714485
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: ec1a55b5c77c4d4f828d711072153dd7
+run_name: adorable-croc-918
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940712977
+status: 3
+tags: []
+user_id: root

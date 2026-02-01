@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/b032f3d84d3c41de96af95c3fbcf39a8/artifacts
+end_time: 1769940362747
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: b032f3d84d3c41de96af95c3fbcf39a8
+run_name: receptive-snail-100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940361207
+status: 3
+tags: []
+user_id: root

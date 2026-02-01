@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/a16af399c36c4d318b462f2eb40bd2b9/artifacts
+end_time: 1769940433750
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: a16af399c36c4d318b462f2eb40bd2b9
+run_name: overjoyed-finch-499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940432212
+status: 3
+tags: []
+user_id: root

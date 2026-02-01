@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/3ff1b93755de427fabe8b65b33b46a2d/artifacts
+end_time: 1769940233542
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 3ff1b93755de427fabe8b65b33b46a2d
+run_name: luminous-fawn-341
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940232037
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/af06cf3001224b5aa157d51dfb7ad5af/artifacts
+end_time: 1769940617206
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: af06cf3001224b5aa157d51dfb7ad5af
+run_name: beautiful-kite-455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940615690
+status: 3
+tags: []
+user_id: root

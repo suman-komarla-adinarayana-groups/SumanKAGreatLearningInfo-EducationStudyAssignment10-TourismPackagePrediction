@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/ee4ddaf87cff4e2bb762da5536192148/artifacts
+end_time: 1769940298146
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: ee4ddaf87cff4e2bb762da5536192148
+run_name: funny-doe-430
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940296612
+status: 3
+tags: []
+user_id: root

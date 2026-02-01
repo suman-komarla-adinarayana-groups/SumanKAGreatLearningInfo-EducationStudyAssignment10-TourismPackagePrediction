@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/599a39c887404797bca74172f3765a77/artifacts
+end_time: 1769940527636
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 599a39c887404797bca74172f3765a77
+run_name: masked-shad-198
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940526085
+status: 3
+tags: []
+user_id: root

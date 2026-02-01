@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/cb65ea665e6d408cb6aa4c2342254d15/artifacts
+end_time: 1769939716428
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: cb65ea665e6d408cb6aa4c2342254d15
+run_name: bemused-shad-271
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939714893
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/5c573aff3ad04c0f9791a195d13f3512/artifacts
+end_time: 1769940661168
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 5c573aff3ad04c0f9791a195d13f3512
+run_name: invincible-pug-448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940659649
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/b0d56693671844caa4277991c6c18d39/artifacts
+end_time: 1769940970322
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: b0d56693671844caa4277991c6c18d39
+run_name: capricious-elk-983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940968809
+status: 3
+tags: []
+user_id: root

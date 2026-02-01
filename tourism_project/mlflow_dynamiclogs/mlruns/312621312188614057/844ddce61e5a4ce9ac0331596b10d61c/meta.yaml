@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/844ddce61e5a4ce9ac0331596b10d61c/artifacts
+end_time: 1769939923847
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 844ddce61e5a4ce9ac0331596b10d61c
+run_name: adaptable-kit-330
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939922340
+status: 3
+tags: []
+user_id: root

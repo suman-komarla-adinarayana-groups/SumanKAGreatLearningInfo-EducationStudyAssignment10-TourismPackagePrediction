@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/13c785a6de9542b6aee5ff1fe9efe5e2/artifacts
+end_time: 1769940193400
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 13c785a6de9542b6aee5ff1fe9efe5e2
+run_name: tasteful-lark-537
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940191891
+status: 3
+tags: []
+user_id: root

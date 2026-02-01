@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/60189ab901554059bbbfc18fedb5da1f/artifacts
+end_time: 1769940901763
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 60189ab901554059bbbfc18fedb5da1f
+run_name: defiant-conch-188
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940900250
+status: 3
+tags: []
+user_id: root

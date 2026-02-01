@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/182a1025edef4ba58df46db0049830ce/artifacts
+end_time: 1769940189613
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 182a1025edef4ba58df46db0049830ce
+run_name: intelligent-jay-188
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940188082
+status: 3
+tags: []
+user_id: root

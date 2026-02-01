@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/c1385d89e9974708b3ed92a50baa302e/artifacts
+end_time: 1769940307601
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: c1385d89e9974708b3ed92a50baa302e
+run_name: angry-mule-727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940306091
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/60b43c5fe35a4c048e2a2b38f614d11c/artifacts
+end_time: 1769941040786
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 60b43c5fe35a4c048e2a2b38f614d11c
+run_name: angry-goat-739
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769941039239
+status: 3
+tags: []
+user_id: root

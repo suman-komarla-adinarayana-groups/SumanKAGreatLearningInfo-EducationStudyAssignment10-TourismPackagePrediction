@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/c9d9d26cb5e340e3898bd4aed37ae514/artifacts
+end_time: 1769940890298
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: c9d9d26cb5e340e3898bd4aed37ae514
+run_name: silent-horse-23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940888787
+status: 3
+tags: []
+user_id: root

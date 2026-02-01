@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/c831585248cb45ad9ae80cfad1a1bd49/artifacts
+end_time: 1769940045419
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: c831585248cb45ad9ae80cfad1a1bd49
+run_name: monumental-seal-205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940043892
+status: 3
+tags: []
+user_id: root

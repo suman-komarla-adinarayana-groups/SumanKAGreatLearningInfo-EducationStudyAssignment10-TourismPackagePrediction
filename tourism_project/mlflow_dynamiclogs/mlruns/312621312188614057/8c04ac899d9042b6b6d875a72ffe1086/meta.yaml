@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/8c04ac899d9042b6b6d875a72ffe1086/artifacts
+end_time: 1769939986477
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 8c04ac899d9042b6b6d875a72ffe1086
+run_name: intrigued-conch-175
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939984941
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/06732d9e0a354949be8d5536ac32ac79/artifacts
+end_time: 1769939720186
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 06732d9e0a354949be8d5536ac32ac79
+run_name: nosy-cow-66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939718693
+status: 3
+tags: []
+user_id: root

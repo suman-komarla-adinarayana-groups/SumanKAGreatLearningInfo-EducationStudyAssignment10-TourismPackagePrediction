@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/29d417a83ad347079f52038beb62f354/artifacts
+end_time: 1769940796745
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 29d417a83ad347079f52038beb62f354
+run_name: thoughtful-foal-155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940795228
+status: 3
+tags: []
+user_id: root

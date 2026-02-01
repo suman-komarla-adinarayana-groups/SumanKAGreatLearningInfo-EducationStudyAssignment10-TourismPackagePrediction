@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/d2ca8516378f4419a365287c2ac2f40e/artifacts
+end_time: 1769940028367
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: d2ca8516378f4419a365287c2ac2f40e
+run_name: industrious-bat-947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940026827
+status: 3
+tags: []
+user_id: root

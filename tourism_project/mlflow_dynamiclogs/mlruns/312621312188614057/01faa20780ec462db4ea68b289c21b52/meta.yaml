@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/01faa20780ec462db4ea68b289c21b52/artifacts
+end_time: 1769940615313
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 01faa20780ec462db4ea68b289c21b52
+run_name: peaceful-dove-787
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940613790
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/b58dddc028584b72a3f9d4b5198a63b2/artifacts
+end_time: 1769940957003
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: b58dddc028584b72a3f9d4b5198a63b2
+run_name: suave-snake-46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940955496
+status: 3
+tags: []
+user_id: root

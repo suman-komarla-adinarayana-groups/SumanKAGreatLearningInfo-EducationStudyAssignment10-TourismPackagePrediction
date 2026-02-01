@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/f175ff94a4694af7bc1a3659292aebbf/artifacts
+end_time: 1769940473884
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: f175ff94a4694af7bc1a3659292aebbf
+run_name: fearless-snipe-724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940472348
+status: 3
+tags: []
+user_id: root

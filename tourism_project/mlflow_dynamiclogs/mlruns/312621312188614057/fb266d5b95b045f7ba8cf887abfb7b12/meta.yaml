@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/fb266d5b95b045f7ba8cf887abfb7b12/artifacts
+end_time: 1769940502821
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: fb266d5b95b045f7ba8cf887abfb7b12
+run_name: adorable-eel-755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940501294
+status: 3
+tags: []
+user_id: root

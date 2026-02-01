@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/6f95ee5a1e074c2f8b7a8a5ef7640bd2/artifacts
+end_time: 1769940349428
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 6f95ee5a1e074c2f8b7a8a5ef7640bd2
+run_name: peaceful-skunk-551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940347907
+status: 3
+tags: []
+user_id: root

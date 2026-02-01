@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/c7fb0a6b2ae9487f8758ff52f2486dcf/artifacts
+end_time: 1769940563798
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: c7fb0a6b2ae9487f8758ff52f2486dcf
+run_name: redolent-colt-150
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940562288
+status: 3
+tags: []
+user_id: root

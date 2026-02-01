@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/d1dd5918771e4bbc9c51ad8a6b3e724f/artifacts
+end_time: 1769939868350
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: d1dd5918771e4bbc9c51ad8a6b3e724f
+run_name: fearless-kite-174
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939866843
+status: 3
+tags: []
+user_id: root

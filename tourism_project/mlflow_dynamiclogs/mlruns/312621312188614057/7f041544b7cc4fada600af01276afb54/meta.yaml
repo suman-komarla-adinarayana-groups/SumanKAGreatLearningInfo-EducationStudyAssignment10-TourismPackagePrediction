@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/7f041544b7cc4fada600af01276afb54/artifacts
+end_time: 1769940518107
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 7f041544b7cc4fada600af01276afb54
+run_name: smiling-finch-371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940516583
+status: 3
+tags: []
+user_id: root

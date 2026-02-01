@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/236954406a2b47d98bda6dbed9cd8c3d/artifacts
+end_time: 1769940214275
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 236954406a2b47d98bda6dbed9cd8c3d
+run_name: nosy-ray-863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940212752
+status: 3
+tags: []
+user_id: root

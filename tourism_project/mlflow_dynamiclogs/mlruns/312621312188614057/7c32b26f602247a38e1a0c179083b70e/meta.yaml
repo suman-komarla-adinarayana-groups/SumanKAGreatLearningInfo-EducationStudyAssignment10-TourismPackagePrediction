@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/7c32b26f602247a38e1a0c179083b70e/artifacts
+end_time: 1769940275366
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 7c32b26f602247a38e1a0c179083b70e
+run_name: brawny-gnu-992
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940273861
+status: 3
+tags: []
+user_id: root

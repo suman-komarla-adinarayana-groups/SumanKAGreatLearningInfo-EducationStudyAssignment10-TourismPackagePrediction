@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/965edd85912e41a5b4444e630c127e4d/artifacts
+end_time: 1769940383858
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 965edd85912e41a5b4444e630c127e4d
+run_name: adventurous-doe-200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940382348
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/607746e87ce4457b92c878ab643fb7b5/artifacts
+end_time: 1769939885390
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 607746e87ce4457b92c878ab643fb7b5
+run_name: efficient-crow-470
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939883879
+status: 3
+tags: []
+user_id: root

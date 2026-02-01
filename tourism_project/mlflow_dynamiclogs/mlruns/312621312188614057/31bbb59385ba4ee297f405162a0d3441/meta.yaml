@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/31bbb59385ba4ee297f405162a0d3441/artifacts
+end_time: 1769940842433
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 31bbb59385ba4ee297f405162a0d3441
+run_name: dapper-rook-312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940840923
+status: 3
+tags: []
+user_id: root

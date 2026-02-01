@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/b844c818669f44dca6552f2119142432/artifacts
+end_time: 1769940395298
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: b844c818669f44dca6552f2119142432
+run_name: carefree-colt-522
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940393787
+status: 3
+tags: []
+user_id: root

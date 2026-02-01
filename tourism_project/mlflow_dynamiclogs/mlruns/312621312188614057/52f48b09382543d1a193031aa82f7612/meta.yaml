@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/52f48b09382543d1a193031aa82f7612/artifacts
+end_time: 1769940596296
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 52f48b09382543d1a193031aa82f7612
+run_name: amusing-cod-431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940594733
+status: 3
+tags: []
+user_id: root

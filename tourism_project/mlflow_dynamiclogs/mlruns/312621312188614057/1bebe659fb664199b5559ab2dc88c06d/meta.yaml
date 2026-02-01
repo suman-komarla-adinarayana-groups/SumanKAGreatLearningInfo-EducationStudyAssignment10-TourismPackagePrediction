@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/1bebe659fb664199b5559ab2dc88c06d/artifacts
+end_time: 1769940037788
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 1bebe659fb664199b5559ab2dc88c06d
+run_name: rebellious-mink-627
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940036285
+status: 3
+tags: []
+user_id: root

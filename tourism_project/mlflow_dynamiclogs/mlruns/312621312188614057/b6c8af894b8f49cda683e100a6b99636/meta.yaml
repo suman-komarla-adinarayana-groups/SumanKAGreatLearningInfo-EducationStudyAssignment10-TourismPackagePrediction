@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/b6c8af894b8f49cda683e100a6b99636/artifacts
+end_time: 1769940054942
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: b6c8af894b8f49cda683e100a6b99636
+run_name: upbeat-calf-698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940053393
+status: 3
+tags: []
+user_id: root

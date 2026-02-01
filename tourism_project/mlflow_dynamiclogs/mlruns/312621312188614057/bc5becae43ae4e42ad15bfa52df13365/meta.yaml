@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/bc5becae43ae4e42ad15bfa52df13365/artifacts
+end_time: 1769940525703
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: bc5becae43ae4e42ad15bfa52df13365
+run_name: blushing-fawn-84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940524182
+status: 3
+tags: []
+user_id: root

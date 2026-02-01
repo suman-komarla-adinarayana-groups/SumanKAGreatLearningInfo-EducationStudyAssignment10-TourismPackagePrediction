@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/93a192e69f974ceea93c44dd8b46190a/artifacts
+end_time: 1769940336122
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 93a192e69f974ceea93c44dd8b46190a
+run_name: thundering-bug-414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940334601
+status: 3
+tags: []
+user_id: root

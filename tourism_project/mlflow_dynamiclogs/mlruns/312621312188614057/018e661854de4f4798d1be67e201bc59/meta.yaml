@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/018e661854de4f4798d1be67e201bc59/artifacts
+end_time: 1769940412708
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 018e661854de4f4798d1be67e201bc59
+run_name: grandiose-bird-218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940411198
+status: 3
+tags: []
+user_id: root

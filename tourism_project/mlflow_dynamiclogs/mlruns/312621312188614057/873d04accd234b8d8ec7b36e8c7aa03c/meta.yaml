@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/873d04accd234b8d8ec7b36e8c7aa03c/artifacts
+end_time: 1769940324724
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 873d04accd234b8d8ec7b36e8c7aa03c
+run_name: upbeat-shad-696
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940323191
+status: 3
+tags: []
+user_id: root

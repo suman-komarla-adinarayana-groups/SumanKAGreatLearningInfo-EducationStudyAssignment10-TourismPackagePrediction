@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/7624d95ce52b4ca3a4f54e7381b9736c/artifacts
+end_time: 1769940481460
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 7624d95ce52b4ca3a4f54e7381b9736c
+run_name: suave-sheep-55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940479934
+status: 3
+tags: []
+user_id: root

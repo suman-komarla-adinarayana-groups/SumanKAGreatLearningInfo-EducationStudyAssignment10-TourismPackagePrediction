@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/ae11d31dc53340d18db5e70c0bdabb76/artifacts
+end_time: 1769940155414
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: ae11d31dc53340d18db5e70c0bdabb76
+run_name: painted-kite-710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940153908
+status: 3
+tags: []
+user_id: root

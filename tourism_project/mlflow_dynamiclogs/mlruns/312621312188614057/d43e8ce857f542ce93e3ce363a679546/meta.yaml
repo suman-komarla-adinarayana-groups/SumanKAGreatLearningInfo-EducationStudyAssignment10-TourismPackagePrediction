@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/d43e8ce857f542ce93e3ce363a679546/artifacts
+end_time: 1769941050287
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: d43e8ce857f542ce93e3ce363a679546
+run_name: nimble-cub-441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769941048778
+status: 3
+tags: []
+user_id: root

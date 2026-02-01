@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/2c16fd7a134c43fb94881fb579751892/artifacts
+end_time: 1769940802479
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 2c16fd7a134c43fb94881fb579751892
+run_name: mysterious-hawk-157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940800967
+status: 3
+tags: []
+user_id: root

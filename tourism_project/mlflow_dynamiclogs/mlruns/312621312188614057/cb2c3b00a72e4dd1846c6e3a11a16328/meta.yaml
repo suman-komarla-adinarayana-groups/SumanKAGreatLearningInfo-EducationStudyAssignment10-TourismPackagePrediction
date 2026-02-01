@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/cb2c3b00a72e4dd1846c6e3a11a16328/artifacts
+end_time: 1769939927627
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: cb2c3b00a72e4dd1846c6e3a11a16328
+run_name: valuable-steed-973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939926123
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/7e5d4762b1af4a9cbd07c8dba2e4f32b/artifacts
+end_time: 1769940374354
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 7e5d4762b1af4a9cbd07c8dba2e4f32b
+run_name: amusing-shoat-509
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940372654
+status: 3
+tags: []
+user_id: root

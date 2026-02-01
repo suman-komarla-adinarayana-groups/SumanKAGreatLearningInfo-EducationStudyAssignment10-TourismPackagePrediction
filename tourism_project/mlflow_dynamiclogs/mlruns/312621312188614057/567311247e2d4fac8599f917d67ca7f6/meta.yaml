@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/567311247e2d4fac8599f917d67ca7f6/artifacts
+end_time: 1769939965588
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 567311247e2d4fac8599f917d67ca7f6
+run_name: sedate-kit-556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939964077
+status: 3
+tags: []
+user_id: root

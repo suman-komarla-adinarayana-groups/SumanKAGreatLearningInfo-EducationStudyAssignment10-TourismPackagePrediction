@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/f34d93d372a2440b857ee66bb69fd122/artifacts
+end_time: 1769939976972
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: f34d93d372a2440b857ee66bb69fd122
+run_name: worried-wolf-633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939975462
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/3fda9e5046d4480da99e7e36ee2b05a1/artifacts
+end_time: 1769940668842
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 3fda9e5046d4480da99e7e36ee2b05a1
+run_name: intrigued-grouse-802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940667323
+status: 3
+tags: []
+user_id: root

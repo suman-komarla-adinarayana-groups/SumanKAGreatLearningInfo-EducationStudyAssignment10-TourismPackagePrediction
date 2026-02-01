@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/c4fdeea2b18a4593ac69f9c4c6ac0706/artifacts
+end_time: 1769940032134
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: c4fdeea2b18a4593ac69f9c4c6ac0706
+run_name: blushing-flea-215
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940030624
+status: 3
+tags: []
+user_id: root

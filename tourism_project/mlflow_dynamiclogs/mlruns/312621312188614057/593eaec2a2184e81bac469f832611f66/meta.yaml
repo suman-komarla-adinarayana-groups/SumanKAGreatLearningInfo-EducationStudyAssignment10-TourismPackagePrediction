@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/593eaec2a2184e81bac469f832611f66/artifacts
+end_time: 1769939822485
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 593eaec2a2184e81bac469f832611f66
+run_name: smiling-auk-887
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939820949
+status: 3
+tags: []
+user_id: root

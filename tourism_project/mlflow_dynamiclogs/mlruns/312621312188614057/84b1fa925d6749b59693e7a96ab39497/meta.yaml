@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/84b1fa925d6749b59693e7a96ab39497/artifacts
+end_time: 1769939748703
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 84b1fa925d6749b59693e7a96ab39497
+run_name: wistful-wren-742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939747213
+status: 3
+tags: []
+user_id: root

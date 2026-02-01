@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/64a376ea87b24ebdaf458c78494a2e6e/artifacts
+end_time: 1769940250689
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 64a376ea87b24ebdaf458c78494a2e6e
+run_name: overjoyed-sow-33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940249184
+status: 3
+tags: []
+user_id: root

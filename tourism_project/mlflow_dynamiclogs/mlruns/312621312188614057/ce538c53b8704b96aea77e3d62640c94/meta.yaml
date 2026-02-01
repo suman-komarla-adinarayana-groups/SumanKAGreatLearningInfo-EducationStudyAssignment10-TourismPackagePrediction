@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/ce538c53b8704b96aea77e3d62640c94/artifacts
+end_time: 1769940976088
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: ce538c53b8704b96aea77e3d62640c94
+run_name: abundant-grouse-131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940974541
+status: 3
+tags: []
+user_id: root

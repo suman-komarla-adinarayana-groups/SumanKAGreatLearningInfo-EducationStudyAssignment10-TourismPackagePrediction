@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/86e4d360bfc84e0889aa04816d77351b/artifacts
+end_time: 1769939786320
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 86e4d360bfc84e0889aa04816d77351b
+run_name: abrasive-owl-297
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939784817
+status: 3
+tags: []
+user_id: root

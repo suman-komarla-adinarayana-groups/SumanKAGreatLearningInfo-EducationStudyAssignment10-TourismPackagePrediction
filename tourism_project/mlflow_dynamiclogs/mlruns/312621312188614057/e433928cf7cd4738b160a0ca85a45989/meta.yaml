@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/e433928cf7cd4738b160a0ca85a45989/artifacts
+end_time: 1769940109906
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: e433928cf7cd4738b160a0ca85a45989
+run_name: bustling-hawk-863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940108372
+status: 3
+tags: []
+user_id: root

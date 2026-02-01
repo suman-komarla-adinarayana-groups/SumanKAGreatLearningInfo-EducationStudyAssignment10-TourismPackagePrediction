@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/4c852ee349294ee49f97b7fc8260d783/artifacts
+end_time: 1769940092820
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 4c852ee349294ee49f97b7fc8260d783
+run_name: sincere-squid-885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940091304
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/54d8957ea0b64192adcb853fa0cd78da/artifacts
+end_time: 1769940452895
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 54d8957ea0b64192adcb853fa0cd78da
+run_name: tasteful-shrike-954
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940451303
+status: 3
+tags: []
+user_id: root

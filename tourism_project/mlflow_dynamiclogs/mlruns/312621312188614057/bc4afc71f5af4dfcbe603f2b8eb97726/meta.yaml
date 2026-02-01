@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/bc4afc71f5af4dfcbe603f2b8eb97726/artifacts
+end_time: 1769939820469
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: bc4afc71f5af4dfcbe603f2b8eb97726
+run_name: righteous-skink-344
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939818862
+status: 3
+tags: []
+user_id: root

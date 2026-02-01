@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/c7a55026d824499bb94f17a4eee90042/artifacts
+end_time: 1769939940933
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: c7a55026d824499bb94f17a4eee90042
+run_name: useful-stag-241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939939416
+status: 3
+tags: []
+user_id: root

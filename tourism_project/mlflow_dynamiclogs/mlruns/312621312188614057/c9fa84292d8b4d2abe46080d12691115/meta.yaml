@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/c9fa84292d8b4d2abe46080d12691115/artifacts
+end_time: 1769940684101
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: c9fa84292d8b4d2abe46080d12691115
+run_name: rebellious-bat-463
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940682576
+status: 3
+tags: []
+user_id: root

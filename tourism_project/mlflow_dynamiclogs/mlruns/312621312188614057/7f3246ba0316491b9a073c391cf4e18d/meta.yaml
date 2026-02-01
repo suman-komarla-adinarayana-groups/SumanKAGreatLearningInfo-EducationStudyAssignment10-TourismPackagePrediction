@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/7f3246ba0316491b9a073c391cf4e18d/artifacts
+end_time: 1769940678406
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 7f3246ba0316491b9a073c391cf4e18d
+run_name: powerful-sheep-37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940676864
+status: 3
+tags: []
+user_id: root

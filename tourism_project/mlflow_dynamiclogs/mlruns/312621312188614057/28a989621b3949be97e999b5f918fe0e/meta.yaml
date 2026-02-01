@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/28a989621b3949be97e999b5f918fe0e/artifacts
+end_time: 1769940972224
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 28a989621b3949be97e999b5f918fe0e
+run_name: debonair-mink-325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940970699
+status: 3
+tags: []
+user_id: root

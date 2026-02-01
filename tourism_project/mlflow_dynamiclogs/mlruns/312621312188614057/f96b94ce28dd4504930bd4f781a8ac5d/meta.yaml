@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/f96b94ce28dd4504930bd4f781a8ac5d/artifacts
+end_time: 1769940794849
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: f96b94ce28dd4504930bd4f781a8ac5d
+run_name: defiant-shrimp-350
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940793336
+status: 3
+tags: []
+user_id: root

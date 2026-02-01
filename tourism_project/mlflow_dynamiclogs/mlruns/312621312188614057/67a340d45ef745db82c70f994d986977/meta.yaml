@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/67a340d45ef745db82c70f994d986977/artifacts
+end_time: 1769940508497
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 67a340d45ef745db82c70f994d986977
+run_name: bemused-hare-225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940506982
+status: 3
+tags: []
+user_id: root

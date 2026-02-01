@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/14a26367024c4d7b9ec9c0f402b9f49c/artifacts
+end_time: 1769939872128
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 14a26367024c4d7b9ec9c0f402b9f49c
+run_name: dazzling-pig-619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939870626
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/5dbcf1684f4d4125b36421bfe6a2ab02/artifacts
+end_time: 1769940775833
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 5dbcf1684f4d4125b36421bfe6a2ab02
+run_name: charming-wasp-692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940774316
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/267cf0398db043ba9948b011e0d3dcdb/artifacts
+end_time: 1769939925745
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 267cf0398db043ba9948b011e0d3dcdb
+run_name: trusting-owl-823
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939924225
+status: 3
+tags: []
+user_id: root

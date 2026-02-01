@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/32821d13cf6f4f1194b529538a04bd85/artifacts
+end_time: 1769940710710
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 32821d13cf6f4f1194b529538a04bd85
+run_name: debonair-ox-873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940709192
+status: 3
+tags: []
+user_id: root

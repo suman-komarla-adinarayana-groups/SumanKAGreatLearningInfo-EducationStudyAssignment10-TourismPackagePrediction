@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/4b3d1cbd380a4a24b96631ca2e5e5228/artifacts
+end_time: 1769939795734
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 4b3d1cbd380a4a24b96631ca2e5e5228
+run_name: thoughtful-shoat-633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939794195
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/49ba51a275bf47efa8c9c86ef9a9bdd7/artifacts
+end_time: 1769939908533
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 49ba51a275bf47efa8c9c86ef9a9bdd7
+run_name: flawless-kite-914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939907013
+status: 3
+tags: []
+user_id: root

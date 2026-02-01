@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/e452fd1ed18e4cd0827cc65347cdc521/artifacts
+end_time: 1769940567645
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: e452fd1ed18e4cd0827cc65347cdc521
+run_name: secretive-hen-787
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940566097
+status: 3
+tags: []
+user_id: root

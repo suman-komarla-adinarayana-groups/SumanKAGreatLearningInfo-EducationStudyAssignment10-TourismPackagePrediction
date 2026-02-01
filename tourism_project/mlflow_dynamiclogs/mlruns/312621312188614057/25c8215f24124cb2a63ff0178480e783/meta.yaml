@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/25c8215f24124cb2a63ff0178480e783/artifacts
+end_time: 1769941052190
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 25c8215f24124cb2a63ff0178480e783
+run_name: welcoming-fox-495
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769941050666
+status: 3
+tags: []
+user_id: root

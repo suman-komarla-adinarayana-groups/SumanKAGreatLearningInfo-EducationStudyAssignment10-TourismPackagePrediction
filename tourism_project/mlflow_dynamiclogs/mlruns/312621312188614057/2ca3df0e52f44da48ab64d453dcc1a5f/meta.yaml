@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/2ca3df0e52f44da48ab64d453dcc1a5f/artifacts
+end_time: 1769941079395
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 2ca3df0e52f44da48ab64d453dcc1a5f
+run_name: aged-bass-408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769941077882
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/0e634a8cd38149a9a1c75b0719d2fd4c/artifacts
+end_time: 1769940754408
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 0e634a8cd38149a9a1c75b0719d2fd4c
+run_name: gifted-slug-689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940752888
+status: 3
+tags: []
+user_id: root

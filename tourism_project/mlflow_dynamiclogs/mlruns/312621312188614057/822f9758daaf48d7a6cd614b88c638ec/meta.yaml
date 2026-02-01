@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/822f9758daaf48d7a6cd614b88c638ec/artifacts
+end_time: 1769941006521
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 822f9758daaf48d7a6cd614b88c638ec
+run_name: redolent-dove-586
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769941005004
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/8b164c9471564e72b4dd01d5ffa96487/artifacts
+end_time: 1769939810875
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 8b164c9471564e72b4dd01d5ffa96487
+run_name: salty-bat-568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939809351
+status: 3
+tags: []
+user_id: root

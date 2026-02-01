@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/595daeb3e82c4fbcb90a966e83857ada/artifacts
+end_time: 1769940951319
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 595daeb3e82c4fbcb90a966e83857ada
+run_name: clean-duck-316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940949797
+status: 3
+tags: []
+user_id: root

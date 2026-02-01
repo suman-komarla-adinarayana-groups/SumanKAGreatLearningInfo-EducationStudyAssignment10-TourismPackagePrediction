@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/a29fee803c0a4862a0fa83ace9d33301/artifacts
+end_time: 1769940806262
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: a29fee803c0a4862a0fa83ace9d33301
+run_name: glamorous-crane-624
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940804753
+status: 3
+tags: []
+user_id: root

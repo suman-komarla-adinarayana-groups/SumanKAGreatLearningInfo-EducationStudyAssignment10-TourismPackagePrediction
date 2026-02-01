@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/13a240e180a54bff91f168398a24a2bf/artifacts
+end_time: 1769940106080
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 13a240e180a54bff91f168398a24a2bf
+run_name: capable-lark-328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940104555
+status: 3
+tags: []
+user_id: root

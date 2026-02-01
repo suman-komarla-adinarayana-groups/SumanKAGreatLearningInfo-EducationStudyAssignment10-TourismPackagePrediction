@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/9c0d79b55b1a49708ef1535f6140cf84/artifacts
+end_time: 1769940996980
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 9c0d79b55b1a49708ef1535f6140cf84
+run_name: debonair-grouse-375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940995466
+status: 3
+tags: []
+user_id: root

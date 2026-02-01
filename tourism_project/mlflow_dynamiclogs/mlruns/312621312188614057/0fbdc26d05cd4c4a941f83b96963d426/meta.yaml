@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/0fbdc26d05cd4c4a941f83b96963d426/artifacts
+end_time: 1769940328521
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 0fbdc26d05cd4c4a941f83b96963d426
+run_name: traveling-worm-29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940327006
+status: 3
+tags: []
+user_id: root

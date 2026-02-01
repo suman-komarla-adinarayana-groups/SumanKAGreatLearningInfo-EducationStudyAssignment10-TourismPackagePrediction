@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/4a01cf9f21af485984012066d0b5e14a/artifacts
+end_time: 1769939731470
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 4a01cf9f21af485984012066d0b5e14a
+run_name: fortunate-duck-951
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939729978
+status: 3
+tags: []
+user_id: root

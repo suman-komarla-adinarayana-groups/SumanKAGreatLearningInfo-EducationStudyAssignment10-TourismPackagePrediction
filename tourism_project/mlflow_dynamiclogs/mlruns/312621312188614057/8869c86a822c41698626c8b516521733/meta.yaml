@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/8869c86a822c41698626c8b516521733/artifacts
+end_time: 1769939791933
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 8869c86a822c41698626c8b516521733
+run_name: adaptable-stoat-109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939790431
+status: 3
+tags: []
+user_id: root

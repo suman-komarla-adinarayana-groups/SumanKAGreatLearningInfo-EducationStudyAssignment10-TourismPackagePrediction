@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/729a98456e9d47c09e47be6a7662549a/artifacts
+end_time: 1769939995996
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 729a98456e9d47c09e47be6a7662549a
+run_name: industrious-grub-113
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939994493
+status: 3
+tags: []
+user_id: root

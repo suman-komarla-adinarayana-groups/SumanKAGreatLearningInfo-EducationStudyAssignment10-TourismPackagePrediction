@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/e647905b1d614b8b9640638e0370e52b/artifacts
+end_time: 1769940663101
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: e647905b1d614b8b9640638e0370e52b
+run_name: fearless-ray-668
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940661556
+status: 3
+tags: []
+user_id: root

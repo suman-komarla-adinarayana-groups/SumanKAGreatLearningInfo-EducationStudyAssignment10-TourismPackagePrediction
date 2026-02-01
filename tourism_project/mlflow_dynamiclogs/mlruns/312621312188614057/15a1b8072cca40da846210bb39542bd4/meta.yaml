@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/15a1b8072cca40da846210bb39542bd4/artifacts
+end_time: 1769940075757
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 15a1b8072cca40da846210bb39542bd4
+run_name: agreeable-mouse-295
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940074250
+status: 3
+tags: []
+user_id: root

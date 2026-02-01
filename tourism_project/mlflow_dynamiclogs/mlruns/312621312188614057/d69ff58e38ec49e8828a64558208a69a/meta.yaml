@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/d69ff58e38ec49e8828a64558208a69a/artifacts
+end_time: 1769939877832
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: d69ff58e38ec49e8828a64558208a69a
+run_name: awesome-dolphin-899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939876290
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/b6532cc053bb4ee7b2ebc2fa2990dd3d/artifacts
+end_time: 1769940880840
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: b6532cc053bb4ee7b2ebc2fa2990dd3d
+run_name: welcoming-colt-23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940879302
+status: 3
+tags: []
+user_id: root

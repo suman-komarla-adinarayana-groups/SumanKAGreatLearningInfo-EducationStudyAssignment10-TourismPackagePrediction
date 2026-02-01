@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/e96721282a0542d4aaf9395c073ee7a9/artifacts
+end_time: 1769940571470
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: e96721282a0542d4aaf9395c073ee7a9
+run_name: suave-mule-725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940569957
+status: 3
+tags: []
+user_id: root

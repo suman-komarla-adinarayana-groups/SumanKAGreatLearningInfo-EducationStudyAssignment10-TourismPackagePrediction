@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/5a6965534e1e4461af115b44a7d46646/artifacts
+end_time: 1769939988383
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 5a6965534e1e4461af115b44a7d46646
+run_name: rogue-seal-896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939986865
+status: 3
+tags: []
+user_id: root

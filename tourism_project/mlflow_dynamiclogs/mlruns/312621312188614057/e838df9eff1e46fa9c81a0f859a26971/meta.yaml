@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/e838df9eff1e46fa9c81a0f859a26971/artifacts
+end_time: 1769940200970
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: e838df9eff1e46fa9c81a0f859a26971
+run_name: grandiose-bear-166
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940199450
+status: 3
+tags: []
+user_id: root

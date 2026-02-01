@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/fd611c3782ac4b94a5be989510bbaf29/artifacts
+end_time: 1769940968430
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: fd611c3782ac4b94a5be989510bbaf29
+run_name: lyrical-robin-87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940966916
+status: 3
+tags: []
+user_id: root

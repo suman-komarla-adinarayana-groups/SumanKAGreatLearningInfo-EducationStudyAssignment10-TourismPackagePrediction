@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/864b65599bb348d9ac475a5852eba2af/artifacts
+end_time: 1769940358942
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 864b65599bb348d9ac475a5852eba2af
+run_name: nervous-horse-753
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940357426
+status: 3
+tags: []
+user_id: root

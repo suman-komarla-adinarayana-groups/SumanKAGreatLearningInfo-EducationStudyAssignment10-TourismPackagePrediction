@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/689cc492c63547c99ac21a233fe1b676/artifacts
+end_time: 1769940229600
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 689cc492c63547c99ac21a233fe1b676
+run_name: spiffy-asp-856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940228028
+status: 3
+tags: []
+user_id: root

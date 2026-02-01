@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/352809a323624e339db41d2caf66ef65/artifacts
+end_time: 1769940831034
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 352809a323624e339db41d2caf66ef65
+run_name: bald-finch-883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940829515
+status: 3
+tags: []
+user_id: root

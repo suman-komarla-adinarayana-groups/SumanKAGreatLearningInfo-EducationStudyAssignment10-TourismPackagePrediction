@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/743da7f260394c5bad9884fdc0b38e9b/artifacts
+end_time: 1769940495151
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 743da7f260394c5bad9884fdc0b38e9b
+run_name: lyrical-goat-951
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940493638
+status: 3
+tags: []
+user_id: root

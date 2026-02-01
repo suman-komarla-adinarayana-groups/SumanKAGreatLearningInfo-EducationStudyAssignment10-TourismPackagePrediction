@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/5519cb40230e43eeb2f8a93fe6c248ae/artifacts
+end_time: 1769939826289
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 5519cb40230e43eeb2f8a93fe6c248ae
+run_name: burly-lynx-989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939824778
+status: 3
+tags: []
+user_id: root

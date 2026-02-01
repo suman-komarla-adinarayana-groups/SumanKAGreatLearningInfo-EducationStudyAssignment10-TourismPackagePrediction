@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/99b0d20f1b9840649b7e31dd05e4d211/artifacts
+end_time: 1769940096640
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 99b0d20f1b9840649b7e31dd05e4d211
+run_name: melodic-gnat-824
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940095118
+status: 3
+tags: []
+user_id: root

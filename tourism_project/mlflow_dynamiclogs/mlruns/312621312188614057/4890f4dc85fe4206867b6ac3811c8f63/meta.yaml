@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/4890f4dc85fe4206867b6ac3811c8f63/artifacts
+end_time: 1769940039707
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 4890f4dc85fe4206867b6ac3811c8f63
+run_name: crawling-whale-805
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940038172
+status: 3
+tags: []
+user_id: root

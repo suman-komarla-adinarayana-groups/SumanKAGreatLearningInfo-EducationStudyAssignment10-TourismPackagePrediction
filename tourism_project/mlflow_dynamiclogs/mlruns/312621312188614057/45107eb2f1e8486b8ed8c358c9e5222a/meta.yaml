@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/45107eb2f1e8486b8ed8c358c9e5222a/artifacts
+end_time: 1769940569579
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 45107eb2f1e8486b8ed8c358c9e5222a
+run_name: big-ape-929
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940568030
+status: 3
+tags: []
+user_id: root

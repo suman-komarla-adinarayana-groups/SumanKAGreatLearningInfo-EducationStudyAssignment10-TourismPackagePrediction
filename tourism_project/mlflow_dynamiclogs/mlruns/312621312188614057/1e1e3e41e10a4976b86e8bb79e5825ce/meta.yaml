@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/1e1e3e41e10a4976b86e8bb79e5825ce/artifacts
+end_time: 1769939856862
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 1e1e3e41e10a4976b86e8bb79e5825ce
+run_name: classy-shrimp-465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939855360
+status: 3
+tags: []
+user_id: root

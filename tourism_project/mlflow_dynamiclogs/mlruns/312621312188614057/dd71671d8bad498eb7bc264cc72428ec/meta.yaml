@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/dd71671d8bad498eb7bc264cc72428ec/artifacts
+end_time: 1769939818485
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: dd71671d8bad498eb7bc264cc72428ec
+run_name: colorful-wolf-265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939816981
+status: 3
+tags: []
+user_id: root

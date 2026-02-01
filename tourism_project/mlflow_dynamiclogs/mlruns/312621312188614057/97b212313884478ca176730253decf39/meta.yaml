@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/97b212313884478ca176730253decf39/artifacts
+end_time: 1769940043517
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 97b212313884478ca176730253decf39
+run_name: bold-fly-702
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940042008
+status: 3
+tags: []
+user_id: root

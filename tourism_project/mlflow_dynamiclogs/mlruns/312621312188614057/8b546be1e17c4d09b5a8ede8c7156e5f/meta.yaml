@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/8b546be1e17c4d09b5a8ede8c7156e5f/artifacts
+end_time: 1769939875909
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 8b546be1e17c4d09b5a8ede8c7156e5f
+run_name: gentle-vole-895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939874394
+status: 3
+tags: []
+user_id: root

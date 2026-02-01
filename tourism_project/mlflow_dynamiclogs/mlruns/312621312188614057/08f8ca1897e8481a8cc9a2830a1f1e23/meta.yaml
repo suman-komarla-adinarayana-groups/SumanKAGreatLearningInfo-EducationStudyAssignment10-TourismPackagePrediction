@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/08f8ca1897e8481a8cc9a2830a1f1e23/artifacts
+end_time: 1769940995088
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 08f8ca1897e8481a8cc9a2830a1f1e23
+run_name: abrasive-gnu-110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940993579
+status: 3
+tags: []
+user_id: root

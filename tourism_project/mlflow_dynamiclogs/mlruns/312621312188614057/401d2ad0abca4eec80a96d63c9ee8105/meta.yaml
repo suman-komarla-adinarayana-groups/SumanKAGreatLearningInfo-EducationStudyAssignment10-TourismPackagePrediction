@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/401d2ad0abca4eec80a96d63c9ee8105/artifacts
+end_time: 1769940248807
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 401d2ad0abca4eec80a96d63c9ee8105
+run_name: nimble-steed-119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940247242
+status: 3
+tags: []
+user_id: root

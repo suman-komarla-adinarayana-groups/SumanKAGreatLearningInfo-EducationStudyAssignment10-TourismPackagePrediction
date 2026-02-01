@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/05103b9df2294c459eb0de4d6ff22a13/artifacts
+end_time: 1769940149749
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 05103b9df2294c459eb0de4d6ff22a13
+run_name: luxuriant-seal-854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940148208
+status: 3
+tags: []
+user_id: root

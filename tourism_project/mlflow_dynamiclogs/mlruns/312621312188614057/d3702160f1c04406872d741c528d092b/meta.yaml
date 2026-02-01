@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/d3702160f1c04406872d741c528d092b/artifacts
+end_time: 1769940693624
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: d3702160f1c04406872d741c528d092b
+run_name: fortunate-fawn-496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940692114
+status: 3
+tags: []
+user_id: root

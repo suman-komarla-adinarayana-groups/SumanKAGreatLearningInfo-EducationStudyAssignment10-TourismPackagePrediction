@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/26982317523f4127b68f47dcd115bded/artifacts
+end_time: 1769940573369
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 26982317523f4127b68f47dcd115bded
+run_name: traveling-yak-246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940571846
+status: 3
+tags: []
+user_id: root

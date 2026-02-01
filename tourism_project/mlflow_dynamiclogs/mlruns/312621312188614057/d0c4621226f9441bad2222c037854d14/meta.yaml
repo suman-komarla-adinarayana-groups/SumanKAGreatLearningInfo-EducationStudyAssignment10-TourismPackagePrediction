@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/d0c4621226f9441bad2222c037854d14/artifacts
+end_time: 1769940073873
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: d0c4621226f9441bad2222c037854d14
+run_name: hilarious-owl-516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940072363
+status: 3
+tags: []
+user_id: root

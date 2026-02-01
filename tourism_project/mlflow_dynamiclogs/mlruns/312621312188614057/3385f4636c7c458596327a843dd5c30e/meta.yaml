@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/3385f4636c7c458596327a843dd5c30e/artifacts
+end_time: 1769939718319
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 3385f4636c7c458596327a843dd5c30e
+run_name: secretive-frog-167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939716810
+status: 3
+tags: []
+user_id: root

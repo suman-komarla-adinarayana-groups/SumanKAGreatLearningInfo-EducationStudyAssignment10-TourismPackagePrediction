@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/aef8d72acb264dc4a7e0c49f705ab7b7/artifacts
+end_time: 1769940100409
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: aef8d72acb264dc4a7e0c49f705ab7b7
+run_name: merciful-eel-913
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940098902
+status: 3
+tags: []
+user_id: root

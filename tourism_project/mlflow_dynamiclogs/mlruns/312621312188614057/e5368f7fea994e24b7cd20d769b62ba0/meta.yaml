@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/e5368f7fea994e24b7cd20d769b62ba0/artifacts
+end_time: 1769939784442
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: e5368f7fea994e24b7cd20d769b62ba0
+run_name: intrigued-boar-523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939782943
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/65fe96dcf8154646a2966dda8dffe980/artifacts
+end_time: 1769940947492
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 65fe96dcf8154646a2966dda8dffe980
+run_name: respected-ape-535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940945950
+status: 3
+tags: []
+user_id: root

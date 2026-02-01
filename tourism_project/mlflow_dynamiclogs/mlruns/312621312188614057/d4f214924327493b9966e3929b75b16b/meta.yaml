@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/d4f214924327493b9966e3929b75b16b/artifacts
+end_time: 1769940420422
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: d4f214924327493b9966e3929b75b16b
+run_name: useful-shoat-128
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940418890
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/d0b81eda84c543d9b3a5b8ed5e9b6bd1/artifacts
+end_time: 1769939832155
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: d0b81eda84c543d9b3a5b8ed5e9b6bd1
+run_name: abrasive-fish-420
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939830589
+status: 3
+tags: []
+user_id: root

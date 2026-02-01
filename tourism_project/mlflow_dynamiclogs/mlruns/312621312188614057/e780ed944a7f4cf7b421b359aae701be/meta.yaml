@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/e780ed944a7f4cf7b421b359aae701be/artifacts
+end_time: 1769940962754
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: e780ed944a7f4cf7b421b359aae701be
+run_name: caring-goose-55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940961223
+status: 3
+tags: []
+user_id: root

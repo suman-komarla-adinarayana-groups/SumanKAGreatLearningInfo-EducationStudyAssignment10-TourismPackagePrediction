@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/eb017ce557f845ec9e45b4dd0df5549b/artifacts
+end_time: 1769940733544
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: eb017ce557f845ec9e45b4dd0df5549b
+run_name: nebulous-goose-397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940732035
+status: 3
+tags: []
+user_id: root

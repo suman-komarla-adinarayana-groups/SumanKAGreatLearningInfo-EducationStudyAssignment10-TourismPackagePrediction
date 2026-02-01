@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/1eccbcde6eb0450a94b0a6c73d10970c/artifacts
+end_time: 1769940937979
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 1eccbcde6eb0450a94b0a6c73d10970c
+run_name: melodic-snail-473
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940936464
+status: 3
+tags: []
+user_id: root

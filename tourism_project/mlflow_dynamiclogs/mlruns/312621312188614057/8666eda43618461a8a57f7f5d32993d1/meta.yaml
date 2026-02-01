@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/8666eda43618461a8a57f7f5d32993d1/artifacts
+end_time: 1769939733341
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 8666eda43618461a8a57f7f5d32993d1
+run_name: skillful-turtle-469
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939731844
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/88d687eea0a64516a8f4988eba97ae3a/artifacts
+end_time: 1769939997895
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 88d687eea0a64516a8f4988eba97ae3a
+run_name: learned-bug-309
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939996376
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/a81762de2fe049b68902aa13f1626811/artifacts
+end_time: 1769941067887
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: a81762de2fe049b68902aa13f1626811
+run_name: nebulous-koi-158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769941066285
+status: 3
+tags: []
+user_id: root

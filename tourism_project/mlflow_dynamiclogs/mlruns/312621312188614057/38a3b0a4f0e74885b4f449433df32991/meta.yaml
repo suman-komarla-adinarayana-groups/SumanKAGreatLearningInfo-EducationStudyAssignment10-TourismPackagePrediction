@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/38a3b0a4f0e74885b4f449433df32991/artifacts
+end_time: 1769940750625
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 38a3b0a4f0e74885b4f449433df32991
+run_name: serious-seal-280
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940749116
+status: 3
+tags: []
+user_id: root

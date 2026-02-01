@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/d9260005f29c4ee2bbcc2e0fba58e314/artifacts
+end_time: 1769939814696
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: d9260005f29c4ee2bbcc2e0fba58e314
+run_name: inquisitive-hawk-185
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939813195
+status: 3
+tags: []
+user_id: root

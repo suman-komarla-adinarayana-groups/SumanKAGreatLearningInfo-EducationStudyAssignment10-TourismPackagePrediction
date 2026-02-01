@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/16974091a6834c0aae7c7a8661d5fb9c/artifacts
+end_time: 1769940876932
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 16974091a6834c0aae7c7a8661d5fb9c
+run_name: indecisive-tern-370
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940875410
+status: 3
+tags: []
+user_id: root

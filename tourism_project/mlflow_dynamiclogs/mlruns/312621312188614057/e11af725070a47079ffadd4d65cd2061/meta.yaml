@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/e11af725070a47079ffadd4d65cd2061/artifacts
+end_time: 1769939920071
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: e11af725070a47079ffadd4d65cd2061
+run_name: beautiful-stork-118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939918554
+status: 3
+tags: []
+user_id: root

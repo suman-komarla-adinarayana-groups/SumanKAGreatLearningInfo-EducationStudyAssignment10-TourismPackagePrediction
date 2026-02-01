@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/99ba2e0b318743dea233f2081ffa88d9/artifacts
+end_time: 1769939950422
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 99ba2e0b318743dea233f2081ffa88d9
+run_name: learned-squirrel-645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939948909
+status: 3
+tags: []
+user_id: root

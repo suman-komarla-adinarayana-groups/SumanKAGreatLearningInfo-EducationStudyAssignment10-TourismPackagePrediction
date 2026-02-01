@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/ba6b5dc78aa94884a297f5c5c8bfe5a9/artifacts
+end_time: 1769939935249
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: ba6b5dc78aa94884a297f5c5c8bfe5a9
+run_name: nosy-stoat-673
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939933740
+status: 3
+tags: []
+user_id: root

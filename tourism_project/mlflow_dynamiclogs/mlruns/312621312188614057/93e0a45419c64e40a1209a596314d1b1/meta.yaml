@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/93e0a45419c64e40a1209a596314d1b1/artifacts
+end_time: 1769940689807
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 93e0a45419c64e40a1209a596314d1b1
+run_name: debonair-stoat-909
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940688263
+status: 3
+tags: []
+user_id: root

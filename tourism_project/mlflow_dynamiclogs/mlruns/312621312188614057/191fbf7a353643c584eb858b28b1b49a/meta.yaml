@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/191fbf7a353643c584eb858b28b1b49a/artifacts
+end_time: 1769940083378
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 191fbf7a353643c584eb858b28b1b49a
+run_name: carefree-sow-232
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940081863
+status: 3
+tags: []
+user_id: root

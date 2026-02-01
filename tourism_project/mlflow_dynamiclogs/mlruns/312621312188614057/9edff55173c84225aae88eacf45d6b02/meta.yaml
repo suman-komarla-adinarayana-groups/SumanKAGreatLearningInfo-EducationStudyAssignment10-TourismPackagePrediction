@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/9edff55173c84225aae88eacf45d6b02/artifacts
+end_time: 1769940731649
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 9edff55173c84225aae88eacf45d6b02
+run_name: respected-elk-256
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940730101
+status: 3
+tags: []
+user_id: root

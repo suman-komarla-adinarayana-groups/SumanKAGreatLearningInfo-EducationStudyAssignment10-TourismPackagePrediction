@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/65e817d1db8040e4add7d84690e2f226/artifacts
+end_time: 1769941025519
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 65e817d1db8040e4add7d84690e2f226
+run_name: angry-frog-920
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769941023995
+status: 3
+tags: []
+user_id: root

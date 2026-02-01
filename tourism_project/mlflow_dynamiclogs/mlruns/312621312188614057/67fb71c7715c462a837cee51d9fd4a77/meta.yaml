@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/67fb71c7715c462a837cee51d9fd4a77/artifacts
+end_time: 1769940867249
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 67fb71c7715c462a837cee51d9fd4a77
+run_name: worried-perch-3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940865698
+status: 3
+tags: []
+user_id: root

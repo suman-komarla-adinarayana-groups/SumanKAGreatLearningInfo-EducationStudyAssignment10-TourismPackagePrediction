@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/9dfd0a5433684b85b928ff0710941326/artifacts
+end_time: 1769939725818
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 9dfd0a5433684b85b928ff0710941326
+run_name: nervous-lynx-516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939724322
+status: 3
+tags: []
+user_id: root

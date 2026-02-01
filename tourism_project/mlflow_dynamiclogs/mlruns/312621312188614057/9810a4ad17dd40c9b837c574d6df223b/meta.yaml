@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/9810a4ad17dd40c9b837c574d6df223b/artifacts
+end_time: 1769940691735
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 9810a4ad17dd40c9b837c574d6df223b
+run_name: dashing-pug-897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940690188
+status: 3
+tags: []
+user_id: root

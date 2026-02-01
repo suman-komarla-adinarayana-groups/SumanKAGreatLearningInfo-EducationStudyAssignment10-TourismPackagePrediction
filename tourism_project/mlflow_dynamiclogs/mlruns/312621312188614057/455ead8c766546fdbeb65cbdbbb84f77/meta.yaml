@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/455ead8c766546fdbeb65cbdbbb84f77/artifacts
+end_time: 1769940005507
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 455ead8c766546fdbeb65cbdbbb84f77
+run_name: abundant-vole-848
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940003985
+status: 3
+tags: []
+user_id: root

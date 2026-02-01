@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/f7dcc6a401764d8291ed7f78c30083f7/artifacts
+end_time: 1769940290547
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: f7dcc6a401764d8291ed7f78c30083f7
+run_name: adaptable-bird-649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940289035
+status: 3
+tags: []
+user_id: root

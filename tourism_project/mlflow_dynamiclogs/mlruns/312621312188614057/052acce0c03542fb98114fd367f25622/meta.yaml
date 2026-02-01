@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/052acce0c03542fb98114fd367f25622/artifacts
+end_time: 1769940237308
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 052acce0c03542fb98114fd367f25622
+run_name: charming-hound-810
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940235804
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/1a524fcbe93d4a05be219214f691c83c/artifacts
+end_time: 1769940372278
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 1a524fcbe93d4a05be219214f691c83c
+run_name: abundant-gull-21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940370760
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/b12b786af1eb493a8ebbe58552483455/artifacts
+end_time: 1769941087042
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: b12b786af1eb493a8ebbe58552483455
+run_name: honorable-grub-223
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769941085522
+status: 3
+tags: []
+user_id: root

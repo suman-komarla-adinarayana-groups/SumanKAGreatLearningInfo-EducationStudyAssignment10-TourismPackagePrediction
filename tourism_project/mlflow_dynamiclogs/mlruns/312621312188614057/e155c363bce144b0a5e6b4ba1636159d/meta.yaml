@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/e155c363bce144b0a5e6b4ba1636159d/artifacts
+end_time: 1769939835950
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: e155c363bce144b0a5e6b4ba1636159d
+run_name: gifted-croc-355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939834423
+status: 3
+tags: []
+user_id: root

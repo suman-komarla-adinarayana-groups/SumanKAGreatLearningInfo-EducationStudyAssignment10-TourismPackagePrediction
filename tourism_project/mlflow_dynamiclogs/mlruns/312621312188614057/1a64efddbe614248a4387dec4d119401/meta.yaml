@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/1a64efddbe614248a4387dec4d119401/artifacts
+end_time: 1769940134539
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 1a64efddbe614248a4387dec4d119401
+run_name: rebellious-stoat-792
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940133007
+status: 3
+tags: []
+user_id: root

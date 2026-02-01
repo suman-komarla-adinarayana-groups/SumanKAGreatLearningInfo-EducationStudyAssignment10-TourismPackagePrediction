@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/cb60106bf0434681baa1487dc1999647/artifacts
+end_time: 1769940523800
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: cb60106bf0434681baa1487dc1999647
+run_name: adventurous-worm-656
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940522293
+status: 3
+tags: []
+user_id: root

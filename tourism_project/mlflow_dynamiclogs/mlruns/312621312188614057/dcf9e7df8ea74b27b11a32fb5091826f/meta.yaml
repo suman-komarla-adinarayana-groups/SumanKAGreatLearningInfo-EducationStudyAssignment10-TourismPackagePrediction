@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/dcf9e7df8ea74b27b11a32fb5091826f/artifacts
+end_time: 1769939722071
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: dcf9e7df8ea74b27b11a32fb5091826f
+run_name: brawny-yak-255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939720571
+status: 3
+tags: []
+user_id: root

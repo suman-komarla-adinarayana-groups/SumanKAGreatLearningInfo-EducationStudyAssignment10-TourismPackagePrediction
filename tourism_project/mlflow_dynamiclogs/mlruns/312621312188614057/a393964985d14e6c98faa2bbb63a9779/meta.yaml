@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/a393964985d14e6c98faa2bbb63a9779/artifacts
+end_time: 1769940811992
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: a393964985d14e6c98faa2bbb63a9779
+run_name: inquisitive-horse-29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940810437
+status: 3
+tags: []
+user_id: root

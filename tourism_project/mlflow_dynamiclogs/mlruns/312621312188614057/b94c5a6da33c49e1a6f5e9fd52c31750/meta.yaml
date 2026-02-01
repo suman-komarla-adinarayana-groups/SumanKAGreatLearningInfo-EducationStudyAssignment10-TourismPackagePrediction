@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/b94c5a6da33c49e1a6f5e9fd52c31750/artifacts
+end_time: 1769939760042
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: b94c5a6da33c49e1a6f5e9fd52c31750
+run_name: charming-duck-466
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939758524
+status: 3
+tags: []
+user_id: root

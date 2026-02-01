@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/34a6f690ef2b4df284386ba201fa68a8/artifacts
+end_time: 1769940861494
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 34a6f690ef2b4df284386ba201fa68a8
+run_name: overjoyed-lynx-620
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940859982
+status: 3
+tags: []
+user_id: root

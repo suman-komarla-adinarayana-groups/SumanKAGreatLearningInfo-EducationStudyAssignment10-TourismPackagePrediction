@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/e655311be595487ca942752ae6728355/artifacts
+end_time: 1769940758231
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: e655311be595487ca942752ae6728355
+run_name: handsome-hog-155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940756690
+status: 3
+tags: []
+user_id: root

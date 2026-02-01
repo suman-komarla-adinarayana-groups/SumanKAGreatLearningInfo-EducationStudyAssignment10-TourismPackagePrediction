@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/1b382ab1cffd41dc9f3e6003f6c95521/artifacts
+end_time: 1769940779627
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 1b382ab1cffd41dc9f3e6003f6c95521
+run_name: serious-shrimp-620
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940778120
+status: 3
+tags: []
+user_id: root

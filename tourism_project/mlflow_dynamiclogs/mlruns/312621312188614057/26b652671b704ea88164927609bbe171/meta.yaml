@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/26b652671b704ea88164927609bbe171/artifacts
+end_time: 1769940056832
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 26b652671b704ea88164927609bbe171
+run_name: burly-loon-284
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940055321
+status: 3
+tags: []
+user_id: root

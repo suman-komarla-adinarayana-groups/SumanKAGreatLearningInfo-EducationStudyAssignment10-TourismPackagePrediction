@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/a09b60e8534c414684ec4e134e1e9248/artifacts
+end_time: 1769939797640
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: a09b60e8534c414684ec4e134e1e9248
+run_name: calm-sponge-801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939796118
+status: 3
+tags: []
+user_id: root

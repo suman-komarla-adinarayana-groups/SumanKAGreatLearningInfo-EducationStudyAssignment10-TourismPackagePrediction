@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/0309d0ba49b04e61ac72a161a0724901/artifacts
+end_time: 1769940624877
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 0309d0ba49b04e61ac72a161a0724901
+run_name: upbeat-midge-161
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940623347
+status: 3
+tags: []
+user_id: root

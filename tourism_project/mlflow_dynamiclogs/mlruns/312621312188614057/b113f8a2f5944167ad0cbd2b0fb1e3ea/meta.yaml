@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/b113f8a2f5944167ad0cbd2b0fb1e3ea/artifacts
+end_time: 1769940431818
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: b113f8a2f5944167ad0cbd2b0fb1e3ea
+run_name: languid-roo-43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940430269
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/b8acb41ee636459d910e4d8315736f27/artifacts
+end_time: 1769939758150
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: b8acb41ee636459d910e4d8315736f27
+run_name: chill-cod-309
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939756658
+status: 3
+tags: []
+user_id: root

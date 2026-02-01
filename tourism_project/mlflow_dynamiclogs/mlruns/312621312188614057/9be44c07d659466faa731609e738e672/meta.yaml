@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/9be44c07d659466faa731609e738e672/artifacts
+end_time: 1769940897933
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 9be44c07d659466faa731609e738e672
+run_name: vaunted-bat-513
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940896406
+status: 3
+tags: []
+user_id: root

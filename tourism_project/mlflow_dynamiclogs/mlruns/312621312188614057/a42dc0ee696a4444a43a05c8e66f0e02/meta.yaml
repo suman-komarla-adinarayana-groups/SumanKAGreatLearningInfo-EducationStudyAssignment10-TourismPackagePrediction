@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/a42dc0ee696a4444a43a05c8e66f0e02/artifacts
+end_time: 1769940111797
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: a42dc0ee696a4444a43a05c8e66f0e02
+run_name: debonair-whale-0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940110287
+status: 3
+tags: []
+user_id: root

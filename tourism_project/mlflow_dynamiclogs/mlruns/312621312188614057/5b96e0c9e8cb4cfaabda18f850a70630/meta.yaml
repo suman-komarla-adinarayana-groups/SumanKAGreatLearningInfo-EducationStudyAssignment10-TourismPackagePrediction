@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/5b96e0c9e8cb4cfaabda18f850a70630/artifacts
+end_time: 1769940464378
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 5b96e0c9e8cb4cfaabda18f850a70630
+run_name: popular-hen-29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940462870
+status: 3
+tags: []
+user_id: root

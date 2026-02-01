@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/c332de98966b47c18bb887aa4b7b3517/artifacts
+end_time: 1769939765645
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: c332de98966b47c18bb887aa4b7b3517
+run_name: smiling-tern-989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939764150
+status: 3
+tags: []
+user_id: root

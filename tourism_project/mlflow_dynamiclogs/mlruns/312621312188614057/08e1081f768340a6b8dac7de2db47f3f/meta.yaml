@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/08e1081f768340a6b8dac7de2db47f3f/artifacts
+end_time: 1769939849262
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 08e1081f768340a6b8dac7de2db47f3f
+run_name: righteous-shoat-411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939847731
+status: 3
+tags: []
+user_id: root

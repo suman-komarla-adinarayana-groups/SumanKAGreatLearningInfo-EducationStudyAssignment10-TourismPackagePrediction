@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/026ed5afddb94302bf30e1e32c56fbf8/artifacts
+end_time: 1769939761908
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 026ed5afddb94302bf30e1e32c56fbf8
+run_name: upbeat-ape-593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939760415
+status: 3
+tags: []
+user_id: root

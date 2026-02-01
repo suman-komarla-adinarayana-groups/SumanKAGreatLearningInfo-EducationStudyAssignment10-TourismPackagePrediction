@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/7a5824c63abd43f889433d8b68e84bd0/artifacts
+end_time: 1769940117454
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 7a5824c63abd43f889433d8b68e84bd0
+run_name: hilarious-goose-755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940115948
+status: 3
+tags: []
+user_id: root

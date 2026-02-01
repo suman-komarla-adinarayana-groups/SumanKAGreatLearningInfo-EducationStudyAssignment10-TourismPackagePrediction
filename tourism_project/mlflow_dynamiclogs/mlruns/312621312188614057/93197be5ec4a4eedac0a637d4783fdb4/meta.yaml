@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/93197be5ec4a4eedac0a637d4783fdb4/artifacts
+end_time: 1769940670734
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 93197be5ec4a4eedac0a637d4783fdb4
+run_name: capable-moth-860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940669219
+status: 3
+tags: []
+user_id: root

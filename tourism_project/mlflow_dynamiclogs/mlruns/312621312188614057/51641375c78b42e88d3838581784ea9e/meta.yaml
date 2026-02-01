@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/51641375c78b42e88d3838581784ea9e/artifacts
+end_time: 1769939967470
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 51641375c78b42e88d3838581784ea9e
+run_name: carefree-moose-587
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939965966
+status: 3
+tags: []
+user_id: root

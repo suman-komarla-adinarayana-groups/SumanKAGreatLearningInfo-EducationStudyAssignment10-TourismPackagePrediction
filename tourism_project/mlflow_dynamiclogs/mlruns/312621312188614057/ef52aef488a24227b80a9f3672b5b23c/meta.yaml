@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/ef52aef488a24227b80a9f3672b5b23c/artifacts
+end_time: 1769940475778
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: ef52aef488a24227b80a9f3672b5b23c
+run_name: enthused-fly-282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940474267
+status: 3
+tags: []
+user_id: root

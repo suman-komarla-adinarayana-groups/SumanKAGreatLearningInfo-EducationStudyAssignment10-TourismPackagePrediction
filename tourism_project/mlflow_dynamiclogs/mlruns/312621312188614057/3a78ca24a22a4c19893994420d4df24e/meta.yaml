@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/3a78ca24a22a4c19893994420d4df24e/artifacts
+end_time: 1769940389553
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 3a78ca24a22a4c19893994420d4df24e
+run_name: enthused-wolf-893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940388040
+status: 3
+tags: []
+user_id: root

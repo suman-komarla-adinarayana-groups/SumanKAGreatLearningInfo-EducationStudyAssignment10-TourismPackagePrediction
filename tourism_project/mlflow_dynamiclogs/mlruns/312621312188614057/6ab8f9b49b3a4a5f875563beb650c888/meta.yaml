@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/6ab8f9b49b3a4a5f875563beb650c888/artifacts
+end_time: 1769940687881
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 6ab8f9b49b3a4a5f875563beb650c888
+run_name: upset-shad-156
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940686371
+status: 3
+tags: []
+user_id: root

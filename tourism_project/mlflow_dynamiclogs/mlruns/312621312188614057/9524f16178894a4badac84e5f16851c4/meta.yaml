@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/9524f16178894a4badac84e5f16851c4/artifacts
+end_time: 1769940385749
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 9524f16178894a4badac84e5f16851c4
+run_name: loud-mare-936
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940384234
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/68a881ca92ca4cc0ba5c0fd29316fda8/artifacts
+end_time: 1769941014126
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 68a881ca92ca4cc0ba5c0fd29316fda8
+run_name: aged-grouse-685
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769941012575
+status: 3
+tags: []
+user_id: root

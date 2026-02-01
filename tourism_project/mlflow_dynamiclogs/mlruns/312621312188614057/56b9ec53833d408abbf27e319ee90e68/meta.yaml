@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/56b9ec53833d408abbf27e319ee90e68/artifacts
+end_time: 1769940460533
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 56b9ec53833d408abbf27e319ee90e68
+run_name: spiffy-snipe-82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940458987
+status: 3
+tags: []
+user_id: root

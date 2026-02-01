@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/1598edeecbda44bcbd1f856816243cb6/artifacts
+end_time: 1769940267757
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 1598edeecbda44bcbd1f856816243cb6
+run_name: peaceful-chimp-28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940266245
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/7eedc3026ca94057b36391f330821395/artifacts
+end_time: 1769940588638
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 7eedc3026ca94057b36391f330821395
+run_name: clean-flea-897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940587121
+status: 3
+tags: []
+user_id: root

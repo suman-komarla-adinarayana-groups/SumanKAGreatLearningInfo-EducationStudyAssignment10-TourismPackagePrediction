@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/f2705a3502f84b3c8ea7de19e7d2da29/artifacts
+end_time: 1769941035070
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: f2705a3502f84b3c8ea7de19e7d2da29
+run_name: glamorous-owl-527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769941033547
+status: 3
+tags: []
+user_id: root

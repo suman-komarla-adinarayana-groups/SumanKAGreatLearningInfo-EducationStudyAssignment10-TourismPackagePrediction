@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/37e56d133e0348aea52b5b6475b3e700/artifacts
+end_time: 1769939737101
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 37e56d133e0348aea52b5b6475b3e700
+run_name: lyrical-mole-576
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939735606
+status: 3
+tags: []
+user_id: root

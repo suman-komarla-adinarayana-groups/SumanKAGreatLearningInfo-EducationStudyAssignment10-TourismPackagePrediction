@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/3b39e6e7a94f4864bc217ef14f5ab63a/artifacts
+end_time: 1769940489470
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 3b39e6e7a94f4864bc217ef14f5ab63a
+run_name: traveling-mouse-68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940487941
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/74b672a77e504a3e983c6ad04e281a35/artifacts
+end_time: 1769940815824
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 74b672a77e504a3e983c6ad04e281a35
+run_name: able-turtle-160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940814309
+status: 3
+tags: []
+user_id: root

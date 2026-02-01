@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/3ce766a99bcb4e4b9fbdb0404837c064/artifacts
+end_time: 1769941075500
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 3ce766a99bcb4e4b9fbdb0404837c064
+run_name: victorious-owl-690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769941073988
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/a3e1b1e301524cbab023586702bf427c/artifacts
+end_time: 1769940504714
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: a3e1b1e301524cbab023586702bf427c
+run_name: unleashed-midge-768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940503201
+status: 3
+tags: []
+user_id: root

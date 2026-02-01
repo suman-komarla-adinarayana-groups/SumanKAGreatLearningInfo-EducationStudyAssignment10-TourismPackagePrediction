@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/392084bcbcaf47f38cf180533c68077a/artifacts
+end_time: 1769940989403
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 392084bcbcaf47f38cf180533c68077a
+run_name: gregarious-hen-926
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940987869
+status: 3
+tags: []
+user_id: root

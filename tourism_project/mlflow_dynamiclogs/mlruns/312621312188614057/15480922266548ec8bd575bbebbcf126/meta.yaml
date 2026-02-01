@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/15480922266548ec8bd575bbebbcf126/artifacts
+end_time: 1769940317125
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 15480922266548ec8bd575bbebbcf126
+run_name: dazzling-cat-705
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940315609
+status: 3
+tags: []
+user_id: root

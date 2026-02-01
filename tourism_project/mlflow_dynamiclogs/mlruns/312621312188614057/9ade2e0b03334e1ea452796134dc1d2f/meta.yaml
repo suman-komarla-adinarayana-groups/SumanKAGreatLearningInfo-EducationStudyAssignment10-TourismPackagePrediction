@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/9ade2e0b03334e1ea452796134dc1d2f/artifacts
+end_time: 1769939763773
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 9ade2e0b03334e1ea452796134dc1d2f
+run_name: lyrical-dog-547
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939762283
+status: 3
+tags: []
+user_id: root

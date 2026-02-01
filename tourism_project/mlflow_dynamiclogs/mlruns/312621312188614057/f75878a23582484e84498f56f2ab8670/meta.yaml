@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/f75878a23582484e84498f56f2ab8670/artifacts
+end_time: 1769939999817
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: f75878a23582484e84498f56f2ab8670
+run_name: whimsical-stork-27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939998279
+status: 3
+tags: []
+user_id: root

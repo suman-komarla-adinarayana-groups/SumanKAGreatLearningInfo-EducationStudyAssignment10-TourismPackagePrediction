@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/da69d251ee5f45dd8b7eddfd366cf05b/artifacts
+end_time: 1769939812818
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: da69d251ee5f45dd8b7eddfd366cf05b
+run_name: invincible-cow-221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939811250
+status: 3
+tags: []
+user_id: root

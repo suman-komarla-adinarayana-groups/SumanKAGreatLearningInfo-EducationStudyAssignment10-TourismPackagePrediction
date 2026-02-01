@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/6f63667b42b04d29a80b0576c2d71e31/artifacts
+end_time: 1769940855766
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 6f63667b42b04d29a80b0576c2d71e31
+run_name: dashing-conch-760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940854251
+status: 3
+tags: []
+user_id: root

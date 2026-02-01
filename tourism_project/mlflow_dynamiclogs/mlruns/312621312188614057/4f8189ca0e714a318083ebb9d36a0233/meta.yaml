@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/4f8189ca0e714a318083ebb9d36a0233/artifacts
+end_time: 1769940414648
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 4f8189ca0e714a318083ebb9d36a0233
+run_name: charming-deer-479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940413086
+status: 3
+tags: []
+user_id: root

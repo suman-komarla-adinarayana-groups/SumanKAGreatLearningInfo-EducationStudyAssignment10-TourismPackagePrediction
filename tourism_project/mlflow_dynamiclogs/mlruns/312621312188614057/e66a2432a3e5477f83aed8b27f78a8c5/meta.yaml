@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/e66a2432a3e5477f83aed8b27f78a8c5/artifacts
+end_time: 1769940102289
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: e66a2432a3e5477f83aed8b27f78a8c5
+run_name: marvelous-goat-301
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940100785
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/1964a430554f4e9eb036d496c18cb47b/artifacts
+end_time: 1769940896029
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 1964a430554f4e9eb036d496c18cb47b
+run_name: sassy-ram-107
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940894520
+status: 3
+tags: []
+user_id: root

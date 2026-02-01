@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/26dc4cfa9f844144a43369b1f4ae2695/artifacts
+end_time: 1769940699299
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: 26dc4cfa9f844144a43369b1f4ae2695
+run_name: upset-hawk-482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940697782
+status: 3
+tags: []
+user_id: root

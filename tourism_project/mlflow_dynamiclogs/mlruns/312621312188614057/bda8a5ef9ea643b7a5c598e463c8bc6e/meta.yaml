@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/bda8a5ef9ea643b7a5c598e463c8bc6e/artifacts
+end_time: 1769939752498
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: bda8a5ef9ea643b7a5c598e463c8bc6e
+run_name: aged-wasp-720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769939750972
+status: 3
+tags: []
+user_id: root

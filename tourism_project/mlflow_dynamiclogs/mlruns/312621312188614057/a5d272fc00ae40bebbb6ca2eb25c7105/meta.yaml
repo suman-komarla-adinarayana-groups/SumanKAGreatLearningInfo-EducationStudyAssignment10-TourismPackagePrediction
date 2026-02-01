@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/312621312188614057/a5d272fc00ae40bebbb6ca2eb25c7105/artifacts
+end_time: 1769940875033
+entry_point_name: ''
+experiment_id: '312621312188614057'
+lifecycle_stage: active
+run_id: a5d272fc00ae40bebbb6ca2eb25c7105
+run_name: bald-bug-3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769940873526
+status: 3
+tags: []
+user_id: root

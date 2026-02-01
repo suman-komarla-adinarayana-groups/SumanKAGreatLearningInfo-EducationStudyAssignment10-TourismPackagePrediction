@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/ff7b0a66722440a2a39c4ce30a17087a/artifacts
+end_time: 1769942641797
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: ff7b0a66722440a2a39c4ce30a17087a
+run_name: nimble-toad-510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942641774
+status: 3
+tags: []
+user_id: root

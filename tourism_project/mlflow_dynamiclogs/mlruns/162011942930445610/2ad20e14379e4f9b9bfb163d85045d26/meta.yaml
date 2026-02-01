@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/2ad20e14379e4f9b9bfb163d85045d26/artifacts
+end_time: 1769942646900
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 2ad20e14379e4f9b9bfb163d85045d26
+run_name: trusting-zebra-167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942646860
+status: 3
+tags: []
+user_id: root

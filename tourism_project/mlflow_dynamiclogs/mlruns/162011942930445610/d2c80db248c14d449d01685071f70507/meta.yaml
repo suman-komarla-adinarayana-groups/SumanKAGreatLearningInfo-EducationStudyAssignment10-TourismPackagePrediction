@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/d2c80db248c14d449d01685071f70507/artifacts
+end_time: 1769942638216
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: d2c80db248c14d449d01685071f70507
+run_name: melodic-grub-416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942638198
+status: 3
+tags: []
+user_id: root

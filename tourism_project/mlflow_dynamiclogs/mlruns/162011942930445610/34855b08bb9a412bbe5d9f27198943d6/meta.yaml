@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/34855b08bb9a412bbe5d9f27198943d6/artifacts
+end_time: 1769942640878
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 34855b08bb9a412bbe5d9f27198943d6
+run_name: able-smelt-578
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942640857
+status: 3
+tags: []
+user_id: root

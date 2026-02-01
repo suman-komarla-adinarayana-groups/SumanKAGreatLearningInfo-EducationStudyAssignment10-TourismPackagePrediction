@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/c82e6edd061246c6b8487ff529db3ef8/artifacts
+end_time: 1769942657553
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: c82e6edd061246c6b8487ff529db3ef8
+run_name: burly-wasp-163
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942657522
+status: 3
+tags: []
+user_id: root

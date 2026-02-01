@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/1bc82bef8ec04b46b47d5a928792c433/artifacts
+end_time: 1769942651127
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 1bc82bef8ec04b46b47d5a928792c433
+run_name: auspicious-bird-839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942651100
+status: 3
+tags: []
+user_id: root

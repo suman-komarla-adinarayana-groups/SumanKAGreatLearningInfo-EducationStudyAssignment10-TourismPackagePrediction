@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/4a74d010765d48feba4f43252da0ea91/artifacts
+end_time: 1769942650520
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 4a74d010765d48feba4f43252da0ea91
+run_name: funny-eel-171
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942650493
+status: 3
+tags: []
+user_id: root

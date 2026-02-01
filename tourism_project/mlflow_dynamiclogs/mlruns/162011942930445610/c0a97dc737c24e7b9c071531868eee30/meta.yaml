@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/c0a97dc737c24e7b9c071531868eee30/artifacts
+end_time: 1769942649885
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: c0a97dc737c24e7b9c071531868eee30
+run_name: upbeat-snipe-713
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942649859
+status: 3
+tags: []
+user_id: root

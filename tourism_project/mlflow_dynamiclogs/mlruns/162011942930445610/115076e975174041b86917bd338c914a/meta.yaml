@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/115076e975174041b86917bd338c914a/artifacts
+end_time: 1769942650304
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 115076e975174041b86917bd338c914a
+run_name: stylish-quail-552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942650278
+status: 3
+tags: []
+user_id: root

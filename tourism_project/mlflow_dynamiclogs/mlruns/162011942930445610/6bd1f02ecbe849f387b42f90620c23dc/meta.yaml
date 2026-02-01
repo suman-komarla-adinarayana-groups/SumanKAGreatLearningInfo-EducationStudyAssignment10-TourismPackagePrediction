@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/6bd1f02ecbe849f387b42f90620c23dc/artifacts
+end_time: 1769942653244
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 6bd1f02ecbe849f387b42f90620c23dc
+run_name: merciful-croc-980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942653215
+status: 3
+tags: []
+user_id: root

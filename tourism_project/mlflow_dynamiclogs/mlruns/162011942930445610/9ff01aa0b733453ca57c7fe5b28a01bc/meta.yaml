@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/9ff01aa0b733453ca57c7fe5b28a01bc/artifacts
+end_time: 1769942636371
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 9ff01aa0b733453ca57c7fe5b28a01bc
+run_name: clumsy-squid-27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942636356
+status: 3
+tags: []
+user_id: root

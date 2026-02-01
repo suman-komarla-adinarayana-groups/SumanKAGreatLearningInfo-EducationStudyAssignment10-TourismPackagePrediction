@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/bbae373f69d041ee893838fab88efe44/artifacts
+end_time: 1769942647849
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: bbae373f69d041ee893838fab88efe44
+run_name: trusting-owl-64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942647811
+status: 3
+tags: []
+user_id: root

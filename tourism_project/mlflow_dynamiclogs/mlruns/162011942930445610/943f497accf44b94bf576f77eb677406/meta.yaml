@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/943f497accf44b94bf576f77eb677406/artifacts
+end_time: 1769942648214
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 943f497accf44b94bf576f77eb677406
+run_name: entertaining-cod-957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942648173
+status: 3
+tags: []
+user_id: root

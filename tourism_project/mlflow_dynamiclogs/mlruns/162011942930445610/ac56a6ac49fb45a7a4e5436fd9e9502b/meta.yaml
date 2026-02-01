@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/ac56a6ac49fb45a7a4e5436fd9e9502b/artifacts
+end_time: 1769942651497
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: ac56a6ac49fb45a7a4e5436fd9e9502b
+run_name: merciful-gnu-797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942651469
+status: 3
+tags: []
+user_id: root

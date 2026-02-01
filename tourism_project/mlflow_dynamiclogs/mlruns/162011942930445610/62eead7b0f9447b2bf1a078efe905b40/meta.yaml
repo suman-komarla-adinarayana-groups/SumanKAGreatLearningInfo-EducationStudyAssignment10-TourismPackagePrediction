@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/62eead7b0f9447b2bf1a078efe905b40/artifacts
+end_time: 1769942650427
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 62eead7b0f9447b2bf1a078efe905b40
+run_name: learned-kite-970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942650400
+status: 3
+tags: []
+user_id: root

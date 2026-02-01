@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/6de5b463c0524a29ae76a6140ad77873/artifacts
+end_time: 1769942652738
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 6de5b463c0524a29ae76a6140ad77873
+run_name: kindly-moth-944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942652711
+status: 3
+tags: []
+user_id: root

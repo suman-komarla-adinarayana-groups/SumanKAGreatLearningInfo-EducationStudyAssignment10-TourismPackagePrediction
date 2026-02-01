@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/457fc3d59d30479e8a98cf691b994f97/artifacts
+end_time: 1769942643102
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 457fc3d59d30479e8a98cf691b994f97
+run_name: ambitious-grouse-397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942643076
+status: 3
+tags: []
+user_id: root

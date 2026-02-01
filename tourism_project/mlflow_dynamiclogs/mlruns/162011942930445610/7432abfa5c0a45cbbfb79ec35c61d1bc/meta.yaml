@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/7432abfa5c0a45cbbfb79ec35c61d1bc/artifacts
+end_time: 1769942644799
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 7432abfa5c0a45cbbfb79ec35c61d1bc
+run_name: worried-grub-356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942644754
+status: 3
+tags: []
+user_id: root

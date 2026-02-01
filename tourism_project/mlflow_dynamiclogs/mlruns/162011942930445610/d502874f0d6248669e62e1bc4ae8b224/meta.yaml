@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/d502874f0d6248669e62e1bc4ae8b224/artifacts
+end_time: 1769942645838
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: d502874f0d6248669e62e1bc4ae8b224
+run_name: unique-steed-166
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942645799
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/a3b04372e7764566ac8899622042e46a/artifacts
+end_time: 1769942636902
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: a3b04372e7764566ac8899622042e46a
+run_name: judicious-elk-192
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942636883
+status: 3
+tags: []
+user_id: root

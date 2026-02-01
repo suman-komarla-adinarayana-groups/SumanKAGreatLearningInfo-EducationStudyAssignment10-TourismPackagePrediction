@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/5e9987390a13410cb620b378201a4d93/artifacts
+end_time: 1769942652104
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 5e9987390a13410cb620b378201a4d93
+run_name: colorful-shrike-537
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942652076
+status: 3
+tags: []
+user_id: root

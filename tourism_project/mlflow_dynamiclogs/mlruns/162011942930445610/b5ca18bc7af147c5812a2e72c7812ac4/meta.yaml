@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/b5ca18bc7af147c5812a2e72c7812ac4/artifacts
+end_time: 1769942636035
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: b5ca18bc7af147c5812a2e72c7812ac4
+run_name: stylish-mouse-807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942636019
+status: 3
+tags: []
+user_id: root

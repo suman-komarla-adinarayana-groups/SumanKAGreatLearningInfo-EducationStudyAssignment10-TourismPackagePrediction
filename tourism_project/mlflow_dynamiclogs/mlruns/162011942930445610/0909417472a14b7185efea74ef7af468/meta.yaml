@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/0909417472a14b7185efea74ef7af468/artifacts
+end_time: 1769942636780
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 0909417472a14b7185efea74ef7af468
+run_name: nimble-turtle-815
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942636761
+status: 3
+tags: []
+user_id: root

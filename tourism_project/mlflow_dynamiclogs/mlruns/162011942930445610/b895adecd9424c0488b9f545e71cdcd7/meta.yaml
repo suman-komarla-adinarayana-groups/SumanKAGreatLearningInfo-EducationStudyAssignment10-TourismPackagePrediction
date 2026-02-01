@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/b895adecd9424c0488b9f545e71cdcd7/artifacts
+end_time: 1769942655919
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: b895adecd9424c0488b9f545e71cdcd7
+run_name: fearless-crane-258
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942655888
+status: 3
+tags: []
+user_id: root

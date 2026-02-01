@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/e89e645da34147eb9847d6df1cd7c62d/artifacts
+end_time: 1769942637360
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: e89e645da34147eb9847d6df1cd7c62d
+run_name: bustling-grouse-256
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942637343
+status: 3
+tags: []
+user_id: root

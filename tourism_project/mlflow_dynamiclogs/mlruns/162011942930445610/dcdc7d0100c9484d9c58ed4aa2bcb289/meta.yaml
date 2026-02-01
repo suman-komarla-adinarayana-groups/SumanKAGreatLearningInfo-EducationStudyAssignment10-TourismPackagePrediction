@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/dcdc7d0100c9484d9c58ed4aa2bcb289/artifacts
+end_time: 1769942636443
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: dcdc7d0100c9484d9c58ed4aa2bcb289
+run_name: serious-frog-377
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942636427
+status: 3
+tags: []
+user_id: root

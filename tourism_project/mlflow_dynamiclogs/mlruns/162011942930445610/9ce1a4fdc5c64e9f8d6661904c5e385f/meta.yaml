@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/9ce1a4fdc5c64e9f8d6661904c5e385f/artifacts
+end_time: 1769942646725
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 9ce1a4fdc5c64e9f8d6661904c5e385f
+run_name: bemused-ant-303
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942646681
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/4830a2e23a6f4c07ac259a198c2870c5/artifacts
+end_time: 1769942648998
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 4830a2e23a6f4c07ac259a198c2870c5
+run_name: delightful-doe-912
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942648955
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/0d2e6bf2eadf46d7ad7b7d3bcf12db89/artifacts
+end_time: 1769942642489
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 0d2e6bf2eadf46d7ad7b7d3bcf12db89
+run_name: thoughtful-bird-937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942642467
+status: 3
+tags: []
+user_id: root

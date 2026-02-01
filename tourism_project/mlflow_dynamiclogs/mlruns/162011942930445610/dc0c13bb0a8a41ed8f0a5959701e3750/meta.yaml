@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/dc0c13bb0a8a41ed8f0a5959701e3750/artifacts
+end_time: 1769942652772
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: dc0c13bb0a8a41ed8f0a5959701e3750
+run_name: intelligent-auk-271
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942652741
+status: 3
+tags: []
+user_id: root

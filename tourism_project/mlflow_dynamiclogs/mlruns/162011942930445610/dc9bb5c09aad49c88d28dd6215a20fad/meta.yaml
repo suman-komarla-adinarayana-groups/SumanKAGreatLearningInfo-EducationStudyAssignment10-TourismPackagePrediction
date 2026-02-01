@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/dc9bb5c09aad49c88d28dd6215a20fad/artifacts
+end_time: 1769942641695
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: dc9bb5c09aad49c88d28dd6215a20fad
+run_name: thundering-ram-252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942641673
+status: 3
+tags: []
+user_id: root

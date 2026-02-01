@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/46ee97ae9e0b467cba58ec81c5a9e00a/artifacts
+end_time: 1769942640757
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 46ee97ae9e0b467cba58ec81c5a9e00a
+run_name: agreeable-lynx-572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942640736
+status: 3
+tags: []
+user_id: root

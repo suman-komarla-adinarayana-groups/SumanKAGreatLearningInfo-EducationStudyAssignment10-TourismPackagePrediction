@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/4fb2d5be4865429dbd59dc3252bf9636/artifacts
+end_time: 1769942646564
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 4fb2d5be4865429dbd59dc3252bf9636
+run_name: carefree-smelt-698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942646518
+status: 3
+tags: []
+user_id: root

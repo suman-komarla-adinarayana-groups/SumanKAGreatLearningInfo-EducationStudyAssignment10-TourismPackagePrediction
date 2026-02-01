@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/4ba40edcade341818c5d67308f44501a/artifacts
+end_time: 1769942640051
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 4ba40edcade341818c5d67308f44501a
+run_name: legendary-snipe-273
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942640031
+status: 3
+tags: []
+user_id: root

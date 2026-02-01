@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/e8f6df5a645b45e785279ba56ee11011/artifacts
+end_time: 1769942654070
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: e8f6df5a645b45e785279ba56ee11011
+run_name: angry-yak-37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942654041
+status: 3
+tags: []
+user_id: root

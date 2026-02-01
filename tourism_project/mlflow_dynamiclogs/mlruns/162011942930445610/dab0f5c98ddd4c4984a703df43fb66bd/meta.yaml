@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/dab0f5c98ddd4c4984a703df43fb66bd/artifacts
+end_time: 1769942640501
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: dab0f5c98ddd4c4984a703df43fb66bd
+run_name: spiffy-rook-956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942640481
+status: 3
+tags: []
+user_id: root

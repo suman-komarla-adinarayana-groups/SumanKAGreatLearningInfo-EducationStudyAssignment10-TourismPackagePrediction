@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/6b232f81e945436eb07f83ff4123bf6f/artifacts
+end_time: 1769942650243
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 6b232f81e945436eb07f83ff4123bf6f
+run_name: victorious-mouse-829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942650216
+status: 3
+tags: []
+user_id: root

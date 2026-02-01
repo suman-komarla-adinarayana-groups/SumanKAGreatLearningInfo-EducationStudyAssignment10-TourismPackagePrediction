@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/ae24359a75484e10af44778b964868b0/artifacts
+end_time: 1769942655282
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: ae24359a75484e10af44778b964868b0
+run_name: persistent-shark-916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942655252
+status: 3
+tags: []
+user_id: root

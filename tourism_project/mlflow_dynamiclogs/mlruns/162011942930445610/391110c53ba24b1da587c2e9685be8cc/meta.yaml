@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/391110c53ba24b1da587c2e9685be8cc/artifacts
+end_time: 1769942640294
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 391110c53ba24b1da587c2e9685be8cc
+run_name: persistent-hen-344
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942640274
+status: 3
+tags: []
+user_id: root

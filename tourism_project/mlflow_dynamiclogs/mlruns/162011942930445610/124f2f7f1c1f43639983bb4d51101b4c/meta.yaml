@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/124f2f7f1c1f43639983bb4d51101b4c/artifacts
+end_time: 1769942648497
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 124f2f7f1c1f43639983bb4d51101b4c
+run_name: upset-hog-143
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942648454
+status: 3
+tags: []
+user_id: root

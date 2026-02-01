@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/5ce0778cd47043d2aa319caad3ea3ccf/artifacts
+end_time: 1769942643242
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 5ce0778cd47043d2aa319caad3ea3ccf
+run_name: beautiful-kite-885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942643217
+status: 3
+tags: []
+user_id: root

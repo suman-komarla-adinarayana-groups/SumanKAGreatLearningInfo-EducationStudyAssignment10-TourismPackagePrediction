@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/02090f9c34614b4f898c723a9925f5af/artifacts
+end_time: 1769942654932
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 02090f9c34614b4f898c723a9925f5af
+run_name: unique-duck-9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942654902
+status: 3
+tags: []
+user_id: root

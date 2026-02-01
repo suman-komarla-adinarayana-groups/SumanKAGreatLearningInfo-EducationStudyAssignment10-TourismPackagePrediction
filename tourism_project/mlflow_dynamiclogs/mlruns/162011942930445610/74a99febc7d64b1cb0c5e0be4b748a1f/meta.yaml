@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/74a99febc7d64b1cb0c5e0be4b748a1f/artifacts
+end_time: 1769942641451
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 74a99febc7d64b1cb0c5e0be4b748a1f
+run_name: zealous-shrew-425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942641431
+status: 3
+tags: []
+user_id: root

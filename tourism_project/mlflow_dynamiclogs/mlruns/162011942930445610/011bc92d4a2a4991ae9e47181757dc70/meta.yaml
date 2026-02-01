@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/011bc92d4a2a4991ae9e47181757dc70/artifacts
+end_time: 1769942640570
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 011bc92d4a2a4991ae9e47181757dc70
+run_name: bald-stork-765
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942640550
+status: 3
+tags: []
+user_id: root

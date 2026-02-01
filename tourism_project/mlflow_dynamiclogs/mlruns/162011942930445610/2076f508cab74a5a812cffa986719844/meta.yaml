@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/2076f508cab74a5a812cffa986719844/artifacts
+end_time: 1769942641771
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 2076f508cab74a5a812cffa986719844
+run_name: zealous-quail-285
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942641747
+status: 3
+tags: []
+user_id: root

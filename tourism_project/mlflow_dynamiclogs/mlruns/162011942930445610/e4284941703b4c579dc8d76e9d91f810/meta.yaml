@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/e4284941703b4c579dc8d76e9d91f810/artifacts
+end_time: 1769942636799
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: e4284941703b4c579dc8d76e9d91f810
+run_name: funny-cat-662
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942636783
+status: 3
+tags: []
+user_id: root

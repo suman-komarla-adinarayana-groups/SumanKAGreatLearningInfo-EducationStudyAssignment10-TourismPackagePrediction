@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/793b261682424e8b817f5e22a7cc4640/artifacts
+end_time: 1769942638740
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 793b261682424e8b817f5e22a7cc4640
+run_name: wise-panda-365
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942638722
+status: 3
+tags: []
+user_id: root

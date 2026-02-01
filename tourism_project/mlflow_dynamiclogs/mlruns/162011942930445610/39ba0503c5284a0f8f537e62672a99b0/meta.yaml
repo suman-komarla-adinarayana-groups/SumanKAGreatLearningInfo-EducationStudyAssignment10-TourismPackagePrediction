@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/39ba0503c5284a0f8f537e62672a99b0/artifacts
+end_time: 1769942642565
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 39ba0503c5284a0f8f537e62672a99b0
+run_name: luminous-rook-116
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942642542
+status: 3
+tags: []
+user_id: root

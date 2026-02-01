@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/dabc229194c345758cc5e98c235c9025/artifacts
+end_time: 1769942637190
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: dabc229194c345758cc5e98c235c9025
+run_name: adaptable-newt-555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942637174
+status: 3
+tags: []
+user_id: root

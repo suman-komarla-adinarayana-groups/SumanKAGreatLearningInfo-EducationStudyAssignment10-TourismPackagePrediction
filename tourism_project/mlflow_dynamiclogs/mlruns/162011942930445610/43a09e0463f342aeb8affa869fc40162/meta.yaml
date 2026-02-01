@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/43a09e0463f342aeb8affa869fc40162/artifacts
+end_time: 1769942642991
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 43a09e0463f342aeb8affa869fc40162
+run_name: calm-quail-509
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942642969
+status: 3
+tags: []
+user_id: root

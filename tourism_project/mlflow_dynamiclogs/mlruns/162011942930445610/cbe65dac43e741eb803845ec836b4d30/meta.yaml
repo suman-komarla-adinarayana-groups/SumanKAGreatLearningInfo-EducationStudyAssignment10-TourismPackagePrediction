@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/cbe65dac43e741eb803845ec836b4d30/artifacts
+end_time: 1769942637172
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: cbe65dac43e741eb803845ec836b4d30
+run_name: silent-gnu-658
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942637155
+status: 3
+tags: []
+user_id: root

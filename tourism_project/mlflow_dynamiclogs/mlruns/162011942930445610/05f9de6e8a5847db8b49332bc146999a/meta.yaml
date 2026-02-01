@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/05f9de6e8a5847db8b49332bc146999a/artifacts
+end_time: 1769942651617
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 05f9de6e8a5847db8b49332bc146999a
+run_name: abundant-pug-684
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942651590
+status: 3
+tags: []
+user_id: root

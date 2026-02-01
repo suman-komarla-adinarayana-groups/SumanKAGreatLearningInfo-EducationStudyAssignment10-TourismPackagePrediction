@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/a8d73c9babb4458cbff06641cddc1440/artifacts
+end_time: 1769942636335
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: a8d73c9babb4458cbff06641cddc1440
+run_name: agreeable-ape-856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942636320
+status: 3
+tags: []
+user_id: root

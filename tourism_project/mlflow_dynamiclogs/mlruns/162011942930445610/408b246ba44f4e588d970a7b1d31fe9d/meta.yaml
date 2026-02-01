@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/408b246ba44f4e588d970a7b1d31fe9d/artifacts
+end_time: 1769942650124
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 408b246ba44f4e588d970a7b1d31fe9d
+run_name: orderly-sloth-246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942650098
+status: 3
+tags: []
+user_id: root

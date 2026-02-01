@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/a881866639694ea58b81deae5a040764/artifacts
+end_time: 1769942654038
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: a881866639694ea58b81deae5a040764
+run_name: awesome-mole-515
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942654003
+status: 3
+tags: []
+user_id: root

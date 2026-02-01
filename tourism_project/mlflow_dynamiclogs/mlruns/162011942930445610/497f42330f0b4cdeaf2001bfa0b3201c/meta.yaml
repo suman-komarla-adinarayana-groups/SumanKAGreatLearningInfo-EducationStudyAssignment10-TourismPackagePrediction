@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/497f42330f0b4cdeaf2001bfa0b3201c/artifacts
+end_time: 1769942638548
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 497f42330f0b4cdeaf2001bfa0b3201c
+run_name: capricious-steed-650
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942638530
+status: 3
+tags: []
+user_id: root

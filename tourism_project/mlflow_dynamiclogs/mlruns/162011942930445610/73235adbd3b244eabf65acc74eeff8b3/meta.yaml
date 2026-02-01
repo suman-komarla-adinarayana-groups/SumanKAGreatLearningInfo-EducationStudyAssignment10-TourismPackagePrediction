@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/73235adbd3b244eabf65acc74eeff8b3/artifacts
+end_time: 1769942654531
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 73235adbd3b244eabf65acc74eeff8b3
+run_name: enthused-slug-795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942654501
+status: 3
+tags: []
+user_id: root

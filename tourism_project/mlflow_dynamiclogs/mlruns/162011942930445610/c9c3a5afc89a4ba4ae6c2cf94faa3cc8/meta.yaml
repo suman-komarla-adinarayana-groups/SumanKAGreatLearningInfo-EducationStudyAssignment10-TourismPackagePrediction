@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/c9c3a5afc89a4ba4ae6c2cf94faa3cc8/artifacts
+end_time: 1769942649303
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: c9c3a5afc89a4ba4ae6c2cf94faa3cc8
+run_name: vaunted-robin-23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942649276
+status: 3
+tags: []
+user_id: root

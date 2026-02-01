@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/7eb2d84c8d5c479e827a32f5aa200bdd/artifacts
+end_time: 1769942648450
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 7eb2d84c8d5c479e827a32f5aa200bdd
+run_name: colorful-cat-185
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942648410
+status: 3
+tags: []
+user_id: root

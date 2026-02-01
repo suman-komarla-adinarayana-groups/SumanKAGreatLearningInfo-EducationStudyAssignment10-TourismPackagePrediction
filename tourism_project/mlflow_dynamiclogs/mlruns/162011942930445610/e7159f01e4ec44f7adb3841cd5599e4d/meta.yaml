@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/e7159f01e4ec44f7adb3841cd5599e4d/artifacts
+end_time: 1769942652676
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: e7159f01e4ec44f7adb3841cd5599e4d
+run_name: placid-calf-123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942652648
+status: 3
+tags: []
+user_id: root

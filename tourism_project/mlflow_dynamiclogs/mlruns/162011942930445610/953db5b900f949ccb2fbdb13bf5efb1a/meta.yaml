@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/953db5b900f949ccb2fbdb13bf5efb1a/artifacts
+end_time: 1769942643997
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 953db5b900f949ccb2fbdb13bf5efb1a
+run_name: defiant-koi-156
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942643974
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/9f6db185cbf44c08ad31726067eacf7f/artifacts
+end_time: 1769942640410
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 9f6db185cbf44c08ad31726067eacf7f
+run_name: treasured-slug-592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942640389
+status: 3
+tags: []
+user_id: root

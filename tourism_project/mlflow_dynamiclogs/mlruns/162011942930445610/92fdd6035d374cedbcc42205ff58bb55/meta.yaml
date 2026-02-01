@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/92fdd6035d374cedbcc42205ff58bb55/artifacts
+end_time: 1769942641646
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 92fdd6035d374cedbcc42205ff58bb55
+run_name: smiling-snake-961
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942641623
+status: 3
+tags: []
+user_id: root

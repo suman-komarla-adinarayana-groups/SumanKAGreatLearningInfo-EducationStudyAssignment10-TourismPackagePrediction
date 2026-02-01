@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/ba3ef1b3b980464dafa1f968dccf5742/artifacts
+end_time: 1769942643354
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: ba3ef1b3b980464dafa1f968dccf5742
+run_name: burly-roo-632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942643329
+status: 3
+tags: []
+user_id: root

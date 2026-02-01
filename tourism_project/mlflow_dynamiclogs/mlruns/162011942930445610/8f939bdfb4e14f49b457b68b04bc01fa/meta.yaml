@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/8f939bdfb4e14f49b457b68b04bc01fa/artifacts
+end_time: 1769942656111
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 8f939bdfb4e14f49b457b68b04bc01fa
+run_name: fearless-bird-24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942656070
+status: 3
+tags: []
+user_id: root

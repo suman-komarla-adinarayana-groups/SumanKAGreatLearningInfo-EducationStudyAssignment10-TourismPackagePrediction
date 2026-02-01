@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/e830baac0d7243f7a0b9279832ac7165/artifacts
+end_time: 1769942656727
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: e830baac0d7243f7a0b9279832ac7165
+run_name: sassy-gnat-145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942656694
+status: 3
+tags: []
+user_id: root

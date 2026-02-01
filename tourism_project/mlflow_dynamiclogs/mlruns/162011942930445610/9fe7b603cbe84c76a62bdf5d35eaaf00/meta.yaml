@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/9fe7b603cbe84c76a62bdf5d35eaaf00/artifacts
+end_time: 1769942642590
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 9fe7b603cbe84c76a62bdf5d35eaaf00
+run_name: salty-lynx-183
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942642568
+status: 3
+tags: []
+user_id: root

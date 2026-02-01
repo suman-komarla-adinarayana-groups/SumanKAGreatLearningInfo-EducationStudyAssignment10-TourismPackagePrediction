@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/b8d3e0669ce248da9681d95aba87bd3a/artifacts
+end_time: 1769942647488
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: b8d3e0669ce248da9681d95aba87bd3a
+run_name: masked-dolphin-504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942647450
+status: 3
+tags: []
+user_id: root

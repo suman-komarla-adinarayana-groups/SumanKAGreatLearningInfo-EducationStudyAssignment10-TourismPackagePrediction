@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/3bd09c983cc14290aecb787538cdb039/artifacts
+end_time: 1769942638655
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 3bd09c983cc14290aecb787538cdb039
+run_name: silent-pig-555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942638636
+status: 3
+tags: []
+user_id: root

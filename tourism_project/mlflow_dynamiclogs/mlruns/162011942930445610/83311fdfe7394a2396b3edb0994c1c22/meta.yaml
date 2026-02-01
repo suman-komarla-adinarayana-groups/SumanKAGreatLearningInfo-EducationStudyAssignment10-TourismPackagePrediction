@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/83311fdfe7394a2396b3edb0994c1c22/artifacts
+end_time: 1769942642807
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 83311fdfe7394a2396b3edb0994c1c22
+run_name: learned-turtle-951
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942642784
+status: 3
+tags: []
+user_id: root

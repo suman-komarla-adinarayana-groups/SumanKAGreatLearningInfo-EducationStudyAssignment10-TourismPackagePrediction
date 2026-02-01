@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/e20cf364f22549ceacb04cdad248103c/artifacts
+end_time: 1769942654699
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: e20cf364f22549ceacb04cdad248103c
+run_name: angry-hare-438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942654669
+status: 3
+tags: []
+user_id: root

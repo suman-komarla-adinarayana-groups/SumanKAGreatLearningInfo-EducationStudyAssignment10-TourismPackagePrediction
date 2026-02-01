@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/33a3666b7bcf41ca9d5250175e2d3901/artifacts
+end_time: 1769942653533
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 33a3666b7bcf41ca9d5250175e2d3901
+run_name: skillful-squid-974
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942653504
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/a21cfd1f1e8f43c59dc8ad1104ea071d/artifacts
+end_time: 1769942647979
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: a21cfd1f1e8f43c59dc8ad1104ea071d
+run_name: welcoming-ant-735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942647940
+status: 3
+tags: []
+user_id: root

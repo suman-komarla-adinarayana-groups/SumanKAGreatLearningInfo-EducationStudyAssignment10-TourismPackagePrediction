@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/9632ab7bd8874194810abe1a66b7825f/artifacts
+end_time: 1769942641142
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 9632ab7bd8874194810abe1a66b7825f
+run_name: thundering-conch-116
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942641121
+status: 3
+tags: []
+user_id: root

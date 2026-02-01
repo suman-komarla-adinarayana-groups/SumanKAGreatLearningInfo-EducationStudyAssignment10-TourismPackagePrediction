@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/07abb0fbc6a643df93653cc4fff3ce08/artifacts
+end_time: 1769942654835
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 07abb0fbc6a643df93653cc4fff3ce08
+run_name: receptive-bear-153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942654805
+status: 3
+tags: []
+user_id: root

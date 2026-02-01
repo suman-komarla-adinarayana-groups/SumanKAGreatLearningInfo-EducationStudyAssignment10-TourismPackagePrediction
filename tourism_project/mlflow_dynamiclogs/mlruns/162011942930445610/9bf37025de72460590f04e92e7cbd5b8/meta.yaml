@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/9bf37025de72460590f04e92e7cbd5b8/artifacts
+end_time: 1769942654767
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 9bf37025de72460590f04e92e7cbd5b8
+run_name: debonair-pug-766
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942654735
+status: 3
+tags: []
+user_id: root

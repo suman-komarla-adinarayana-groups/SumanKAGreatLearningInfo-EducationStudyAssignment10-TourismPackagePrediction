@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/489bb28a4eed48a395a67d7392394ff2/artifacts
+end_time: 1769942643603
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 489bb28a4eed48a395a67d7392394ff2
+run_name: merciful-colt-938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942643580
+status: 3
+tags: []
+user_id: root

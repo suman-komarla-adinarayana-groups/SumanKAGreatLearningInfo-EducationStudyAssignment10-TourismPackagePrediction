@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/1b62f83495f546099d9465d5a4cca4ae/artifacts
+end_time: 1769942646465
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 1b62f83495f546099d9465d5a4cca4ae
+run_name: enthused-swan-854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942646428
+status: 3
+tags: []
+user_id: root

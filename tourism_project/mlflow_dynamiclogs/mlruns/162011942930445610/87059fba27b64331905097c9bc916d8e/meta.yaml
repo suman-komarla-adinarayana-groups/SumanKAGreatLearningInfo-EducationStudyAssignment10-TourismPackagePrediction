@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/87059fba27b64331905097c9bc916d8e/artifacts
+end_time: 1769942650549
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 87059fba27b64331905097c9bc916d8e
+run_name: inquisitive-bee-851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942650522
+status: 3
+tags: []
+user_id: root

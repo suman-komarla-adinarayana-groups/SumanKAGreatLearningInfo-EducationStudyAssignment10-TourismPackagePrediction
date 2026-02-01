@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/b62a42d8808a4190803296c65ea842de/artifacts
+end_time: 1769942651403
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: b62a42d8808a4190803296c65ea842de
+run_name: auspicious-ape-482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942651375
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/a7cc9050de064e298e3ba175ee34a1df/artifacts
+end_time: 1769942650035
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: a7cc9050de064e298e3ba175ee34a1df
+run_name: unequaled-gull-707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942650007
+status: 3
+tags: []
+user_id: root

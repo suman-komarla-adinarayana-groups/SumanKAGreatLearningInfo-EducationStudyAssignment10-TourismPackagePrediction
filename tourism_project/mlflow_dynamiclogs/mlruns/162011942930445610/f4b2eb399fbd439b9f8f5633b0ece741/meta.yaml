@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/f4b2eb399fbd439b9f8f5633b0ece741/artifacts
+end_time: 1769942638425
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: f4b2eb399fbd439b9f8f5633b0ece741
+run_name: skillful-moth-157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942638407
+status: 3
+tags: []
+user_id: root

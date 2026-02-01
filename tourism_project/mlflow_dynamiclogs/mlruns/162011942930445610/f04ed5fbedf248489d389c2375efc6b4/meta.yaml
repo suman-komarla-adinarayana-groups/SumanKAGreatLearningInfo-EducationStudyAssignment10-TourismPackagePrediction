@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/f04ed5fbedf248489d389c2375efc6b4/artifacts
+end_time: 1769942644127
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: f04ed5fbedf248489d389c2375efc6b4
+run_name: marvelous-fowl-88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942644103
+status: 3
+tags: []
+user_id: root

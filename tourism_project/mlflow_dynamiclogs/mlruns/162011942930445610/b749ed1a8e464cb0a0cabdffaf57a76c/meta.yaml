@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/b749ed1a8e464cb0a0cabdffaf57a76c/artifacts
+end_time: 1769942644024
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: b749ed1a8e464cb0a0cabdffaf57a76c
+run_name: unleashed-lark-406
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942644000
+status: 3
+tags: []
+user_id: root

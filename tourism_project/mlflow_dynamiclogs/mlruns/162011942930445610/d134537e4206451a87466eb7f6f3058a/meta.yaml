@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/d134537e4206451a87466eb7f6f3058a/artifacts
+end_time: 1769942642885
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: d134537e4206451a87466eb7f6f3058a
+run_name: suave-snail-1000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942642862
+status: 3
+tags: []
+user_id: root

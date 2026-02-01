@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/7b0e52c02d814b4ea8d6db35a644a772/artifacts
+end_time: 1769942652041
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 7b0e52c02d814b4ea8d6db35a644a772
+run_name: adaptable-pig-405
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942652010
+status: 3
+tags: []
+user_id: root

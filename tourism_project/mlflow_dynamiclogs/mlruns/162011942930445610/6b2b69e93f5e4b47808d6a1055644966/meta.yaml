@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/6b2b69e93f5e4b47808d6a1055644966/artifacts
+end_time: 1769942644443
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 6b2b69e93f5e4b47808d6a1055644966
+run_name: serious-goat-556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942644398
+status: 3
+tags: []
+user_id: root

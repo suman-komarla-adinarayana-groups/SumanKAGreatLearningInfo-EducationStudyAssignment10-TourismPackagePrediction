@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/e7d86e35418746418468c0a610e84d49/artifacts
+end_time: 1769942639101
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: e7d86e35418746418468c0a610e84d49
+run_name: welcoming-calf-135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942639082
+status: 3
+tags: []
+user_id: root

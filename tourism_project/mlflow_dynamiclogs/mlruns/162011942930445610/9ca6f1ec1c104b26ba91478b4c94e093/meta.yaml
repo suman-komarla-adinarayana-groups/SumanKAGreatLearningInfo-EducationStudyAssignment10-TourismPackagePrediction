@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/9ca6f1ec1c104b26ba91478b4c94e093/artifacts
+end_time: 1769942641621
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 9ca6f1ec1c104b26ba91478b4c94e093
+run_name: awesome-crab-142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942641599
+status: 3
+tags: []
+user_id: root

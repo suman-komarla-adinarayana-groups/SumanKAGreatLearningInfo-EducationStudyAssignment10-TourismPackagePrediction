@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/5d270fed1a3044e980de85d27037be40/artifacts
+end_time: 1769942647575
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 5d270fed1a3044e980de85d27037be40
+run_name: invincible-stoat-778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942647536
+status: 3
+tags: []
+user_id: root

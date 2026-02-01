@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/572e734d33264bea9fbe11d8c355e088/artifacts
+end_time: 1769942649129
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 572e734d33264bea9fbe11d8c355e088
+run_name: upbeat-bug-949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942649102
+status: 3
+tags: []
+user_id: root

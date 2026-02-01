@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/27dd9cc4182248989394d6901f4aa94b/artifacts
+end_time: 1769942640007
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 27dd9cc4182248989394d6901f4aa94b
+run_name: amazing-shoat-863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942639987
+status: 3
+tags: []
+user_id: root

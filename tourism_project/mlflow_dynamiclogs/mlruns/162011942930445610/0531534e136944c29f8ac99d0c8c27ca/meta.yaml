@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/0531534e136944c29f8ac99d0c8c27ca/artifacts
+end_time: 1769942642242
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 0531534e136944c29f8ac99d0c8c27ca
+run_name: bustling-bat-595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942642220
+status: 3
+tags: []
+user_id: root

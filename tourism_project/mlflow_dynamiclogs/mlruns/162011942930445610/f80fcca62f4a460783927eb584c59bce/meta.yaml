@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/f80fcca62f4a460783927eb584c59bce/artifacts
+end_time: 1769942643526
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: f80fcca62f4a460783927eb584c59bce
+run_name: flawless-cow-516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942643502
+status: 3
+tags: []
+user_id: root

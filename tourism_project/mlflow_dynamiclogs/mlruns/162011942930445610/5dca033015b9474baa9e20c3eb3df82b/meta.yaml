@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/5dca033015b9474baa9e20c3eb3df82b/artifacts
+end_time: 1769942655414
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 5dca033015b9474baa9e20c3eb3df82b
+run_name: wise-dove-551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942655384
+status: 3
+tags: []
+user_id: root

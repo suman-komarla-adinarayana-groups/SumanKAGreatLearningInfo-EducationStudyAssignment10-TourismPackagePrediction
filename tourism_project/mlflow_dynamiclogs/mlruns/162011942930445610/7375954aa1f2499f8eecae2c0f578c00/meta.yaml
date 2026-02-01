@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/7375954aa1f2499f8eecae2c0f578c00/artifacts
+end_time: 1769942638486
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 7375954aa1f2499f8eecae2c0f578c00
+run_name: upbeat-panda-313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942638468
+status: 3
+tags: []
+user_id: root

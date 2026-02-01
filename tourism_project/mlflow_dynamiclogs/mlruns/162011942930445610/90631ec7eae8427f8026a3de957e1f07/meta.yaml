@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/90631ec7eae8427f8026a3de957e1f07/artifacts
+end_time: 1769942650761
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 90631ec7eae8427f8026a3de957e1f07
+run_name: languid-midge-368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942650733
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/baf6dbd3a1494229a01290125a0aa0d9/artifacts
+end_time: 1769942637759
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: baf6dbd3a1494229a01290125a0aa0d9
+run_name: sassy-stoat-455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942637741
+status: 3
+tags: []
+user_id: root

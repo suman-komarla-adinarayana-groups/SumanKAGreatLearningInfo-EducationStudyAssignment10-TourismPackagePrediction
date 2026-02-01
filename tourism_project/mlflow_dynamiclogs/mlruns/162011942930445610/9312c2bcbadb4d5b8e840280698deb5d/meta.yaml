@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/9312c2bcbadb4d5b8e840280698deb5d/artifacts
+end_time: 1769942642143
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 9312c2bcbadb4d5b8e840280698deb5d
+run_name: delicate-ant-276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942642120
+status: 3
+tags: []
+user_id: root

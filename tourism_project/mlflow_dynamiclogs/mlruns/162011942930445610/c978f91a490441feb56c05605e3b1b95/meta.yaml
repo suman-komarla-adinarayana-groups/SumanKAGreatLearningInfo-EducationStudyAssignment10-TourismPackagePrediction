@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/c978f91a490441feb56c05605e3b1b95/artifacts
+end_time: 1769942644313
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: c978f91a490441feb56c05605e3b1b95
+run_name: invincible-bat-428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942644289
+status: 3
+tags: []
+user_id: root

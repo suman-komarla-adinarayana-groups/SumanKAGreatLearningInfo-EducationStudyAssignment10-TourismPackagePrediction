@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/c706e049d1ca4491b81cc2cb5649dec4/artifacts
+end_time: 1769942649243
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: c706e049d1ca4491b81cc2cb5649dec4
+run_name: clean-gnu-375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942649217
+status: 3
+tags: []
+user_id: root

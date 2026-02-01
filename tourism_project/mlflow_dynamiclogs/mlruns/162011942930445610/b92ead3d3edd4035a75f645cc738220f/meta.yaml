@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/b92ead3d3edd4035a75f645cc738220f/artifacts
+end_time: 1769942643918
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: b92ead3d3edd4035a75f645cc738220f
+run_name: dapper-lamb-322
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942643894
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/92db9fe28c3846b9bd412fd1412c6672/artifacts
+end_time: 1769942650854
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 92db9fe28c3846b9bd412fd1412c6672
+run_name: grandiose-zebra-595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942650827
+status: 3
+tags: []
+user_id: root

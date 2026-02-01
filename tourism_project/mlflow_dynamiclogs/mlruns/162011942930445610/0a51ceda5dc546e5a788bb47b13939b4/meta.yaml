@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/0a51ceda5dc546e5a788bb47b13939b4/artifacts
+end_time: 1769942650699
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 0a51ceda5dc546e5a788bb47b13939b4
+run_name: unequaled-shoat-4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942650672
+status: 3
+tags: []
+user_id: root

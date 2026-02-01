@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/535788423e7b47b78270b5b1bd9e3955/artifacts
+end_time: 1769942639038
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 535788423e7b47b78270b5b1bd9e3955
+run_name: youthful-pig-77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942639020
+status: 3
+tags: []
+user_id: root

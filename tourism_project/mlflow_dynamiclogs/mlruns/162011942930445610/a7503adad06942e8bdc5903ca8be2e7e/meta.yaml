@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/a7503adad06942e8bdc5903ca8be2e7e/artifacts
+end_time: 1769942642416
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: a7503adad06942e8bdc5903ca8be2e7e
+run_name: omniscient-trout-97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942642392
+status: 3
+tags: []
+user_id: root

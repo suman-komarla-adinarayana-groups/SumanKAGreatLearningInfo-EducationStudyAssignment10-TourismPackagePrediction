@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/58e1f136680b4b3faff3e3459048c236/artifacts
+end_time: 1769942636478
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 58e1f136680b4b3faff3e3459048c236
+run_name: thundering-whale-640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942636463
+status: 3
+tags: []
+user_id: root

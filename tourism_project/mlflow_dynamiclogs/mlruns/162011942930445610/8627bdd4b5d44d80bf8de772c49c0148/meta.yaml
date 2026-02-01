@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/8627bdd4b5d44d80bf8de772c49c0148/artifacts
+end_time: 1769942650065
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 8627bdd4b5d44d80bf8de772c49c0148
+run_name: traveling-stoat-980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942650038
+status: 3
+tags: []
+user_id: root

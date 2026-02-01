@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/2af2b4a797b94c59ae1eca26a8eb1509/artifacts
+end_time: 1769942646424
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 2af2b4a797b94c59ae1eca26a8eb1509
+run_name: gentle-swan-721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942646387
+status: 3
+tags: []
+user_id: root

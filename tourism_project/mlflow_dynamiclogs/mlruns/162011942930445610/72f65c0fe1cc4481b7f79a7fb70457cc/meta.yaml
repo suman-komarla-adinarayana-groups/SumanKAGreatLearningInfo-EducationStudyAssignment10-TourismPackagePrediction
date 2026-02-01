@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/72f65c0fe1cc4481b7f79a7fb70457cc/artifacts
+end_time: 1769942655885
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 72f65c0fe1cc4481b7f79a7fb70457cc
+run_name: spiffy-crane-787
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942655856
+status: 3
+tags: []
+user_id: root

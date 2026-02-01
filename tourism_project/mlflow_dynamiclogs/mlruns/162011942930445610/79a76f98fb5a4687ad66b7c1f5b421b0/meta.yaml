@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/79a76f98fb5a4687ad66b7c1f5b421b0/artifacts
+end_time: 1769942654202
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 79a76f98fb5a4687ad66b7c1f5b421b0
+run_name: youthful-grouse-680
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942654173
+status: 3
+tags: []
+user_id: root

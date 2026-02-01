@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/731f9cd4313e482a97ea9f8b428305e5/artifacts
+end_time: 1769942643655
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 731f9cd4313e482a97ea9f8b428305e5
+run_name: sincere-cow-464
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942643632
+status: 3
+tags: []
+user_id: root

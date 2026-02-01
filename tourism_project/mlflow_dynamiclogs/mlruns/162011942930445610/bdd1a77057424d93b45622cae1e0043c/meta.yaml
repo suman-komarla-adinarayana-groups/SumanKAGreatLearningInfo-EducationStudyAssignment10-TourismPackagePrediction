@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/bdd1a77057424d93b45622cae1e0043c/artifacts
+end_time: 1769942649656
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: bdd1a77057424d93b45622cae1e0043c
+run_name: rebellious-seal-7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942649630
+status: 3
+tags: []
+user_id: root

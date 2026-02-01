@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/e83486bf4dc34be68f2b449e84eaf215/artifacts
+end_time: 1769942657379
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: e83486bf4dc34be68f2b449e84eaf215
+run_name: calm-gull-188
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942657345
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/aaa8a073c9ff47d09a9dd4574b427877/artifacts
+end_time: 1769942636640
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: aaa8a073c9ff47d09a9dd4574b427877
+run_name: casual-skink-114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942636624
+status: 3
+tags: []
+user_id: root

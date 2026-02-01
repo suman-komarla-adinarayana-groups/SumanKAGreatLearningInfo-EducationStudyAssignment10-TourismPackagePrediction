@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/e4e64e9ee8a7465ea8c78af46d2b8047/artifacts
+end_time: 1769942652645
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: e4e64e9ee8a7465ea8c78af46d2b8047
+run_name: monumental-seal-919
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942652615
+status: 3
+tags: []
+user_id: root

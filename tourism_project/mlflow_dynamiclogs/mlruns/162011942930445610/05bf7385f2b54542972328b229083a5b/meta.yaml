@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/05bf7385f2b54542972328b229083a5b/artifacts
+end_time: 1769942636407
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 05bf7385f2b54542972328b229083a5b
+run_name: languid-shrike-448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942636391
+status: 3
+tags: []
+user_id: root

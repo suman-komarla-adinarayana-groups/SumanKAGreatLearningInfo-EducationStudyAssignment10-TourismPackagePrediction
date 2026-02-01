@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/6edeefcfac6c4ccfb800bc50ab286cda/artifacts
+end_time: 1769942640617
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 6edeefcfac6c4ccfb800bc50ab286cda
+run_name: painted-conch-18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942640597
+status: 3
+tags: []
+user_id: root

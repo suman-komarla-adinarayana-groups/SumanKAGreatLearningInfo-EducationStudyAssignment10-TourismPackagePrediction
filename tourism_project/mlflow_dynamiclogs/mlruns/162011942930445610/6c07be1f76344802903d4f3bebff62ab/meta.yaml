@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/6c07be1f76344802903d4f3bebff62ab/artifacts
+end_time: 1769942641017
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 6c07be1f76344802903d4f3bebff62ab
+run_name: resilient-flea-278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942640996
+status: 3
+tags: []
+user_id: root

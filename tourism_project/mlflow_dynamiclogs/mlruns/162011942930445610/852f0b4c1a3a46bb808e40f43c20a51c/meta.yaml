@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/852f0b4c1a3a46bb808e40f43c20a51c/artifacts
+end_time: 1769942639872
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 852f0b4c1a3a46bb808e40f43c20a51c
+run_name: masked-duck-431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942639852
+status: 3
+tags: []
+user_id: root

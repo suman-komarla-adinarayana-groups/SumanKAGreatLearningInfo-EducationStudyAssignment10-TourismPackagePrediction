@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/ab790d5d77034511a5e473d93241add3/artifacts
+end_time: 1769942644286
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: ab790d5d77034511a5e473d93241add3
+run_name: upbeat-lynx-57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942644262
+status: 3
+tags: []
+user_id: root

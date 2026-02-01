@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/76eecc3cc34b4070b2bcddac5b5415c9/artifacts
+end_time: 1769942653998
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 76eecc3cc34b4070b2bcddac5b5415c9
+run_name: bouncy-duck-697
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942653960
+status: 3
+tags: []
+user_id: root

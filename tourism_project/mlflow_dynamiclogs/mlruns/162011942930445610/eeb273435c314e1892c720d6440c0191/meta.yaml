@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/eeb273435c314e1892c720d6440c0191/artifacts
+end_time: 1769942655314
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: eeb273435c314e1892c720d6440c0191
+run_name: clumsy-swan-323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942655285
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/eec9e60f0e254256ba347ec4536485c0/artifacts
+end_time: 1769942651805
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: eec9e60f0e254256ba347ec4536485c0
+run_name: abrasive-fox-494
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942651776
+status: 3
+tags: []
+user_id: root

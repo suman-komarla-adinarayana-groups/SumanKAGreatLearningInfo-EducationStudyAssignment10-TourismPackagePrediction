@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/470f971afdae4fd6a20b5c59426eb0cb/artifacts
+end_time: 1769942639604
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 470f971afdae4fd6a20b5c59426eb0cb
+run_name: shivering-sponge-120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942639585
+status: 3
+tags: []
+user_id: root

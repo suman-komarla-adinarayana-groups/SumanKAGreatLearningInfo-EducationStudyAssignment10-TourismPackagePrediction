@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/b541496e4aeb40bb85b55c18a1dfea56/artifacts
+end_time: 1769942650962
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: b541496e4aeb40bb85b55c18a1dfea56
+run_name: stately-bird-676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942650934
+status: 3
+tags: []
+user_id: root

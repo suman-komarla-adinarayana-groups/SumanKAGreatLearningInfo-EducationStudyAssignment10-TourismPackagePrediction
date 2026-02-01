@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/7efd6ed62f204da59e702076f0caa241/artifacts
+end_time: 1769942650004
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 7efd6ed62f204da59e702076f0caa241
+run_name: awesome-owl-440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942649977
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/54dbe1df645f4f5b934261d5b7ebb35a/artifacts
+end_time: 1769942638363
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 54dbe1df645f4f5b934261d5b7ebb35a
+run_name: enchanting-whale-779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942638344
+status: 3
+tags: []
+user_id: root

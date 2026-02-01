@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/404fc0f64ea84b9d8c2160f5d7a7952a/artifacts
+end_time: 1769942642093
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 404fc0f64ea84b9d8c2160f5d7a7952a
+run_name: awesome-croc-32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942642072
+status: 3
+tags: []
+user_id: root

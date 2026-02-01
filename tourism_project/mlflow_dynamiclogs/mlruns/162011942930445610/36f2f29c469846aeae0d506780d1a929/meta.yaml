@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/36f2f29c469846aeae0d506780d1a929/artifacts
+end_time: 1769942650095
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 36f2f29c469846aeae0d506780d1a929
+run_name: languid-gnu-131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942650068
+status: 3
+tags: []
+user_id: root

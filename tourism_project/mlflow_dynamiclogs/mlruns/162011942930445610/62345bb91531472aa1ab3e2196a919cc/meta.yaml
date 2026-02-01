@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/62345bb91531472aa1ab3e2196a919cc/artifacts
+end_time: 1769942651945
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 62345bb91531472aa1ab3e2196a919cc
+run_name: indecisive-lamb-951
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942651904
+status: 3
+tags: []
+user_id: root

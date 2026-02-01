@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/0be2cb4e8817474885feb322d3417512/artifacts
+end_time: 1769942639784
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 0be2cb4e8817474885feb322d3417512
+run_name: bittersweet-kit-945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942639761
+status: 3
+tags: []
+user_id: root

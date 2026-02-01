@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/8954a907520b48f88c02544138ec2d97/artifacts
+end_time: 1769942637476
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 8954a907520b48f88c02544138ec2d97
+run_name: redolent-cub-683
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942637460
+status: 3
+tags: []
+user_id: root

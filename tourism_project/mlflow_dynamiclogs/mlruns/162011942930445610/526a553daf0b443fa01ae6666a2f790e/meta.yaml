@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/526a553daf0b443fa01ae6666a2f790e/artifacts
+end_time: 1769942637719
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 526a553daf0b443fa01ae6666a2f790e
+run_name: painted-asp-414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942637701
+status: 3
+tags: []
+user_id: root

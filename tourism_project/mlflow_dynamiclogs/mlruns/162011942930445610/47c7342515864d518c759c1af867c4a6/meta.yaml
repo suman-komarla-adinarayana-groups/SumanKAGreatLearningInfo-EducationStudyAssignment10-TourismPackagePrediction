@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/47c7342515864d518c759c1af867c4a6/artifacts
+end_time: 1769942637573
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 47c7342515864d518c759c1af867c4a6
+run_name: victorious-ram-841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942637555
+status: 3
+tags: []
+user_id: root

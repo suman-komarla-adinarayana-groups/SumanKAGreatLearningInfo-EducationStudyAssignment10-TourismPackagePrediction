@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/1551e296a58648588d6f49bb744f4d30/artifacts
+end_time: 1769942638719
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 1551e296a58648588d6f49bb744f4d30
+run_name: hilarious-midge-120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942638701
+status: 3
+tags: []
+user_id: root

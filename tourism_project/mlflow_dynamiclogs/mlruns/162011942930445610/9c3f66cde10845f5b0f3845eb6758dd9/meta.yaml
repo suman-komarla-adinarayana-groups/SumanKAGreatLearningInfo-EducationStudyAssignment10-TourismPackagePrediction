@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/9c3f66cde10845f5b0f3845eb6758dd9/artifacts
+end_time: 1769942648950
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 9c3f66cde10845f5b0f3845eb6758dd9
+run_name: capable-zebra-342
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942648907
+status: 3
+tags: []
+user_id: root

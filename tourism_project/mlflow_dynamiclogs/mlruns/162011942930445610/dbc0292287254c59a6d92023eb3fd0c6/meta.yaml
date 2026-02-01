@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/dbc0292287254c59a6d92023eb3fd0c6/artifacts
+end_time: 1769942643840
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: dbc0292287254c59a6d92023eb3fd0c6
+run_name: bemused-moth-971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942643816
+status: 3
+tags: []
+user_id: root

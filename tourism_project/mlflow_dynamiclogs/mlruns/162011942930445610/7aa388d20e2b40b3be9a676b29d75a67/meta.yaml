@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/7aa388d20e2b40b3be9a676b29d75a67/artifacts
+end_time: 1769942656483
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 7aa388d20e2b40b3be9a676b29d75a67
+run_name: chill-mink-407
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942656452
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/7a59100230e24ccb9d20f77b92b2a768/artifacts
+end_time: 1769942644662
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 7a59100230e24ccb9d20f77b92b2a768
+run_name: aged-lamb-685
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942644623
+status: 3
+tags: []
+user_id: root

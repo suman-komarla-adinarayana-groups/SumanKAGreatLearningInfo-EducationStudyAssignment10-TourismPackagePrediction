@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/8c4e7d017c2c48458aed7af2e1e37615/artifacts
+end_time: 1769942649454
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 8c4e7d017c2c48458aed7af2e1e37615
+run_name: bittersweet-jay-203
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942649428
+status: 3
+tags: []
+user_id: root

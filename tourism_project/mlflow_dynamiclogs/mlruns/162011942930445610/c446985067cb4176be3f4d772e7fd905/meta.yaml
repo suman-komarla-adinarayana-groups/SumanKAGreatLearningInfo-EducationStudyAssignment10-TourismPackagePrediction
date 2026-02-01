@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/c446985067cb4176be3f4d772e7fd905/artifacts
+end_time: 1769942645660
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: c446985067cb4176be3f4d772e7fd905
+run_name: luminous-newt-702
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942645621
+status: 3
+tags: []
+user_id: root

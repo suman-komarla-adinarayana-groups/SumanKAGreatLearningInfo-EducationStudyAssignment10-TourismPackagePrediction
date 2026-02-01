@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/94a16360525f44fc8db277481314a87e/artifacts
+end_time: 1769942647935
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 94a16360525f44fc8db277481314a87e
+run_name: skittish-cod-580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942647897
+status: 3
+tags: []
+user_id: root

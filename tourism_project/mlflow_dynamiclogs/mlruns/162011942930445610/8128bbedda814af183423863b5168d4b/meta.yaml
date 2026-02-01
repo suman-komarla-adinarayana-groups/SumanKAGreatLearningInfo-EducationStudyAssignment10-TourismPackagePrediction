@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/8128bbedda814af183423863b5168d4b/artifacts
+end_time: 1769942644488
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 8128bbedda814af183423863b5168d4b
+run_name: intrigued-stork-105
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942644447
+status: 3
+tags: []
+user_id: root

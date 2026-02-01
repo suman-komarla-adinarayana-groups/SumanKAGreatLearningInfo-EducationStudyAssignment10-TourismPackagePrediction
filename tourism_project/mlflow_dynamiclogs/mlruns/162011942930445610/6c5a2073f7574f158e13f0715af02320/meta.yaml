@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/6c5a2073f7574f158e13f0715af02320/artifacts
+end_time: 1769942653212
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 6c5a2073f7574f158e13f0715af02320
+run_name: mysterious-loon-244
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942653183
+status: 3
+tags: []
+user_id: root

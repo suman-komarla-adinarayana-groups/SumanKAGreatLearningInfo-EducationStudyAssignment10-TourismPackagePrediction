@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/a1bd9eee8a9a442a820a1b681835df55/artifacts
+end_time: 1769942637002
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: a1bd9eee8a9a442a820a1b681835df55
+run_name: burly-colt-953
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942636986
+status: 3
+tags: []
+user_id: root

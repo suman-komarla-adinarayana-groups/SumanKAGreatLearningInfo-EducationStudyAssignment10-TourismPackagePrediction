@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/af982d2be8404081acf06a2ed709d230/artifacts
+end_time: 1769942640432
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: af982d2be8404081acf06a2ed709d230
+run_name: judicious-hare-371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942640412
+status: 3
+tags: []
+user_id: root

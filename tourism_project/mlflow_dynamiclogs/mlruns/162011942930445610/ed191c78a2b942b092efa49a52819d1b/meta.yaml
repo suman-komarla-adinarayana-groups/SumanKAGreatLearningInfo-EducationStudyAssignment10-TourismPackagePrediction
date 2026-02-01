@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/ed191c78a2b942b092efa49a52819d1b/artifacts
+end_time: 1769942641475
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: ed191c78a2b942b092efa49a52819d1b
+run_name: popular-tern-621
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942641454
+status: 3
+tags: []
+user_id: root

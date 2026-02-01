@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/b9963335699641e8a5cb4be50347239c/artifacts
+end_time: 1769942650335
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: b9963335699641e8a5cb4be50347239c
+run_name: adorable-wolf-10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942650308
+status: 3
+tags: []
+user_id: root

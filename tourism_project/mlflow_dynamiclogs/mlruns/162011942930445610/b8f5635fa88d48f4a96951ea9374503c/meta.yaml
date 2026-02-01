@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/b8f5635fa88d48f4a96951ea9374503c/artifacts
+end_time: 1769942636838
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: b8f5635fa88d48f4a96951ea9374503c
+run_name: luxuriant-mouse-635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942636820
+status: 3
+tags: []
+user_id: root

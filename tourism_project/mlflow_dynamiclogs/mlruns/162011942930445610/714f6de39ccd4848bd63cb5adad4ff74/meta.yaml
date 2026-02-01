@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/714f6de39ccd4848bd63cb5adad4ff74/artifacts
+end_time: 1769942649042
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 714f6de39ccd4848bd63cb5adad4ff74
+run_name: exultant-seal-603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942649003
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/49718e18ca4545a9a8dde2a83e3bf117/artifacts
+end_time: 1769942644704
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 49718e18ca4545a9a8dde2a83e3bf117
+run_name: spiffy-elk-788
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942644666
+status: 3
+tags: []
+user_id: root

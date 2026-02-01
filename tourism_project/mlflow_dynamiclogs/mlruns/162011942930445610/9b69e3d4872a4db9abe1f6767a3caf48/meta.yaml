@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/9b69e3d4872a4db9abe1f6767a3caf48/artifacts
+end_time: 1769942637457
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 9b69e3d4872a4db9abe1f6767a3caf48
+run_name: caring-ant-966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942637440
+status: 3
+tags: []
+user_id: root

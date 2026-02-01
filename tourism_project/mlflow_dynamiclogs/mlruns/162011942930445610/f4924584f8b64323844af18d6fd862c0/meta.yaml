@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/f4924584f8b64323844af18d6fd862c0/artifacts
+end_time: 1769942646298
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: f4924584f8b64323844af18d6fd862c0
+run_name: invincible-mare-213
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942646257
+status: 3
+tags: []
+user_id: root

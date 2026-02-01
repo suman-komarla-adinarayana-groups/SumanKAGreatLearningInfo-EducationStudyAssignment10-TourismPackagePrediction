@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/a10d20984b0e48de8c1a2c5941f9ed22/artifacts
+end_time: 1769942636299
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: a10d20984b0e48de8c1a2c5941f9ed22
+run_name: burly-donkey-7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942636284
+status: 3
+tags: []
+user_id: root

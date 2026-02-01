@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/71cdac4d9dc94b8f937075f452117531/artifacts
+end_time: 1769942638870
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 71cdac4d9dc94b8f937075f452117531
+run_name: indecisive-gnu-383
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942638852
+status: 3
+tags: []
+user_id: root

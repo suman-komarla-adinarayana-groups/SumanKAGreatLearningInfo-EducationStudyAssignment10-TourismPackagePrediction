@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/58566b0a1cb049898b443ba91c166d9d/artifacts
+end_time: 1769942641524
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 58566b0a1cb049898b443ba91c166d9d
+run_name: traveling-robin-132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942641502
+status: 3
+tags: []
+user_id: root

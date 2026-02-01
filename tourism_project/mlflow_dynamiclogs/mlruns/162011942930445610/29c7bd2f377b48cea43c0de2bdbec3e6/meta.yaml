@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/29c7bd2f377b48cea43c0de2bdbec3e6/artifacts
+end_time: 1769942638404
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 29c7bd2f377b48cea43c0de2bdbec3e6
+run_name: righteous-squid-693
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942638386
+status: 3
+tags: []
+user_id: root

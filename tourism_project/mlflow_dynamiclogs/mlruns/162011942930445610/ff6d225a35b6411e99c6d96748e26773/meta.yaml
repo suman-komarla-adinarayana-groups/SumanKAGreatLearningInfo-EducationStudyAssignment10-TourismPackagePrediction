@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/ff6d225a35b6411e99c6d96748e26773/artifacts
+end_time: 1769942649512
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: ff6d225a35b6411e99c6d96748e26773
+run_name: nosy-sponge-452
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942649486
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/d7e4cfecbb234188aa6f157893f75516/artifacts
+end_time: 1769942652166
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: d7e4cfecbb234188aa6f157893f75516
+run_name: dazzling-duck-788
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942652137
+status: 3
+tags: []
+user_id: root

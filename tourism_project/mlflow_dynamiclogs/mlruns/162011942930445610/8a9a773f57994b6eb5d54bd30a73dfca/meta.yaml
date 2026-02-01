@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/8a9a773f57994b6eb5d54bd30a73dfca/artifacts
+end_time: 1769942653340
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 8a9a773f57994b6eb5d54bd30a73dfca
+run_name: valuable-panda-142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942653311
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/e749b3cade9b4b3b9e5993da0429b467/artifacts
+end_time: 1769942655952
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: e749b3cade9b4b3b9e5993da0429b467
+run_name: colorful-dolphin-927
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942655922
+status: 3
+tags: []
+user_id: root

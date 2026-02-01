@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/ee1addeec7764096a920d21e26812f43/artifacts
+end_time: 1769942651868
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: ee1addeec7764096a920d21e26812f43
+run_name: receptive-carp-944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942651839
+status: 3
+tags: []
+user_id: root

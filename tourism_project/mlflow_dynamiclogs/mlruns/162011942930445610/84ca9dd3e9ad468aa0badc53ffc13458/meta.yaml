@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/84ca9dd3e9ad468aa0badc53ffc13458/artifacts
+end_time: 1769942653436
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 84ca9dd3e9ad468aa0badc53ffc13458
+run_name: bouncy-newt-44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942653408
+status: 3
+tags: []
+user_id: root

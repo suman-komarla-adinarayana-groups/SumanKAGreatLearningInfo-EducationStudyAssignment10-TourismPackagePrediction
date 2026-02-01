@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/2cfcb66f1559401f875f10816e33d9c6/artifacts
+end_time: 1769942656939
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 2cfcb66f1559401f875f10816e33d9c6
+run_name: wise-duck-508
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942656907
+status: 3
+tags: []
+user_id: root

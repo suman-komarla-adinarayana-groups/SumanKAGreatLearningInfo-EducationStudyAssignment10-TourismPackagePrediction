@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/695b9d80430f4a8e8f0d40d9a19fb3a4/artifacts
+end_time: 1769942646810
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 695b9d80430f4a8e8f0d40d9a19fb3a4
+run_name: smiling-dolphin-483
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942646771
+status: 3
+tags: []
+user_id: root

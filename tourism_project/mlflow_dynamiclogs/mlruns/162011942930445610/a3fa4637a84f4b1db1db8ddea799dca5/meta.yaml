@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/a3fa4637a84f4b1db1db8ddea799dca5/artifacts
+end_time: 1769942639285
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: a3fa4637a84f4b1db1db8ddea799dca5
+run_name: bright-seal-547
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942639266
+status: 3
+tags: []
+user_id: root

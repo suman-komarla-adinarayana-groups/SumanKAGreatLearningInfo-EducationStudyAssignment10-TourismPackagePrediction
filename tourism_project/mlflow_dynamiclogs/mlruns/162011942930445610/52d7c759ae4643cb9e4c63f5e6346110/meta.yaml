@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/52d7c759ae4643cb9e4c63f5e6346110/artifacts
+end_time: 1769942654732
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 52d7c759ae4643cb9e4c63f5e6346110
+run_name: traveling-fox-259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942654702
+status: 3
+tags: []
+user_id: root

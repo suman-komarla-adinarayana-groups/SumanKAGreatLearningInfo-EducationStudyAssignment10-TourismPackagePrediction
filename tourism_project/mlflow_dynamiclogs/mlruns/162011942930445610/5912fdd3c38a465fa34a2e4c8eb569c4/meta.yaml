@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/5912fdd3c38a465fa34a2e4c8eb569c4/artifacts
+end_time: 1769942647262
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 5912fdd3c38a465fa34a2e4c8eb569c4
+run_name: stately-deer-782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942647220
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/e39cabd1ed2f415ca1e540fdb3c20084/artifacts
+end_time: 1769942641071
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: e39cabd1ed2f415ca1e540fdb3c20084
+run_name: bittersweet-eel-248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942641050
+status: 3
+tags: []
+user_id: root

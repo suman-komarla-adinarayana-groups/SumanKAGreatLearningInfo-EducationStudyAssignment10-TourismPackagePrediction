@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/f381576ee1ed46009c88dac13048de6d/artifacts
+end_time: 1769942638120
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: f381576ee1ed46009c88dac13048de6d
+run_name: luxuriant-bird-90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942638101
+status: 3
+tags: []
+user_id: root

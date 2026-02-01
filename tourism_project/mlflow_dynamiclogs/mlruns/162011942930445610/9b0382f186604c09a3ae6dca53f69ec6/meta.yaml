@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/9b0382f186604c09a3ae6dca53f69ec6/artifacts
+end_time: 1769942637616
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 9b0382f186604c09a3ae6dca53f69ec6
+run_name: nimble-kit-700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942637595
+status: 3
+tags: []
+user_id: root

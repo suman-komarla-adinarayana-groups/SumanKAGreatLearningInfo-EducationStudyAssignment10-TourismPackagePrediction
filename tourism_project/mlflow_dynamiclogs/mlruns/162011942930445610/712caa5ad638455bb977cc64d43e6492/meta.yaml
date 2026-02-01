@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/712caa5ad638455bb977cc64d43e6492/artifacts
+end_time: 1769942657127
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 712caa5ad638455bb977cc64d43e6492
+run_name: intrigued-steed-398
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942657084
+status: 3
+tags: []
+user_id: root

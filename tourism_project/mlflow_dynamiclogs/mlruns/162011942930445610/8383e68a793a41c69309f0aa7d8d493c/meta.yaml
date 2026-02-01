@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/8383e68a793a41c69309f0aa7d8d493c/artifacts
+end_time: 1769942638168
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 8383e68a793a41c69309f0aa7d8d493c
+run_name: casual-ram-792
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942638143
+status: 3
+tags: []
+user_id: root

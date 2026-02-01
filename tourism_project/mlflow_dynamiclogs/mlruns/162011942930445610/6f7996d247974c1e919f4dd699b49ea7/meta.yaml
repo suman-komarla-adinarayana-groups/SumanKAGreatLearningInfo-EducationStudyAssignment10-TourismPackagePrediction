@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/6f7996d247974c1e919f4dd699b49ea7/artifacts
+end_time: 1769942636603
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 6f7996d247974c1e919f4dd699b49ea7
+run_name: hilarious-hen-495
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942636588
+status: 3
+tags: []
+user_id: root

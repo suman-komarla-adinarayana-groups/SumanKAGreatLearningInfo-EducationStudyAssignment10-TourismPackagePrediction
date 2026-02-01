@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/7d1485c789b24bb2854cddd884a30898/artifacts
+end_time: 1769942641352
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 7d1485c789b24bb2854cddd884a30898
+run_name: awesome-boar-431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942641330
+status: 3
+tags: []
+user_id: root

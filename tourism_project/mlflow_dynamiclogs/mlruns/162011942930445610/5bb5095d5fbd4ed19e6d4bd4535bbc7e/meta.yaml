@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/5bb5095d5fbd4ed19e6d4bd4535bbc7e/artifacts
+end_time: 1769942641548
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 5bb5095d5fbd4ed19e6d4bd4535bbc7e
+run_name: abundant-ant-110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942641526
+status: 3
+tags: []
+user_id: root

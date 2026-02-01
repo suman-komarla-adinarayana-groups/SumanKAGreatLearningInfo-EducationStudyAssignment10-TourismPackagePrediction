@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/3f1574585e634495adabbb0cdf2a7f40/artifacts
+end_time: 1769942649811
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 3f1574585e634495adabbb0cdf2a7f40
+run_name: upset-smelt-325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942649784
+status: 3
+tags: []
+user_id: root

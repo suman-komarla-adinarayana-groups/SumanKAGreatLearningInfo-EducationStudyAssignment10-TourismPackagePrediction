@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/0db7b67f4b4d435e985e849c5d29335a/artifacts
+end_time: 1769942651097
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 0db7b67f4b4d435e985e849c5d29335a
+run_name: rogue-dove-757
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942651068
+status: 3
+tags: []
+user_id: root

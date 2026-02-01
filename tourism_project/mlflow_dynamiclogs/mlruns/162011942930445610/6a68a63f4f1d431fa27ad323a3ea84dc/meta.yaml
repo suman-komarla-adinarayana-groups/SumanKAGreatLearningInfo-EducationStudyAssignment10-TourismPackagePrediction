@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/6a68a63f4f1d431fa27ad323a3ea84dc/artifacts
+end_time: 1769942639519
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 6a68a63f4f1d431fa27ad323a3ea84dc
+run_name: gifted-owl-707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942639500
+status: 3
+tags: []
+user_id: root

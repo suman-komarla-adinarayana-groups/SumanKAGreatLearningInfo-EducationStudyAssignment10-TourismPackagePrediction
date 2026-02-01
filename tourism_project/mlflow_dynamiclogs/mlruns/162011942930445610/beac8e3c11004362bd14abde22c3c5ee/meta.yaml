@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/beac8e3c11004362bd14abde22c3c5ee/artifacts
+end_time: 1769942636550
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: beac8e3c11004362bd14abde22c3c5ee
+run_name: delicate-bear-689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942636534
+status: 3
+tags: []
+user_id: root

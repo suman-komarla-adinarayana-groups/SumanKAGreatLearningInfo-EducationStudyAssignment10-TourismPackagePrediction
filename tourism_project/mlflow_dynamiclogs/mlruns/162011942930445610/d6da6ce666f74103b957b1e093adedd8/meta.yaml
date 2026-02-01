@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/d6da6ce666f74103b957b1e093adedd8/artifacts
+end_time: 1769942639391
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: d6da6ce666f74103b957b1e093adedd8
+run_name: omniscient-dog-303
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942639372
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/011a7824e4374dcfbd631e5dc46f4ff7/artifacts
+end_time: 1769942644367
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 011a7824e4374dcfbd631e5dc46f4ff7
+run_name: hilarious-bee-831
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942644342
+status: 3
+tags: []
+user_id: root

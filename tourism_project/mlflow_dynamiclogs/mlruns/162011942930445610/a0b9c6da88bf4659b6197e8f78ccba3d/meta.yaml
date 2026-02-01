@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/a0b9c6da88bf4659b6197e8f78ccba3d/artifacts
+end_time: 1769942648266
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: a0b9c6da88bf4659b6197e8f78ccba3d
+run_name: redolent-vole-361
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942648219
+status: 3
+tags: []
+user_id: root

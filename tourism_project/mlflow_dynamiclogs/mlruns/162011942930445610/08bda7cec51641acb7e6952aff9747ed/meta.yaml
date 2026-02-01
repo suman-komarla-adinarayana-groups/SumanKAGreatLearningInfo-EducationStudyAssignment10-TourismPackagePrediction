@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/08bda7cec51641acb7e6952aff9747ed/artifacts
+end_time: 1769942645400
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 08bda7cec51641acb7e6952aff9747ed
+run_name: casual-ox-801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942645363
+status: 3
+tags: []
+user_id: root

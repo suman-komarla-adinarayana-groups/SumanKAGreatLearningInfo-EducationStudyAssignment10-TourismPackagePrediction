@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/af63da8a1ed349ff8313323a4456b85a/artifacts
+end_time: 1769942636103
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: af63da8a1ed349ff8313323a4456b85a
+run_name: indecisive-grouse-24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942636079
+status: 3
+tags: []
+user_id: root

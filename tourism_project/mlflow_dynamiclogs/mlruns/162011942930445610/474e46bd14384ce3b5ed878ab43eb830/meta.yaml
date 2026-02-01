@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/474e46bd14384ce3b5ed878ab43eb830/artifacts
+end_time: 1769942655479
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 474e46bd14384ce3b5ed878ab43eb830
+run_name: languid-hound-433
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942655449
+status: 3
+tags: []
+user_id: root

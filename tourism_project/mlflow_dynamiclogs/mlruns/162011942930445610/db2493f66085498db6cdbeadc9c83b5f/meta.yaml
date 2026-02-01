@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/db2493f66085498db6cdbeadc9c83b5f/artifacts
+end_time: 1769942638059
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: db2493f66085498db6cdbeadc9c83b5f
+run_name: sedate-zebra-986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942638042
+status: 3
+tags: []
+user_id: root

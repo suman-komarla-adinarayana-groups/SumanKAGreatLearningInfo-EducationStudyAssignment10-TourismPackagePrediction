@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/295c9ebb7e4140998deee88eb643553a/artifacts
+end_time: 1769942655985
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 295c9ebb7e4140998deee88eb643553a
+run_name: abundant-dolphin-642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942655955
+status: 3
+tags: []
+user_id: root

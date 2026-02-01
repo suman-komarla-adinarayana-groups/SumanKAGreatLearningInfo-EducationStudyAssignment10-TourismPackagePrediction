@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/49c17a26b90a40df9ed7aaba35965239/artifacts
+end_time: 1769942642672
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 49c17a26b90a40df9ed7aaba35965239
+run_name: sedate-eel-566
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942642649
+status: 3
+tags: []
+user_id: root

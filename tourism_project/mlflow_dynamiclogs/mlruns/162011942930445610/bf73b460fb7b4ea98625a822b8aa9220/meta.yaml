@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/bf73b460fb7b4ea98625a822b8aa9220/artifacts
+end_time: 1769942641404
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: bf73b460fb7b4ea98625a822b8aa9220
+run_name: handsome-mole-399
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942641381
+status: 3
+tags: []
+user_id: root

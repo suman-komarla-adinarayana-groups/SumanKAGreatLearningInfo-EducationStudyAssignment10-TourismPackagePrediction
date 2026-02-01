@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/1acdc555c8bd47838e2550d589e258fe/artifacts
+end_time: 1769942655819
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 1acdc555c8bd47838e2550d589e258fe
+run_name: defiant-dove-432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942655788
+status: 3
+tags: []
+user_id: root

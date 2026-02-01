@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/58dbfb145b3c416eadd72a49ba8bb4be/artifacts
+end_time: 1769942642217
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 58dbfb145b3c416eadd72a49ba8bb4be
+run_name: able-goose-278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942642195
+status: 3
+tags: []
+user_id: root

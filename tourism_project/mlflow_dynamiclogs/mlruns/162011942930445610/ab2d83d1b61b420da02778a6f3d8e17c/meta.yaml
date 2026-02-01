@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/ab2d83d1b61b420da02778a6f3d8e17c/artifacts
+end_time: 1769942645101
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: ab2d83d1b61b420da02778a6f3d8e17c
+run_name: bemused-grub-144
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942645062
+status: 3
+tags: []
+user_id: root

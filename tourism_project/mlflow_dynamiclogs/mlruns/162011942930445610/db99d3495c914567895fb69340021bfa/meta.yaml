@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/db99d3495c914567895fb69340021bfa/artifacts
+end_time: 1769942636681
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: db99d3495c914567895fb69340021bfa
+run_name: righteous-sow-142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942636663
+status: 3
+tags: []
+user_id: root

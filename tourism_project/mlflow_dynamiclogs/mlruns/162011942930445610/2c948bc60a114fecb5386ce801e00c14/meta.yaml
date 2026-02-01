@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/2c948bc60a114fecb5386ce801e00c14/artifacts
+end_time: 1769942657273
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 2c948bc60a114fecb5386ce801e00c14
+run_name: bald-boar-759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942657238
+status: 3
+tags: []
+user_id: root

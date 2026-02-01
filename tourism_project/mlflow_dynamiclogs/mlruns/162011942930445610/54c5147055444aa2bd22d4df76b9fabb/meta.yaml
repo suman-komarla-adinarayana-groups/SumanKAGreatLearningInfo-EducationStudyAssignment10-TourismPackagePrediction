@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/54c5147055444aa2bd22d4df76b9fabb/artifacts
+end_time: 1769942651219
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 54c5147055444aa2bd22d4df76b9fabb
+run_name: indecisive-crow-600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942651192
+status: 3
+tags: []
+user_id: root

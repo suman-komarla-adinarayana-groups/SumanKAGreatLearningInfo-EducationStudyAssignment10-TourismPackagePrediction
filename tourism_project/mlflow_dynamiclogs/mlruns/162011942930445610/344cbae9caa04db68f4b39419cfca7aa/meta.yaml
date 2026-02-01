@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/344cbae9caa04db68f4b39419cfca7aa/artifacts
+end_time: 1769942641237
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 344cbae9caa04db68f4b39419cfca7aa
+run_name: carefree-hare-858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942641216
+status: 3
+tags: []
+user_id: root

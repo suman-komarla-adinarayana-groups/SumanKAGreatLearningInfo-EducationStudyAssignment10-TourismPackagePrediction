@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/3750cb97966843d7a6f47adb76cdc330/artifacts
+end_time: 1769942646117
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 3750cb97966843d7a6f47adb76cdc330
+run_name: bedecked-lamb-244
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942646076
+status: 3
+tags: []
+user_id: root

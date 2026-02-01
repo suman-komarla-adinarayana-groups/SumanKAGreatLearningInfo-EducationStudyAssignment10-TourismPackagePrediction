@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/04b9867102fb4cb4b5e8e8c8047407c3/artifacts
+end_time: 1769942643552
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 04b9867102fb4cb4b5e8e8c8047407c3
+run_name: worried-dove-666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942643529
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/16bb82a168de4c4881aea76ba656da77/artifacts
+end_time: 1769942649540
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 16bb82a168de4c4881aea76ba656da77
+run_name: awesome-grub-698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942649515
+status: 3
+tags: []
+user_id: root

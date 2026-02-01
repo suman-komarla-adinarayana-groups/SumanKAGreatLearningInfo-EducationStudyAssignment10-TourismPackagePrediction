@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/eb534a26d15b489db957f3c808b0d7f4/artifacts
+end_time: 1769942639123
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: eb534a26d15b489db957f3c808b0d7f4
+run_name: worried-rat-693
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942639103
+status: 3
+tags: []
+user_id: root

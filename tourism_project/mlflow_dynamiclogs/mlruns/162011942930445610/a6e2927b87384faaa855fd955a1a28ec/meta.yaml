@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/a6e2927b87384faaa855fd955a1a28ec/artifacts
+end_time: 1769942651064
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: a6e2927b87384faaa855fd955a1a28ec
+run_name: nervous-worm-146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942651029
+status: 3
+tags: []
+user_id: root

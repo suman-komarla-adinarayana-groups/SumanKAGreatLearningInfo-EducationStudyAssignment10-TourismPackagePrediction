@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/9826f902ce324383a333d3bad3af1d58/artifacts
+end_time: 1769942636174
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 9826f902ce324383a333d3bad3af1d58
+run_name: masked-gnu-96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942636159
+status: 3
+tags: []
+user_id: root

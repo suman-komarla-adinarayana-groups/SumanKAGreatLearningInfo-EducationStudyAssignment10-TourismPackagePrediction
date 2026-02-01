@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/bbccfdc71988463f95c4ccd6b2240acb/artifacts
+end_time: 1769942636660
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: bbccfdc71988463f95c4ccd6b2240acb
+run_name: magnificent-crow-945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942636643
+status: 3
+tags: []
+user_id: root

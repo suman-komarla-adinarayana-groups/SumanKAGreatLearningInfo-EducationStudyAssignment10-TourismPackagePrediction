@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/ed3ec24e2cdd49c0b464e6ad54c36a42/artifacts
+end_time: 1769942644260
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: ed3ec24e2cdd49c0b464e6ad54c36a42
+run_name: able-shad-440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942644235
+status: 3
+tags: []
+user_id: root

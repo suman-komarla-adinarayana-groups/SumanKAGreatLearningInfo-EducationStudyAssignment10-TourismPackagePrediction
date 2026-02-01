@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/cd55a2a529284d9ca70da0f4414db2dc/artifacts
+end_time: 1769942649215
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: cd55a2a529284d9ca70da0f4414db2dc
+run_name: able-bat-686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942649189
+status: 3
+tags: []
+user_id: root

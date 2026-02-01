@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/682122a6398d45d4be60ff1567574bac/artifacts
+end_time: 1769942638634
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 682122a6398d45d4be60ff1567574bac
+run_name: popular-lark-971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942638614
+status: 3
+tags: []
+user_id: root

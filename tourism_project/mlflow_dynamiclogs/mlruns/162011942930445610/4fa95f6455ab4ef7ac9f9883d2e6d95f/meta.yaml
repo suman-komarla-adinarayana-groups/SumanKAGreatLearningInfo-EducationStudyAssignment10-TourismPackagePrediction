@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/4fa95f6455ab4ef7ac9f9883d2e6d95f/artifacts
+end_time: 1769942645617
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 4fa95f6455ab4ef7ac9f9883d2e6d95f
+run_name: amusing-squirrel-479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942645580
+status: 3
+tags: []
+user_id: root

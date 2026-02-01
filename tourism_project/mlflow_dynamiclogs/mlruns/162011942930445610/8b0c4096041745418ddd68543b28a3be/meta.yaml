@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/8b0c4096041745418ddd68543b28a3be/artifacts
+end_time: 1769942642751
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 8b0c4096041745418ddd68543b28a3be
+run_name: rare-deer-670
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942642727
+status: 3
+tags: []
+user_id: root

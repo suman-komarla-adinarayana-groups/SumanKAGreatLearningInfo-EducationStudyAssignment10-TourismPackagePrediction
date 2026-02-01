@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/46060ff7f2c941e9a60d6236521bebf9/artifacts
+end_time: 1769942640547
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 46060ff7f2c941e9a60d6236521bebf9
+run_name: upset-deer-31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942640527
+status: 3
+tags: []
+user_id: root

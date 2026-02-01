@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/d8e8f28127184a3ab8d32e71e6c8e384/artifacts
+end_time: 1769942637679
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: d8e8f28127184a3ab8d32e71e6c8e384
+run_name: awesome-sponge-740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942637661
+status: 3
+tags: []
+user_id: root

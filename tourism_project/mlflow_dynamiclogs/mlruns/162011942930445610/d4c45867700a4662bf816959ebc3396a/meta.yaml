@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/d4c45867700a4662bf816959ebc3396a/artifacts
+end_time: 1769942637515
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: d4c45867700a4662bf816959ebc3396a
+run_name: sassy-robin-40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942637497
+status: 3
+tags: []
+user_id: root

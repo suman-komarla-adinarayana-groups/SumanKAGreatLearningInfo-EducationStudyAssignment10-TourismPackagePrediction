@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/873adad10978417783b7358e2d11f3b0/artifacts
+end_time: 1769942646383
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 873adad10978417783b7358e2d11f3b0
+run_name: funny-chimp-822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942646345
+status: 3
+tags: []
+user_id: root

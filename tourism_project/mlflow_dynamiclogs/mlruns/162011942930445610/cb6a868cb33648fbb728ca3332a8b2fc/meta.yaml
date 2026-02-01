@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/cb6a868cb33648fbb728ca3332a8b2fc/artifacts
+end_time: 1769942639626
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: cb6a868cb33648fbb728ca3332a8b2fc
+run_name: upset-bee-793
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942639606
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/a05ef0141ff549ecafec7d8c8a74606f/artifacts
+end_time: 1769942653663
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: a05ef0141ff549ecafec7d8c8a74606f
+run_name: magnificent-worm-851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942653633
+status: 3
+tags: []
+user_id: root

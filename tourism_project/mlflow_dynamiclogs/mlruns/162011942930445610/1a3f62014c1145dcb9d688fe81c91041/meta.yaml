@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/1a3f62014c1145dcb9d688fe81c91041/artifacts
+end_time: 1769942657519
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 1a3f62014c1145dcb9d688fe81c91041
+run_name: welcoming-gnat-724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942657488
+status: 3
+tags: []
+user_id: root

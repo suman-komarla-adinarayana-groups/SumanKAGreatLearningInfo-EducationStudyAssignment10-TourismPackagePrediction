@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/32b5d8206f3642b8a9c4f7105a45df00/artifacts
+end_time: 1769942651557
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 32b5d8206f3642b8a9c4f7105a45df00
+run_name: big-shrew-436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942651530
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/1fc3ec8d87de40bf9348e9118d73524a/artifacts
+end_time: 1769942656212
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 1fc3ec8d87de40bf9348e9118d73524a
+run_name: unruly-toad-441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942656182
+status: 3
+tags: []
+user_id: root

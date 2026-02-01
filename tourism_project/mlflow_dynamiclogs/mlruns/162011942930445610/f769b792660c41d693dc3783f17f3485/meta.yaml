@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/f769b792660c41d693dc3783f17f3485/artifacts
+end_time: 1769942647666
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: f769b792660c41d693dc3783f17f3485
+run_name: bedecked-goat-772
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942647622
+status: 3
+tags: []
+user_id: root

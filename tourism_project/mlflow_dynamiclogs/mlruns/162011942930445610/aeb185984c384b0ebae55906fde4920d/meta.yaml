@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/aeb185984c384b0ebae55906fde4920d/artifacts
+end_time: 1769942637438
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: aeb185984c384b0ebae55906fde4920d
+run_name: casual-pig-997
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942637422
+status: 3
+tags: []
+user_id: root

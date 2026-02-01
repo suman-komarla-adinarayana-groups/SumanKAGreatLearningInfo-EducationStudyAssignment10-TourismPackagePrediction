@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/51eb4ad8519d4afb9eb31109c7812fa7/artifacts
+end_time: 1769942638849
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 51eb4ad8519d4afb9eb31109c7812fa7
+run_name: languid-sheep-368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942638831
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/e796bcf4488a435aa6a470a702a2148f/artifacts
+end_time: 1769942653565
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: e796bcf4488a435aa6a470a702a2148f
+run_name: wistful-ox-94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942653536
+status: 3
+tags: []
+user_id: root

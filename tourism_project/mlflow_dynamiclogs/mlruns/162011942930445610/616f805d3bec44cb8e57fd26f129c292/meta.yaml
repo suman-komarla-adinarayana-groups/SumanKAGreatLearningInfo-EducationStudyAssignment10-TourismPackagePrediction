@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/616f805d3bec44cb8e57fd26f129c292/artifacts
+end_time: 1769942637079
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 616f805d3bec44cb8e57fd26f129c292
+run_name: unequaled-grub-887
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942637063
+status: 3
+tags: []
+user_id: root

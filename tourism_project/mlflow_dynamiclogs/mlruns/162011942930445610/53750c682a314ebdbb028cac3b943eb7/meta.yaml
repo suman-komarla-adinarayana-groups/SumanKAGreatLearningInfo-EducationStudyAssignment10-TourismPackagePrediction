@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/53750c682a314ebdbb028cac3b943eb7/artifacts
+end_time: 1769942649071
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 53750c682a314ebdbb028cac3b943eb7
+run_name: puzzled-crane-151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942649045
+status: 3
+tags: []
+user_id: root

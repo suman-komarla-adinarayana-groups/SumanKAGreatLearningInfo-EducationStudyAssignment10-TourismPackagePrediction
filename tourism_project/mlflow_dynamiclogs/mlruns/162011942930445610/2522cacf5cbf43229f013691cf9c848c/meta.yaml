@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/2522cacf5cbf43229f013691cf9c848c/artifacts
+end_time: 1769942643499
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 2522cacf5cbf43229f013691cf9c848c
+run_name: unleashed-hound-7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942643476
+status: 3
+tags: []
+user_id: root

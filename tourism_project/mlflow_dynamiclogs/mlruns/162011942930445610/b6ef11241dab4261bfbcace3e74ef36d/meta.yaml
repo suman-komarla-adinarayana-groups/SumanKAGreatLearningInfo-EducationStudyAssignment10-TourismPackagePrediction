@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/b6ef11241dab4261bfbcace3e74ef36d/artifacts
+end_time: 1769942652612
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: b6ef11241dab4261bfbcace3e74ef36d
+run_name: polite-chimp-844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942652583
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/9dfda07f9109459cbe016b662f62f5f9/artifacts
+end_time: 1769942651587
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 9dfda07f9109459cbe016b662f62f5f9
+run_name: capricious-cub-41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942651560
+status: 3
+tags: []
+user_id: root

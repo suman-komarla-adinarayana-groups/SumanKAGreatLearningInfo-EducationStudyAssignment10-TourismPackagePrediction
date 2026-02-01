@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/da29f00ef0b646d49d8a7570c7e86e56/artifacts
+end_time: 1769942640831
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: da29f00ef0b646d49d8a7570c7e86e56
+run_name: carefree-stork-476
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942640811
+status: 3
+tags: []
+user_id: root

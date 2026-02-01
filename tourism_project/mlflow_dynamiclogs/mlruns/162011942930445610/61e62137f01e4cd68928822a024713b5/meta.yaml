@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/61e62137f01e4cd68928822a024713b5/artifacts
+end_time: 1769942640994
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 61e62137f01e4cd68928822a024713b5
+run_name: awesome-dog-319
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942640973
+status: 3
+tags: []
+user_id: root

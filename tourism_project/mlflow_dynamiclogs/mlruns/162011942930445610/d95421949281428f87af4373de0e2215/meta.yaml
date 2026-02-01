@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/d95421949281428f87af4373de0e2215/artifacts
+end_time: 1769942656246
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: d95421949281428f87af4373de0e2215
+run_name: crawling-sheep-112
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942656215
+status: 3
+tags: []
+user_id: root

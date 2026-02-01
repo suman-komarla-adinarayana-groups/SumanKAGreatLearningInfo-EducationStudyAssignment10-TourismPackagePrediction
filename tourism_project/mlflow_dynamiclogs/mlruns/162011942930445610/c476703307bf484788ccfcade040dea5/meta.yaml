@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/c476703307bf484788ccfcade040dea5/artifacts
+end_time: 1769942648902
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: c476703307bf484788ccfcade040dea5
+run_name: indecisive-hawk-374
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942648857
+status: 3
+tags: []
+user_id: root

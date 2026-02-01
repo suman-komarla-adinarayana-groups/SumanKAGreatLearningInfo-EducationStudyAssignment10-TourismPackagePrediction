@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/b66f05a23a7c444cbea421888ac45ea3/artifacts
+end_time: 1769942638976
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: b66f05a23a7c444cbea421888ac45ea3
+run_name: sedate-rook-635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942638958
+status: 3
+tags: []
+user_id: root

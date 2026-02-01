@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/8cb5664044234e22838e88f8410b4d62/artifacts
+end_time: 1769942639963
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 8cb5664044234e22838e88f8410b4d62
+run_name: wise-penguin-652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942639941
+status: 3
+tags: []
+user_id: root

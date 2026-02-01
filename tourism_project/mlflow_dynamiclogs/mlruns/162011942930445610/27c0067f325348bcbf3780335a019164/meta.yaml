@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/27c0067f325348bcbf3780335a019164/artifacts
+end_time: 1769942638140
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 27c0067f325348bcbf3780335a019164
+run_name: worried-carp-945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942638122
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/d3ad9602bf7442f8ad143de71d423af5/artifacts
+end_time: 1769942638891
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: d3ad9602bf7442f8ad143de71d423af5
+run_name: clumsy-colt-539
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942638873
+status: 3
+tags: []
+user_id: root

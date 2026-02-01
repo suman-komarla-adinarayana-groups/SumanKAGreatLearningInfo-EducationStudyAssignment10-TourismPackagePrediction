@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/33cc558026a4412a92bd89d382d609a3/artifacts
+end_time: 1769942653728
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 33cc558026a4412a92bd89d382d609a3
+run_name: dazzling-worm-851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942653699
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/fba9ce0c0ea0407bb69c6739e700eaac/artifacts
+end_time: 1769942643074
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: fba9ce0c0ea0407bb69c6739e700eaac
+run_name: painted-cod-785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942643049
+status: 3
+tags: []
+user_id: root

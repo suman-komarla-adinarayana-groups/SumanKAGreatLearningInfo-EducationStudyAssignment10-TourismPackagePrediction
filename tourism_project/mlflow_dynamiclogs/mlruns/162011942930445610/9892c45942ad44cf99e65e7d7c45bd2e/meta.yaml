@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/9892c45942ad44cf99e65e7d7c45bd2e/artifacts
+end_time: 1769942645488
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 9892c45942ad44cf99e65e7d7c45bd2e
+run_name: secretive-hawk-633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942645446
+status: 3
+tags: []
+user_id: root

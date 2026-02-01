@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/cceb36b7729645de939eb1628d2d4d6a/artifacts
+end_time: 1769942639434
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: cceb36b7729645de939eb1628d2d4d6a
+run_name: mercurial-pug-311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942639415
+status: 3
+tags: []
+user_id: root

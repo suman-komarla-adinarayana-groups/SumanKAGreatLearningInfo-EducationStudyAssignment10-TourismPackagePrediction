@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/9accde2d6e7349dfa2030446129270d2/artifacts
+end_time: 1769942639540
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 9accde2d6e7349dfa2030446129270d2
+run_name: clean-moth-446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942639521
+status: 3
+tags: []
+user_id: root

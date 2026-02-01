@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/ee11048b227140bfb53bacaaa9a43bfb/artifacts
+end_time: 1769942636075
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: ee11048b227140bfb53bacaaa9a43bfb
+run_name: burly-mink-517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942636055
+status: 3
+tags: []
+user_id: root

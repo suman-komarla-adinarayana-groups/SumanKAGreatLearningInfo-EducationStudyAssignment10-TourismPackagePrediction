@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/875520d5d202427f881c8438ec2ec64a/artifacts
+end_time: 1769942645927
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 875520d5d202427f881c8438ec2ec64a
+run_name: abrasive-mouse-555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942645888
+status: 3
+tags: []
+user_id: root

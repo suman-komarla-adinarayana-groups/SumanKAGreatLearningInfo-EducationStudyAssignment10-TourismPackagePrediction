@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/a9be0e57c54e411c87cfc1754dac13e7/artifacts
+end_time: 1769942652291
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: a9be0e57c54e411c87cfc1754dac13e7
+run_name: powerful-steed-23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942652263
+status: 3
+tags: []
+user_id: root

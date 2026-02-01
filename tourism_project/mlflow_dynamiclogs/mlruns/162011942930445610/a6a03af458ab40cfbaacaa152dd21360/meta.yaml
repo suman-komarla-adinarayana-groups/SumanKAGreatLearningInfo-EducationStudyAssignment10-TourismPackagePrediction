@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/a6a03af458ab40cfbaacaa152dd21360/artifacts
+end_time: 1769942645883
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: a6a03af458ab40cfbaacaa152dd21360
+run_name: painted-slug-872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942645842
+status: 3
+tags: []
+user_id: root

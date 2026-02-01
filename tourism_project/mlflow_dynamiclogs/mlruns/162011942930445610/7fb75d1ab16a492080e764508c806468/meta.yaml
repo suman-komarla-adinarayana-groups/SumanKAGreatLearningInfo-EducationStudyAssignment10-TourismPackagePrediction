@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/7fb75d1ab16a492080e764508c806468/artifacts
+end_time: 1769942648693
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 7fb75d1ab16a492080e764508c806468
+run_name: debonair-perch-720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942648651
+status: 3
+tags: []
+user_id: root

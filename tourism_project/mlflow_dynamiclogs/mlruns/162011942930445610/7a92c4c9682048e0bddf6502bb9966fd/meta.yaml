@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/7a92c4c9682048e0bddf6502bb9966fd/artifacts
+end_time: 1769942656282
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 7a92c4c9682048e0bddf6502bb9966fd
+run_name: enthused-grouse-74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942656250
+status: 3
+tags: []
+user_id: root

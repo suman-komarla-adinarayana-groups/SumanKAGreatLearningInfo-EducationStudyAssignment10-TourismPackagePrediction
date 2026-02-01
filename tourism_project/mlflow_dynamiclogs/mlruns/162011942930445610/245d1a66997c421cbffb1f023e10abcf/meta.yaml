@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/245d1a66997c421cbffb1f023e10abcf/artifacts
+end_time: 1769942639080
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 245d1a66997c421cbffb1f023e10abcf
+run_name: valuable-snail-941
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942639061
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/f77bd0c4f9f74dd29b981b199dc4a11a/artifacts
+end_time: 1769942646856
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: f77bd0c4f9f74dd29b981b199dc4a11a
+run_name: trusting-cow-270
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942646814
+status: 3
+tags: []
+user_id: root

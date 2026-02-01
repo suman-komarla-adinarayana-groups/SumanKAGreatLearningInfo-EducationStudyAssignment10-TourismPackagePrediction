@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/86975151ec2e4723a04dce4452a66f85/artifacts
+end_time: 1769942643046
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 86975151ec2e4723a04dce4452a66f85
+run_name: unique-yak-509
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942643020
+status: 3
+tags: []
+user_id: root

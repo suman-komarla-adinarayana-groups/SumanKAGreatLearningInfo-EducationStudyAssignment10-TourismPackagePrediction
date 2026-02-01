@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/8103e2fe0d4f4e40aa729fa2c459e564/artifacts
+end_time: 1769942653180
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 8103e2fe0d4f4e40aa729fa2c459e564
+run_name: thundering-roo-807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942653148
+status: 3
+tags: []
+user_id: root

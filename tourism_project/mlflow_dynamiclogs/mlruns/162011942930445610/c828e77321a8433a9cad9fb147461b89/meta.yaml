@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/c828e77321a8433a9cad9fb147461b89/artifacts
+end_time: 1769942647310
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: c828e77321a8433a9cad9fb147461b89
+run_name: zealous-panda-291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942647266
+status: 3
+tags: []
+user_id: root

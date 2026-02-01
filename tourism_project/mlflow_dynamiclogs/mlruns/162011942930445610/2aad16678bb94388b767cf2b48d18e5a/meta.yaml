@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/2aad16678bb94388b767cf2b48d18e5a/artifacts
+end_time: 1769942647713
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 2aad16678bb94388b767cf2b48d18e5a
+run_name: efficient-loon-407
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942647671
+status: 3
+tags: []
+user_id: root

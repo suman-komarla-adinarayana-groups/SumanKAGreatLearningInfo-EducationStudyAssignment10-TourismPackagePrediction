@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/61b9ff4b24384c3ea27be79476218ab2/artifacts
+end_time: 1769942636984
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 61b9ff4b24384c3ea27be79476218ab2
+run_name: whimsical-zebra-291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942636968
+status: 3
+tags: []
+user_id: root

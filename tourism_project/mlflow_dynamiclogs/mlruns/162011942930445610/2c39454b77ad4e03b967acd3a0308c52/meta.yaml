@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/2c39454b77ad4e03b967acd3a0308c52/artifacts
+end_time: 1769942638039
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 2c39454b77ad4e03b967acd3a0308c52
+run_name: calm-fawn-129
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942638022
+status: 3
+tags: []
+user_id: root

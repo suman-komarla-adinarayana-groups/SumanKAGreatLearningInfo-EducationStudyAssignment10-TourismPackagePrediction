@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/bdc2fb5a03c0417a8fbcf30b9459ba24/artifacts
+end_time: 1769942651189
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: bdc2fb5a03c0417a8fbcf30b9459ba24
+run_name: clean-cub-543
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942651161
+status: 3
+tags: []
+user_id: root

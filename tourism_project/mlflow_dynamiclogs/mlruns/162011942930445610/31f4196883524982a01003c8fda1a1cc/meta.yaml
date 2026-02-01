@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/31f4196883524982a01003c8fda1a1cc/artifacts
+end_time: 1769942652386
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 31f4196883524982a01003c8fda1a1cc
+run_name: rogue-snail-248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942652356
+status: 3
+tags: []
+user_id: root

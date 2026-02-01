@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/ffb4b2a69b664be48f9f68fcf474b161/artifacts
+end_time: 1769942648600
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: ffb4b2a69b664be48f9f68fcf474b161
+run_name: capricious-lamb-82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942648556
+status: 3
+tags: []
+user_id: root

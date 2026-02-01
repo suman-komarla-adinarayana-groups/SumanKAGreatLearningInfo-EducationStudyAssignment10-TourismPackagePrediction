@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/768d69d87f064d3dac6f028f01fcbaae/artifacts
+end_time: 1769942651372
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 768d69d87f064d3dac6f028f01fcbaae
+run_name: handsome-swan-752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942651343
+status: 3
+tags: []
+user_id: root

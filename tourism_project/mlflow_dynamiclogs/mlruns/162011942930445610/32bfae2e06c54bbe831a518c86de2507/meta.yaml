@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/32bfae2e06c54bbe831a518c86de2507/artifacts
+end_time: 1769942653829
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 32bfae2e06c54bbe831a518c86de2507
+run_name: redolent-owl-574
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942653801
+status: 3
+tags: []
+user_id: root

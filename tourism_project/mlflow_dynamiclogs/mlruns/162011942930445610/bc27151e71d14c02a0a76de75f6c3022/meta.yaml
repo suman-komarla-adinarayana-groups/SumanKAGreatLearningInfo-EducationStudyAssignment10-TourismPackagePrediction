@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/bc27151e71d14c02a0a76de75f6c3022/artifacts
+end_time: 1769942641327
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: bc27151e71d14c02a0a76de75f6c3022
+run_name: funny-midge-642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942641303
+status: 3
+tags: []
+user_id: root

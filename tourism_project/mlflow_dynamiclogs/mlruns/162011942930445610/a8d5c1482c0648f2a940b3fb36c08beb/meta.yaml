@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/a8d5c1482c0648f2a940b3fb36c08beb/artifacts
+end_time: 1769942641299
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: a8d5c1482c0648f2a940b3fb36c08beb
+run_name: capricious-newt-328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942641266
+status: 3
+tags: []
+user_id: root

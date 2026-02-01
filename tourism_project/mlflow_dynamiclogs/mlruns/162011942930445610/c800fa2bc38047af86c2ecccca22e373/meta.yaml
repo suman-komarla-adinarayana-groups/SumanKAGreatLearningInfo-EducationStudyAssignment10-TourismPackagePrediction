@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/c800fa2bc38047af86c2ecccca22e373/artifacts
+end_time: 1769942636425
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: c800fa2bc38047af86c2ecccca22e373
+run_name: industrious-bat-0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942636410
+status: 3
+tags: []
+user_id: root

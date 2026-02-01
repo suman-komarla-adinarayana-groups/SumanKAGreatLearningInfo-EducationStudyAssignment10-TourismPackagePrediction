@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/162011942930445610/04f3518c6d194c6090abd77875805b5d/artifacts
+end_time: 1769942652228
+entry_point_name: ''
+experiment_id: '162011942930445610'
+lifecycle_stage: active
+run_id: 04f3518c6d194c6090abd77875805b5d
+run_name: classy-mole-795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769942652200
+status: 3
+tags: []
+user_id: root
